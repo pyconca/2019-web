@@ -1,0 +1,11 @@
+.btn-pyconca {
+  background-color: #0e84a3;
+  border-color: #0e84a3;
+  color: #fdf5e6;
+}
+
+.btn-pyconca:hover {
+  background-color: #6ac5b6;
+  border-color: #6ac5b6;
+  color: #fdf5e6;
+}
