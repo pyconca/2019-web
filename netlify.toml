@@ -3,7 +3,7 @@
 [build]
     base = "."
     publish = "."
-    command = "echo 'default $BUILD_TOKEN and $TOKEN_2'"
+    command = "./build.sh"
 
 [build.environment]
     BUILD_TOKEN = "PYCON-CA!!"
@@ -14,7 +14,6 @@
 # deploy contexts will inherit these settings.
 [context.production]
     publish = "."
-    command = "echo 'from the production context $BUILD_TOKEN and $TOKEN_2'"
 
 [context.production.environment]
     BUILD_TOKEN = "PYCON-CA!!"
