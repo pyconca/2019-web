@@ -1,0 +1,28 @@
+# Settings in the [build] context are global and are applied to all contexts
+# unless otherwise overridden by more specific contexts.
+[build]
+    base = "."
+    publish = "."
+    command = "echo 'default $BUILD_TOKEN and $TOKEN_2'"
+    environment = {
+        BUILD_TOKEN = "PYCON-CA!!",
+        TOKEN_2 = "Random",
+    }
+
+# Production context: all deploys from the Production branch set in your site's
+# deploy contexts will inherit these settings.
+[context.production]
+    publish = "."
+    command = "echo 'from the production context $BUILD_TOKEN and $TOKEN_2'"
+    environment = {
+        BUILD_TOKEN = "PYCON-CA!!",
+        TOKEN_2 = "Random",
+    }
+
+# Deploy Preview context: all deploys generated from a pull/merge request will
+# inherit these settings.
+[context.deploy-preview]
+    publish = "."
+
+
+
