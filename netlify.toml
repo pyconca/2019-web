@@ -25,5 +25,8 @@
 [context.deploy-preview]
     publish = "."
 
+[context.deploy-preview.environment]
+    BUILD_TOKEN = "PYCON-CA-PREVIEW!!"
+    TOKEN_2 = "DEPLOY-PREVIEW"
 
 
