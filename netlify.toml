@@ -2,7 +2,7 @@
 # unless otherwise overridden by more specific contexts.
 [build]
     base = "."
-    publish = "."
+    publish = "./files/static/old/."
     command = "./build.sh"
 
 [build.environment]
