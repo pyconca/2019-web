@@ -90,6 +90,12 @@ gulp.task('assets-old-html', function () {
         .pipe(browserSync.stream());
 });
 
+gulp.task('assets-old-pdf', function () {  // Yes, this is copied twice
+    gulp.src('src/static/*.pdf')
+        .pipe(gulp.dest('files/static/old/'))
+        .pipe(browserSync.stream());
+});
+
 gulp.task('nikola-build', function (cb) {
     exec('nikola build', function (err, stdout, stderr) {
         console.log(stdout);
@@ -117,7 +123,8 @@ gulp.task('build', [
     'assets-old-css',
     'assets-old-js',
     'assets-old-img',
-    'assets-old-html'
+    'assets-old-html',
+    'assets-old-pdf'
 ]);
 
 gulp.task('clean', ['nikola-clean'], function () {
