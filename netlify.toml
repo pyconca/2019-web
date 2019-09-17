@@ -13,7 +13,7 @@
 # Production context: all deploys from the Production branch set in your site's
 # deploy contexts will inherit these settings.
 [context.production]
-    publish = "."
+    publish = "./files/static/old/."
 
 [context.production.environment]
     BUILD_TOKEN = "PYCON-CA!!"
@@ -23,7 +23,7 @@
 # Deploy Preview context: all deploys generated from a pull/merge request will
 # inherit these settings.
 [context.deploy-preview]
-    publish = "."
+    publish = "./files/static/old/."
 
 [context.deploy-preview.environment]
     BUILD_TOKEN = "PYCON-CA-PREVIEW!!"

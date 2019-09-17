@@ -11,14 +11,17 @@ echo "BUILD START"
 echo "------------------------------------------------------------------------"
 
 # Print the version of the tools we are using
+echo "Python version"
 python --version
+echo "Node version"
 node --version
+echo "NPM version"
 npm --version
+echo "PIP version"
 pip --version
 
-echo "default $BUILD_TOKEN and $TOKEN_2"
-
-echo "hope those environment variables printed"
+# Start gulp build process
+gulp build
 
 
 echo "------------------------------------------------------------------------"

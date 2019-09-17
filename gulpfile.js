@@ -65,6 +65,31 @@ gulp.task('assets', function () {
         .pipe(browserSync.stream());
 });
 
+// Copy over old placeholder assets
+gulp.task('assets-old-css', function () {
+    gulp.src('src/static/old/css/*')
+        .pipe(gulp.dest('files/static/old/css/'))
+        .pipe(browserSync.stream());
+});
+
+gulp.task('assets-old-js', function () {
+    gulp.src('src/static/old/js/*')
+        .pipe(gulp.dest('files/static/old/js/'))
+        .pipe(browserSync.stream());
+});
+
+gulp.task('assets-old-img', function () {
+    gulp.src('src/static/old/img/*')
+        .pipe(gulp.dest('files/static/old/img/'))
+        .pipe(browserSync.stream());
+});
+
+gulp.task('assets-old-html', function () {
+    gulp.src('src/static/old/*')
+        .pipe(gulp.dest('files/static/old/'))
+        .pipe(browserSync.stream());
+});
+
 gulp.task('nikola-build', function (cb) {
     exec('nikola build', function (err, stdout, stderr) {
         console.log(stdout);
@@ -87,6 +112,12 @@ gulp.task('build', [
     // 'assets-js',
     // 'assets-fonts',
     // 'nikola-build'
+    
+    // Old placeholder assets
+    'assets-old-css',
+    'assets-old-js',
+    'assets-old-img',
+    'assets-old-html'
 ]);
 
 gulp.task('clean', ['nikola-clean'], function () {
