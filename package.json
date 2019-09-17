@@ -1,6 +1,8 @@
 {
   "name": "2019-web",
   "description": "The PyconCA 2019 website",
+  "repository": "",
+  "license": "",
   "scripts": {
     "build": "gulp build",
     "clean": "gulp clean",
@@ -9,10 +11,10 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.7",
-    "del": "^5.1.0",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.0",
-    "gulp-exec": "^4.0.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-exec": "^3.0.2",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "jquery": "^3.4.1",
