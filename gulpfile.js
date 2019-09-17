@@ -117,7 +117,7 @@ gulp.task('build', [
     'assets',
     // 'assets-js',
     // 'assets-fonts',
-    // 'nikola-build'
+    'nikola-build',
     
     // Old placeholder assets
     'assets-old-css',

@@ -1,0 +1,166 @@
+{% import 'base_footer.tmpl' as footer with context %}
+{{ set_locale(lang) }}
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if blog_title in title %}
+    <title>{{ title|e }}</title>
+    {% else %}
+    <title>{{ title|e }} | {{ blog_title|e }}</title>
+    {% endif %}
+
+    <!-- Our custom CSS -->
+    <link rel="stylesheet" href="/style.css">
+    <!-- Font Awesome 4.7 -->
+    <link rel="stylesheet" href="/static/font-awesome.min.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64922826-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-64922826-6');
+    </script>
+</head>
+
+<body>
+    <!-- Navigation bar -->
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+        <div class="container">
+            <a class="navbar-brand" href="{{ abs_link(_link("root", None, lang)) }}">
+                <img src="/images/logo.svg" class="d-inline-block align-center" alt="{{ blog_title|e }}" height="20px">
+            </a>
+            <!-- <div class="navbar-brand navbar-address d-none d-lg-block">
+                <p>
+                    Chestnut Residence, Toronto, ON, Canada
+                    <br>
+                    November 10-13, 2018
+                </p>
+            </div> -->
+
+            <!-- Mobile button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <!-- Navigation links -->
+                <ul class="navbar-nav ml-auto">
+                    {% for text, icon, url in navigation_links[lang] %}
+                        {% if isinstance(url, tuple) %}
+                            <li class="nav-item text-center dropdown">
+                                <a class="nav-link" href="#" id="menu-{{ icon }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    {% if icon %}
+                                        <span class="nav-mobile-icon"><i class="fa {{ icon }}" aria-hidden="true"></i></span>
+                                    {% else %}
+                                        <span class="nav-mobile-icon"><i class="fa fa-compass" aria-hidden="true"></i></span>
+                                    {% endif %}
+                                    <span class="">{{ text|e }}</span>
+                                    <span class="nav-mobile-icon"><i class="fa fa-level-down" aria-hidden="true"></i></span>
+                                    {# <i class="fa fa-chevron-circle-down" aria-hidden="true"></i> #}
+                                </a>
+                                <div class="dropdown-menu nav-mobile-submenu text-center text-lg-left" aria-labelledby="menu-{{ icon }}">
+                                    {% for text, icon, suburl in url %}
+                                        <a class="dropdown-item nav-mobile-sublink" href="{{ suburl }}">
+                                            {% if icon %}
+                                                <span class=""><i class="fa {{ icon }}" aria-hidden="true"></i></span>
+                                            {% else %}
+                                                <span class=""><i class="fa fa-compass" aria-hidden="true"></i></span>
+                                            {% endif %}
+                                            <span class="">{{ text|e }}</span>
+                                            <span class="nav-mobile-icon"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+                                        </a>
+                                    {% endfor %}
+                                </div>
+                            </li>
+                        {% else %}
+                            {% if rel_link(permalink, url) == "#" %}
+                                {# active navigation links #}
+                                <li class="nav-item text-center active">
+                                    <a class="nav-link" href="{{ permalink }}">
+                                        {% if icon %}
+                                            <span class="nav-mobile-icon"><i class="fa {{ icon }}" aria-hidden="true"></i></span>
+                                        {% else %}
+                                            <span class="nav-mobile-icon"><i class="fa fa-compass" aria-hidden="true"></i></span>
+                                        {% endif %}
+                                        <span class="">{{ text|e }}<span class="sr-only">(current)</span></span>
+                                        <span class="nav-mobile-icon"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+                                    </a>
+                                </li>
+                            {% else %}
+                                {# inactive links #}
+                                <li class="nav-item">
+                                    <a class="nav-link text-center" href="{{ url }}">
+                                        {% if icon %}
+                                            <span class="nav-mobile-icon"><i class="fa {{ icon }}" aria-hidden="true"></i></span>
+                                        {% else %}
+                                            <span class="nav-mobile-icon"><i class="fa fa-compass" aria-hidden="true"></i></span>
+                                        {% endif %}
+                                        <span class="">{{ text|e }}</span>
+                                        <span class="nav-mobile-icon"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endif %}
+
+                    {% endfor %}
+                    <!-- Language selection -->
+                    {% if permalink.startswith('/fr') %}
+                        <li class="nav-item">
+                            <a class="nav-link text-center" href="{{ permalink[3:] }}">
+                                <span class="nav-mobile-icon"><i class="fa fa-language" aria-hidden="true"></i></span>
+                                <span class="">EN</span>
+                                <span class=""><i class="fa fa-refresh" aria-hidden="true"></i></span>
+                            </a>
+                        </li>
+                        <li class="nav-item text-center">
+                            <a href="/fr/schedule-day-1/" class="btn btn-midnight-blue navigation-button">
+                                Schedule
+                            </a>
+                        </li>
+                    {% else %}
+                        <li class="nav-item">
+                            <a class="nav-link text-center" href="/fr{{ permalink }}">
+                                <span class="nav-mobile-icon"><i class="fa fa-language" aria-hidden="true"></i></span>
+                                <span class="">FR</span>
+                                <span class=""><i class="fa fa-refresh" aria-hidden="true"></i></span>
+                            </a>
+                        </li>
+                        <li class="nav-item text-center">
+                            <a href="/schedule-day-1/" class="btn btn-midnight-blue navigation-button">
+                                Schedule
+                            </a>
+                        </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    {% block center_section %}
+    <!-- Page Header -->
+    {% block content_header %}{% endblock %}
+
+    <!-- Page Content -->
+    {% block content_post %}{% endblock %}
+
+    <!-- Post Navigation links -->
+    {% block bottom_nav_links %}{% endblock %}
+    {% endblock %}
+
+
+    <!-- Footer -->
+    {{ footer.html_footer() }}
+
+    <!-- JavaScript for Bootstrap -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+</body>
+
+</html>

@@ -20,6 +20,13 @@ npm --version
 echo "PIP version"
 pip --version
 
+# install NPM dependencies
+npm install
+
+# install PIP dependencies
+pip install -r requirements.txt
+
+
 # Start gulp build process
 gulp build
 
