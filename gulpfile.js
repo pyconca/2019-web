@@ -136,7 +136,7 @@ gulp.task('build', [
     'assets-old-html',
     'assets-old-pdf',
 
-    'nikola build'
+    'nikola-build'
 ]);
 
 gulp.task('clean', ['nikola-clean'], function () {
