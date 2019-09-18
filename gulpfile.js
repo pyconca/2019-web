@@ -127,16 +127,16 @@ gulp.task('build', [
     'assets',
     // 'assets-js',
     // 'assets-fonts',
-    'nikola-build',
     
     'assets-js-from-node',
 
-    // Old placeholder assets
     'assets-old-css',
     'assets-old-js',
     'assets-old-img',
     'assets-old-html',
-    'assets-old-pdf'
+    'assets-old-pdf',
+
+    'nikola build'
 ]);
 
 gulp.task('clean', ['nikola-clean'], function () {
