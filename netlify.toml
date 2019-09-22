@@ -2,7 +2,7 @@
 # unless otherwise overridden by more specific contexts.
 [build]
     base = "."
-    publish = "./output/static/old/."
+    publish = "./output/."
     command = "./build.sh"
 
 [build.environment]
@@ -13,7 +13,7 @@
 # Production context: all deploys from the Production branch set in your site's
 # deploy contexts will inherit these settings.
 [context.production]
-    publish = "./output/static/old/."
+    publish = "./output/."
 
 [context.production.environment]
     BUILD_TOKEN = "PYCON-CA!!"
@@ -23,7 +23,7 @@
 # Deploy Preview context: all deploys generated from a pull/merge request will
 # inherit these settings.
 [context.deploy-preview]
-    publish = "./output/static/old/."
+    publish = "./output/."
 
 [context.deploy-preview.environment]
     BUILD_TOKEN = "PYCON-CA-PREVIEW!!"
