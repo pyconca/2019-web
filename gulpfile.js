@@ -126,7 +126,7 @@ gulp.task('build', [
     'styles',
     'assets',
     // 'assets-js',
-    // 'assets-fonts',
+    'assets-fonts',
     
     'assets-js-from-node',
 

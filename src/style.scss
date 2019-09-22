@@ -2,4 +2,8 @@
 Root SCSS file for this project
 */
 
+@import "scss/fonts/roboto";
+
+@import "scss/variables";
+
 @import "scss/bootstrap/config";
