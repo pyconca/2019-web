@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 nikola build
 
+nikola build  # we need to run this twice to pick up gulp/sass stuff
+
 
 echo "------------------------------------------------------------------------"
 echo "BUILD COMPLETED SUCCESSFULLY!"
