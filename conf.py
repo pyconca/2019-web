@@ -40,6 +40,13 @@ if BASE_URL[-1] != '/':
 BLOG_EMAIL = "n.tesla@example.com"
 BLOG_DESCRIPTION = "Official website for Pycon Canada 2019"  # (translatable)
 
+# making use of USE_CDN as a DEBUG flag
+if os.environ.get('DEBUG_MODE', True):
+    USE_CDN = True
+else:
+    USE_CDN = False
+
+
 # Nikola is multilingual!
 #
 # Currently supported languages are:

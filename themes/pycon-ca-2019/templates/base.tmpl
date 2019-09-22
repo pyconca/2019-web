@@ -1,22 +1,69 @@
+
+{{ set_locale(lang) }}
 <!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<html lang="{{ lang }}">
 
-    <!-- Our custom CSS -->
-    <link rel="stylesheet" href="/style.css">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
+  <!-- Page title -->
+  {% if blog_title in title %}
+    <title>{{ title|e }}</title>
+  {% else %}
+    <title>{{ title|e }} | {{ blog_title|e }}</title>
+  {% endif %}
 
-    <!-- JavaScript for Bootstrap -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="/js/jquery.min.js"></script> <!-- ver v3.4.1 -->
-    <script src="/js/bootstrap.bundle.min.js"></script>  <!-- ver v4.3.1 -->
-  </body>
+  <!-- Our custom CSS -->
+  <link rel="stylesheet" href="/style.css">
+
+</head>
+
+<body>
+  
+  <!-- Nav bar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <img src="/images/pycon_logo.png" width="30" height="30" alt="">
+      </a>
+    </div>
+  </nav>
+
+
+  {% block center_section %}
+    <!-- Page Header -->
+    {% block content_header %}
+    {% endblock %}
+
+    <!-- Page Content -->
+    {% block content_post %}
+    {% endblock %}
+
+    <!-- Post Navigation links -->
+    {% block bottom_nav_links %}
+    {% endblock %}
+
+  {% endblock %}
+
+  <!-- JavaScript for Bootstrap -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="/js/jquery.min.js"></script> <!-- ver v3.4.1 -->
+  <script src="/js/bootstrap.bundle.min.js"></script>  <!-- ver v4.3.1 -->
+
+  <!-- DEBUGGING -->
+  {% if use_cdn %}
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <p class="text-center debug-indicator-footer">  </p>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+</body>
+
 </html>
 

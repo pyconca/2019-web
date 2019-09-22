@@ -7,3 +7,7 @@ Root SCSS file for this project
 @import "scss/variables";
 
 @import "scss/bootstrap/config";
+
+
+// custom components
+@import "scss/components/breakpoint_debug_indicator";

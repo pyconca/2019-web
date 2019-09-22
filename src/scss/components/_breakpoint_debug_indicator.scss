@@ -1,0 +1,37 @@
+.debug-indicator-footer {
+    background-color: blue;  // XS (extra small) and smaller
+    &:after {
+        content: "EXTRA SMALL DEVICE";
+        color: white;
+    }
+
+    @include media-breakpoint-up(sm) {  // small devices
+        background-color: red;
+        &:after {
+            content: "SMALL DEVICE";
+        }
+    }
+
+    @include media-breakpoint-up(md) {  // medium devices
+        background-color: green;
+        &:after {
+            content: "MEDIUM DEVICE";
+        }
+    }
+
+    @include media-breakpoint-up(lg) {  // large devices
+        background-color: yellow;
+        &:after {
+            content: "LARGE DEVICE";
+            color: black;
+        }
+    }
+
+    @include media-breakpoint-up(xl) {  // extra large devices
+        background-color: cyan;
+        &:after {
+            content: "EXTRA LARGE DEVICE";
+            color: black;
+        }
+    }
+}
