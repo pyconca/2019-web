@@ -26,12 +26,7 @@ npm install
 # install PIP dependencies
 pip install -r requirements.txt
 
-
-# Start gulp build process
-npm run build
-
-nikola build  # needed because gulp triggers this before the SASS 
-              # is fully compiled
+nikola build
 
 
 echo "------------------------------------------------------------------------"

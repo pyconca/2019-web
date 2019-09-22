@@ -136,7 +136,7 @@ gulp.task('build', [
     'assets-old-html',
     'assets-old-pdf',
 
-    'nikola-build'
+    // 'nikola-build'
 ]);
 
 gulp.task('clean', ['nikola-clean'], function () {
@@ -152,7 +152,7 @@ gulp.task('start', ['build'], function () {
     });
 
     gulp.watch(SASS_SOURCES, ['styles']);
-    gulp.watch(FILES_TO_WATCH, ['nikola-build']);
+    // gulp.watch(FILES_TO_WATCH, ['nikola-build']);
 });
 
 gulp.task('default', ['build']);
