@@ -14,4 +14,16 @@
     register_url='#'
 %}}
 
-
+{{% section_with_logo_right_side
+    logo_path='/images/pycon_circle.png'
+    section_title='What is Pycon Canada?'
+    section_message='
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
+    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
+    nunc at quam finibus molestie id quis lorem.
+    <br />
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
+    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
+    nunc at quam finibus molestie id quis lorem.
+    '
+%}}
