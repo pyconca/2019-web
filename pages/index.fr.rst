@@ -27,3 +27,17 @@
     nunc at quam finibus molestie id quis lorem.
     '
 %}}
+
+{{% front_twitter_section
+    heading1='Join the conversation'
+    message1='
+    Be sure to use #PyConCA2019
+    We love hearing from our community members!
+    '
+    heading2='Key Contacts'
+    message2='
+    The organizing committee can be contacted at organizers@pycon.ca <br />
+    The board can be contacted privately at board@pycon.ca <br />
+    You can also find us on: github.com/pyconca/ <br/>
+    '
+%}}
