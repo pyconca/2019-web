@@ -38,4 +38,9 @@ MESSAGES = {
     # Navgation banner buttons
     'SCHEDULE': 'SCHEDULE',
     'REGISTER': 'REGISTER',
+
+    # Front banner text
+    'CONFERENCE': 'CONFERENCE-FR',
+    'SPRINTS': 'SPRINTS',
+    'VENUE': 'VENUE',
 }

@@ -1,0 +1,80 @@
+.front-banner {
+    background-image: url(/images/background_city.png);
+    height: 415px;
+
+    // Extra small devices
+    background-size: cover;
+    background-position: top left 25%;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        background-position: center;
+        height: 500px;
+    }
+
+}
+
+.front-banner-buttons {
+    // Extra small devices
+    width: 350px;
+    height: 200px;
+
+    padding-top: 40px;
+    margin-left: 10px;
+
+    @include media-breakpoint-up(md) {  // medium devices
+        padding-top: 60px;
+        margin-left: 40px;
+    }
+
+    @include media-breakpoint-up(lg) {  // large devices
+        padding-top: 80px;
+        margin-left: 200px;
+    }
+
+}
+
+.front-banner-text {
+    font-size: 0.9rem;
+    color: #cccccc;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        font-size: 1.2rem;
+    }
+}
+
+.front-banner-text-data {
+    font-size: 0.9rem;
+    @extend .font-weight-bolder;
+    color: #FFFFFF;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        font-size: 1.2rem;
+    }
+}
+
+.front-banner-button {
+    font-size: 0.9rem;
+    padding-left: 0;
+    padding-right: 0;
+    border-color: none;
+}
+
+.front-banner-button-1 {
+    @extend .front-banner-button;
+    background-color: #66CCCC;
+    color: black;
+
+    &:hover {
+        background-color: #66FFCC;
+    }
+}
+
+.front-banner-button-2 {
+    @extend .front-banner-button;
+    background-color: #CC3333;
+    color: white;
+
+    &:hover {
+        background-color: #CC3366;
+    }
+}
