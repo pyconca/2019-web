@@ -15,6 +15,9 @@
     <title>{{ title|e }} | {{ blog_title|e }}</title>
   {% endif %}
 
+  <!-- Font Awesome 4.7 -->
+  <link rel="stylesheet" href="/static/font-awesome.min.css">
+
   <!-- Our custom CSS -->
   <link rel="stylesheet" href="/style.css">
 
@@ -45,6 +48,7 @@
               <li class="nav-item text-center dropdown">
                 <a class="nav-link" href="#" id="menu-parent-{{ loop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
+                  <span class=""><i class="fa fa-level-down" aria-hidden="true"></i></span>
                 </a>
                 <div class="dropdown-menu nav-mobile-submenu text-center text-lg-left" aria-labelledby="menu-parent-{{ loop.index }}">
                   {% for text, suburl in url %}
