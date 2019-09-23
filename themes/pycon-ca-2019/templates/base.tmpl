@@ -23,11 +23,61 @@
 <body>
   
   <!-- Nav bar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container">
-      <a class="navbar-brand" href="#">
-        <img src="/images/pycon_logo.png" width="30" height="30" alt="">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="{{ abs_link(_link("root", None, lang)) }}">
+        <img src="/images/pycon_logo.png" class="d-inline-block align-center" alt="{{ blog_title|e }}">
       </a>
+
+      <!-- Mobile button -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- Navigation links -->
+        <ul class="navbar-nav ml-auto">
+          <!-- Build out the navbar from config menu -->
+          {% for text, url in navigation_links[lang] %}  
+            <!-- Does current selection have sub-menus? -->
+            {% if isinstance(url, tuple) %}
+              <li class="nav-item text-center dropdown">
+                <a class="nav-link" href="#" id="menu-parent-{{ loop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
+                </a>
+                <div class="dropdown-menu nav-mobile-submenu text-center text-lg-left" aria-labelledby="menu-parent-{{ loop.index }}">
+                  {% for text, suburl in url %}
+                    <a class="dropdown-item nav-mobile-sublink" href="{{ suburl }}">
+                      <span class="">{{ text|e }}</span>
+                    </a>
+                  {% endfor %}
+                </div>
+              </li>
+            {% else %}
+              <!-- nav menus with no sub-menus -->
+              {% if rel_link(permalink, url) == "#" %}
+                {# active navigation links #}
+                <li class="nav-item text-center active">
+                  <a class="nav-link" href="{{ permalink }}">
+                    <span class="nav-top-text font-weight-bold">{{ text|e }}<span class="sr-only">(current)</span></span>
+                  </a>
+                </li>
+              {% else %}
+                {# inactive links #}
+                <li class="nav-item">
+                  <a class="nav-link text-center" href="{{ url }}">
+                    <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
+                  </a>
+                </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          <!-- Language selection -->
+        </ul>
+      </div>
+
+
     </div>
   </nav>
 

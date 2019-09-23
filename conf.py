@@ -151,64 +151,49 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-NAVIGATION_LINKS_FIX_LATER = {  # TODO: fix theme
-    # There are 3 parts to the navigation links,
-    # <TEXT> , <ICON> , <LINK>
-    # The icons are from font-awesome 4, they show up in mobile view.
-    # https://fontawesome.com/v4.7.0/icons/
-    # 
-    # For sub-menus, the icon name is also used as a unique (in nav) 'id' 
-    # attribute.
+NAVIGATION_LINKS = {
+    # There are 2 parts to the navigation links,
+    # <TEXT> , <LINK>
     DEFAULT_LANG: (
-        ('Code of Conduct', 'fa-graduation-cap', '/code-of-conduct/'),
-        ('Event', 'fa-archive', (
-            ('About', 'fa-eye', '/about/'),
-            ('Organizers', 'fa-id-badge', '/organizers/'),
-            ('Sponsors', 'fa-handshake-o', '/sponsors/'),
-            ('Schedule Day-1', 'fa-calendar', '/schedule-day-1/'),
-            ('Schedule Day-2', 'fa-calendar', '/schedule-day-2/'),
+        ('Code of Conduct', '/code-of-conduct/'),
+        ('Event',  (
+            ('About',  '/about/'),
+            ('Organizers',  '/organizers/'),
+            ('Sponsors',  '/sponsors/'),
+            ('Schedule Day-1',  '/schedule-day-1/'),
+            ('Schedule Day-2',  '/schedule-day-2/'),
         )),
-        ('Participate', 'fa-users', (
-            ('Registration', 'fa-address-card', '/registration/'),
-            ('Childcare', 'fa-user-plus', '/childcare/'),
-            ('Financial Aid', 'fa-money', '/fa/'),
-            ('Volunteer', 'fa-user-plus', '/volunteer/'),
+        ('Participate',  (
+            ('Registration',  '/registration/'),
+            ('Childcare',  '/childcare/'),
+            ('Financial Aid',  '/fa/'),
+            ('Volunteer',  '/volunteer/'),
         )),
-        ('Information', 'fa-info-circle', (
-            ('Code of Conduct', 'fa-graduation-cap', '/code-of-conduct/'),
-            ('Email us', 'fa-envelope', 'mailto:organizers@pycon.ca'),
+        ('Information',  (
+            ('Code of Conduct',  '/code-of-conduct/'),
+            ('Email us',  'mailto:organizers@pycon.ca'),
         )),
-        # ('Social Media', 'fa-bullhorn', (
-        #     ('Facebook', 'fa-facebook-official', 'https://facebook.com/pyconca'),
-        #     ('Twitter', 'fa-twitter', 'https://twitter.com/pyconca'),
-        #     ('Youtube', 'fa-youtube-play', 'https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg'),
-        # )),
     ),
 
     "fr": (
-        ('Code de conduite', 'fa-graduation-cap', '/fr/code-of-conduct/'),
-        ('L\'événement', 'fa-archive', (
-            ('À propos', 'fa-eye', '/fr/about/'),
-            ('Organizers', 'fa-id-badge', '/fr/organizers/'),
-            ('Commanditaires', 'fa-handshake-o', '/fr/sponsors/'),
-            ('Schedule Day-1', 'fa-calendar', '/fr/schedule-day-1/'),
-            ('Schedule Day-2', 'fa-calendar', '/fr/schedule-day-2/'),
+        ('Code de conduite', '/fr/code-of-conduct/'),
+        ('L\'événement', (
+            ('À propos',  '/fr/about/'),
+            ('Organizers',  '/fr/organizers/'),
+            ('Commanditaires', '/fr/sponsors/'),
+            ('Schedule Day-1',  '/fr/schedule-day-1/'),
+            ('Schedule Day-2',  '/fr/schedule-day-2/'),
         )),
-        ('Participer', 'fa-users', (
-            ('Enregistrement', 'fa-address-card', '/fr/registration/'),
-            ('Service de halte-garderie', 'fa-user-plus', '/fr/childcare/'),
-            ('Aide financière', 'fa-money', '/fr/fa/'),
-            ('Lieu', 'fa-user-plus', '/fr/volunteer/'),
+        ('Participer',  (
+            ('Enregistrement',  '/fr/registration/'),
+            ('Service de halte-garderie',  '/fr/childcare/'),
+            ('Aide financière',  '/fr/fa/'),
+            ('Lieu',  '/fr/volunteer/'),
         )),
-        ('Information', 'fa-info-circle', (
-            ('Code de conduite', 'fa-graduation-cap', '/fr/code-of-conduct/'),
-            ('Contact', 'fa-envelope', 'mailto:organizers@pycon.ca'),
+        ('Information',  (
+            ('Code de conduite',  '/fr/code-of-conduct/'),
+            ('Contact',  'mailto:organizers@pycon.ca'),
         )),
-        #  ('Suivez nous', 'fa-bullhorn', (
-        #      ('Facebook', 'fa-facebook-official', 'https://facebook.com/pyconca'),
-        #      ('Twitter', 'fa-twitter', 'https://twitter.com/pyconca'),
-        #      ('Youtube', 'fa-youtube-play', 'https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg'),
-        #  )),
     ),
 }
 
