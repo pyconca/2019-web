@@ -11,7 +11,7 @@
     venue='THE CARLU, TORONTO, ON'
     schedule_url='/under-construction/'
     sprints_url='/under-construction/'
-    register_url='/under-construction/'
+    register_url='https://shop.pycon.ca'
 %}}
 
 
@@ -54,9 +54,8 @@
 
 {{% general_paragraph
     paragraph='
-    Financial Aid is due Sept 29
+    Financial Aid is due Sept 29. To Apply, please submit a grant application at <a href="https://forms.gle/QMuhZHT3zCwgqKbD8">this form</a>
     <br />
-    Speaker announcements soon!
     '
 %}}
 
