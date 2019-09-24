@@ -31,6 +31,7 @@
     '
 %}}
 
+
 {{% front_twitter_section
     heading1='Join the conversation'
     message1='
@@ -44,6 +45,20 @@
     You can also find us on: <a href="https://github.com/pyconca/">https://github.com/pyconca/</a> <br/>
     '
 %}}
+
+
+{{% general_heading
+    heading='Announcements'
+%}}
+
+{{% general_paragraph
+    paragraph='
+    Financial Aid is due Sept 29
+    <br />
+    Speaker announcements soon!
+    '
+%}}
+
 
 {{% general_heading
     heading='Code of Conduct'
