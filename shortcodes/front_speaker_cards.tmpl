@@ -1,0 +1,54 @@
+<div class="container">
+    <div class="row justify-content-center">
+        {% for speaker in global_data['keynotes'] %}
+            <div class="col-xs-12 col-md-6 col-lg-3 pb-4">
+                <div class="card">
+                    <img src="{{speaker['image']}}" class="card-img-top" alt="{{speaker[lang]['name']}} picture">
+                    <div class="card-body">
+                        <h5 class="card-title">{{speaker[lang]['name']}}</h5>
+                        <h6 class="card-title">{{speaker[lang]['title']}}</h6>
+                        <p class="card-text">{{speaker[lang]['description']}}</p>
+                    </div>
+                    <div class="card-footer">
+                        {% if speaker['website'] %}
+                            <a href="{{speaker['website']}}">
+                                <span class="">
+                                    <i class="fa fa-2x fa-html5 px-1" aria-hidden="true"></i>
+                                </span>
+                            </a>
+                        {% endif %}
+                        {% if speaker['twitter'] %}
+                            <a href="{{speaker['twitter']}}">
+                                <span class="">
+                                    <i class="fa fa-2x fa-twitter px-1" aria-hidden="true"></i>
+                                </span>
+                            </a>
+                        {% endif %}
+                        {% if speaker['instagram'] %}
+                            <a href="{{speaker['instagram']}}">
+                                <span class="">
+                                    <i class="fa fa-2x fa-instagram px-1" aria-hidden="true"></i>
+                                </span>
+                            </a>
+                        {% endif %}
+                        {% if speaker['facebook'] %}
+                            <a href="{{speaker['facebook']}}">
+                                <span class="">
+                                    <i class="fa fa-2x fa-facebook-official px-1" aria-hidden="true"></i>
+                                </span>
+                            </a>
+                        {% endif %}
+                        {% if speaker['github'] %}
+                            <a href="{{speaker['github']}}">
+                                <span class="">
+                                    <i class="fa fa-2x fa-github px-1" aria-hidden="true"></i>
+                                </span>
+                            </a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+
+    </div>
+</div>
