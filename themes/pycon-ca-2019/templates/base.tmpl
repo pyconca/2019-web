@@ -1,4 +1,4 @@
-
+{% import 'base_footer.tmpl' as footer with context %}
 {{ set_locale(lang) }}
 <!doctype html>
 <html lang="{{ lang }}">
@@ -128,6 +128,9 @@
     {% endblock %}
 
   {% endblock %}
+
+  <!-- Footer -->
+  {{ footer.html_footer() }}
 
   <!-- JavaScript for Bootstrap -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->

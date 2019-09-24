@@ -9,9 +9,9 @@
     conf_dates='NOVEMBER 16-19'
     sprint_dates='NOVEMBER 18-19'
     venue='THE CARLU, TORONTO, ON'
-    schedule_url='#'
-    sprints_url='#'
-    register_url='#'
+    schedule_url='/under-construction/'
+    sprints_url='/under-construction/'
+    register_url='/under-construction/'
 %}}
 
 {{% section_with_logo_right_side

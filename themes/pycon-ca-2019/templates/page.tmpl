@@ -1,3 +1,5 @@
 {% extends 'base.tmpl' %}
 
-<!-- This is part of a page -->
+{% block content_post %}
+    {{ post.text() }}
+{% endblock %}

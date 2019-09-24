@@ -155,43 +155,47 @@ NAVIGATION_LINKS = {
     # There are 2 parts to the navigation links,
     # <TEXT> , <LINK>
     DEFAULT_LANG: (
-        ('Code of Conduct', '/code-of-conduct/'),
-        ('Event',  (
-            ('About',  '/about/'),
-            ('Organizers',  '/organizers/'),
-            ('Sponsors',  '/sponsors/'),
-            ('Schedule Day-1',  '/schedule-day-1/'),
-            ('Schedule Day-2',  '/schedule-day-2/'),
-        )),
-        ('Participate',  (
-            ('Registration',  '/registration/'),
-            ('Childcare',  '/childcare/'),
-            ('Financial Aid',  '/fa/'),
-            ('Volunteer',  '/volunteer/'),
-        )),
+        ('About', '/under-construction/'),
+        ('Venue', '/under-construction/'),
+        ('Speakers', '/under-construction/'),
+        # ('Event',  (
+        #     ('About',  '/about/'),
+        #     ('Organizers',  '/organizers/'),
+        #     ('Sponsors',  '/sponsors/'),
+        #     ('Schedule Day-1',  '/schedule-day-1/'),
+        #     ('Schedule Day-2',  '/schedule-day-2/'),
+        # )),
+        # ('Participate',  (
+        #     ('Registration',  '/registration/'),
+        #     ('Childcare',  '/childcare/'),
+        #     ('Financial Aid',  '/fa/'),
+        #     ('Volunteer',  '/volunteer/'),
+        # )),
         ('Information',  (
-            ('Code of Conduct',  '/code-of-conduct/'),
+            ('Code of Conduct',  '/under-construction/'),
             ('Email us',  'mailto:organizers@pycon.ca'),
         )),
     ),
 
     "fr": (
-        ('Code de conduite', '/fr/code-of-conduct/'),
-        ('L\'événement', (
-            ('À propos',  '/fr/about/'),
-            ('Organizers',  '/fr/organizers/'),
-            ('Commanditaires', '/fr/sponsors/'),
-            ('Schedule Day-1',  '/fr/schedule-day-1/'),
-            ('Schedule Day-2',  '/fr/schedule-day-2/'),
-        )),
-        ('Participer',  (
-            ('Enregistrement',  '/fr/registration/'),
-            ('Service de halte-garderie',  '/fr/childcare/'),
-            ('Aide financière',  '/fr/fa/'),
-            ('Lieu',  '/fr/volunteer/'),
-        )),
+        ('About', '/fr/under-construction/'),
+        ('Venue', '/fr/under-construction/'),
+        ('Speakers', '/fr/under-construction/'),
+        # ('L\'événement', (
+        #     ('À propos',  '/fr/about/'),
+        #     ('Organizers',  '/fr/organizers/'),
+        #     ('Commanditaires', '/fr/sponsors/'),
+        #     ('Schedule Day-1',  '/fr/schedule-day-1/'),
+        #     ('Schedule Day-2',  '/fr/schedule-day-2/'),
+        # )),
+        # ('Participer',  (
+        #     ('Enregistrement',  '/fr/registration/'),
+        #     ('Service de halte-garderie',  '/fr/childcare/'),
+        #     ('Aide financière',  '/fr/fa/'),
+        #     ('Lieu',  '/fr/volunteer/'),
+        # )),
         ('Information',  (
-            ('Code de conduite',  '/fr/code-of-conduct/'),
+            ('Code de conduite',  '/fr/under-construction/'),
             ('Contact',  'mailto:organizers@pycon.ca'),
         )),
     ),

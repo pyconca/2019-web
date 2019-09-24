@@ -1,0 +1,11 @@
+
+.footer-background {
+    background-color: #132f53;
+}
+
+.footer-heading {
+    color: white;
+    @extend .font-weight-bold;
+    @extend .text-uppercase;
+    @extend .pb-2;
+}
