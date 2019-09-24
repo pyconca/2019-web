@@ -48,6 +48,16 @@
 
 
 {{% general_heading
+    heading='Keynote Speakers'
+%}}
+
+
+{{% front_speaker_cards 
+    comment='speaker details are located in /data/keynotes.json'
+%}}
+
+
+{{% general_heading
     heading='Announcements'
 %}}
 

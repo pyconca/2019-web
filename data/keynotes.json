@@ -1,0 +1,48 @@
+[
+    {
+        "image": "https://via.placeholder.com/150",
+        "website": "http://2019.pycon.ca/",
+        "en": {
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
+        },
+        "fr": {
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
+        }
+    },
+    {
+        "image": "https://via.placeholder.com/200",
+        "website": "",
+        "facebook": "https://facebook.com/",
+        "twitter": "https://twitter.com/pyconca/",
+        "en": {
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
+        },
+        "fr": {
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
+        }
+    },
+    {
+        "image": "https://via.placeholder.com/150",
+        "website": "http://2019.pycon.ca/",
+        "instagram": "https://instagram.com/",
+        "github": "https://github.com/",
+        "en": {
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
+        },
+        "fr": {
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
+        }
+    }
+]
