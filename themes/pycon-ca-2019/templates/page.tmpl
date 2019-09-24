@@ -1,5 +1,17 @@
 {% extends 'base.tmpl' %}
 
 {% block content_post %}
+
+<div class="container">
+
+    <p class="display-4">{{title}}</p>
+    <hr />
+    <br />
+
     {{ post.text() }}
+
+    <br />
+
+</div>
+
 {% endblock %}
