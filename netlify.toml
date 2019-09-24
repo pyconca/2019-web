@@ -17,7 +17,7 @@
 
 [context.production.environment]
     BUILD_TOKEN = "PYCON-CA!!"
-    DEBUG_MODE = "True"
+    DEBUG_MODE = "False"
 
 
 # Deploy Preview context: all deploys generated from a pull/merge request will

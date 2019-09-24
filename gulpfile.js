@@ -65,8 +65,7 @@ gulp.task('assets-js-from-node', function () {
 
 gulp.task('assets-fonts', function () {
     gulp.src('src/fonts/*')
-        .pipe(gulp.dest('files/fonts/'))
-        .pipe(browserSync.stream());
+        .pipe(gulp.dest('files/fonts/'));
 });
 
 gulp.task('assets', function () {

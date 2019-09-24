@@ -20,6 +20,14 @@ npm --version
 echo "PIP version"
 pip --version
 
+echo "------------------------------------------------------------------------"
+echo "ENVIRONMENT VARIABLES"
+echo "====================="
+echo "DEBUG_MODE = $DEBUG_MODE"
+echo "BUILD_TOKEN = $BUILD_TOKEN"
+echo "------------------------------------------------------------------------"
+
+
 # install NPM dependencies
 npm install
 
