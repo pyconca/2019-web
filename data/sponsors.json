@@ -1,0 +1,58 @@
+[
+    {
+        "logo": "https://via.placeholder.com/150",
+        "web_link": "https://2019.pycon.ca/",
+        "en": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "fr": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    },
+    {
+        "logo": "https://via.placeholder.com/150",
+        "web_link": "https://2019.pycon.ca/",
+        "en": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "fr": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    },
+    {
+        "logo": "https://via.placeholder.com/150",
+        "web_link": "https://2019.pycon.ca/",
+        "en": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "fr": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    },
+    {
+        "logo": "https://via.placeholder.com/150",
+        "web_link": "https://2019.pycon.ca/",
+        "en": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "fr": {
+            "level": "Diamond | Diversity",
+            "name": "Sponsor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    }
+]

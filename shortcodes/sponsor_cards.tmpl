@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="row">
+        {% for sponsor in global_data['sponsors'] %}
+            <div class="col-xs-12 col-md-6 col-lg-4 pb-4">
+                <div class="card">
+                    <div class="card-header sponsor-header">{{sponsor[lang]['level']}}</div>
+                    <img src="{{sponsor['logo']}}" class="card-img-top">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <a class="sponsor-card-title" href="{{sponsor['web_link']}}">{{sponsor[lang]['name']}}</a>
+                        </div>
+                        <div class="card-text">{{sponsor[lang]['description']}}</div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>

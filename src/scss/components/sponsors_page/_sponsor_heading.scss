@@ -1,0 +1,39 @@
+
+.sponsor-title {
+    @extend .text-center;
+    @extend .text-uppercase;
+    @extend .font-weight-bold;
+    color: #003366;
+    font-size: 1.6rem;
+}
+
+.sponsor-message {
+    font-size: 1.2rem;
+    @extend .text-center;
+}
+
+.sponsor-button-left {
+    @extend .text-uppercase;
+    @extend .font-weight-bold;
+    background-color: #66CCCC;
+    border-radius: 0.25rem;
+    color: black;
+
+    &:hover {
+        background-color: #66FFCC;
+        color: black;
+    }
+}
+
+.sponsor-button-right {
+    @extend .text-uppercase;
+    @extend .font-weight-bold;
+    background-color: #CC3333;
+    border-radius: 0.25rem;
+    color: white;
+
+    &:hover {
+        background-color: #CC3366;
+        color: white;
+    }
+}
