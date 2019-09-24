@@ -22,7 +22,7 @@
     for us to share knowledge and ideas, encourage support and education for speaking at 
     conferences, and increase the visibility of developers, organizations, and companies 
     within the community.
-    <br />
+    <br /><br />
     PyCon Canada is entirely run by volunteers who are passionate about these goals. We hope to 
     see you at the 2019 conference! We\'re also proud to host development sprints which provide 
     a gateway for new contributors and a way for you to give back to the open-source community.
@@ -53,13 +53,13 @@
     paragraph='
     PyCon Canada is a community conference intended for networking and 
     collaboration in the developer community.
-    <br />
+    <br /><br />
     We value the participation of each member of the Python community and want 
     all attendees to have an enjoyable and fulfilling experience. Accordingly, 
     all attendees are expected to show respect and courtesy to other attendees 
     throughout the conference and at all conference events, whether officially 
     sponsored by PyCon Canada or not.
-    <br />
+    <br /><br />
     To make clear what is expected, all delegates, speakers, exhibitors and 
     volunteers at any PyCon Canada event are required to conform to the 
     following Code of Conduct. Organizers will enforce this code throughout 
