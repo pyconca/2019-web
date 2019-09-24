@@ -156,16 +156,15 @@ NAVIGATION_LINKS = {
     # There are 2 parts to the navigation links,
     # <TEXT> , <LINK>
     DEFAULT_LANG: (
-        ('About', '/about/'),
         ('Sponsors', '/sponsors/'),
         ('Speakers', '/under-construction/'),
-        # ('Event',  (
-        #     ('About',  '/about/'),
-        #     ('Organizers',  '/organizers/'),
-        #     ('Sponsors',  '/sponsors/'),
-        #     ('Schedule Day-1',  '/schedule-day-1/'),
-        #     ('Schedule Day-2',  '/schedule-day-2/'),
-        # )),
+        ('Event',  (
+            ('About',  '/about/'),
+            ('Organizers',  '/organizers/'),
+            # ('Sponsors',  '/sponsors/'),
+            # ('Schedule Day-1',  '/schedule-day-1/'),
+            # ('Schedule Day-2',  '/schedule-day-2/'),
+        )),
         ('Participate',  (
             ('Registration',  '/registration/'),
             ('Childcare',  '/childcare/'),
@@ -179,16 +178,15 @@ NAVIGATION_LINKS = {
     ),
 
     "fr": (
-        ('About', '/fr/about/'),
         ('Sponsors', '/fr/sponsors/'),
         ('Speakers', '/fr/under-construction/'),
-        # ('L\'événement', (
-        #     ('À propos',  '/fr/about/'),
-        #     ('Organizers',  '/fr/organizers/'),
-        #     ('Commanditaires', '/fr/sponsors/'),
-        #     ('Schedule Day-1',  '/fr/schedule-day-1/'),
-        #     ('Schedule Day-2',  '/fr/schedule-day-2/'),
-        # )),
+        ('L\'événement', (
+            ('À propos',  '/fr/about/'),
+            ('Organizers',  '/fr/organizers/'),
+            # ('Commanditaires', '/fr/sponsors/'),
+            # ('Schedule Day-1',  '/fr/schedule-day-1/'),
+            # ('Schedule Day-2',  '/fr/schedule-day-2/'),
+        )),
         ('Participer',  (
             ('Enregistrement',  '/fr/registration/'),
             ('Service de halte-garderie',  '/fr/childcare/'),
