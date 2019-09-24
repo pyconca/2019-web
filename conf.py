@@ -41,7 +41,8 @@ BLOG_EMAIL = "n.tesla@example.com"
 BLOG_DESCRIPTION = "Official website for Pycon Canada 2019"  # (translatable)
 
 # making use of USE_CDN as a DEBUG flag
-if os.environ.get('DEBUG_MODE', True):
+DEBUG_MODE = os.environ.get('DEBUG_MODE', 'True')
+if DEBUG_MODE and DEBUG_MODE.upper() in ['TRUE']:
     USE_CDN = True
 else:
     USE_CDN = False
