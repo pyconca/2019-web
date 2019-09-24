@@ -173,7 +173,7 @@ NAVIGATION_LINKS = {
         #     ('Volunteer',  '/volunteer/'),
         # )),
         ('Information',  (
-            ('Code of Conduct',  '/under-construction/'),
+            ('Code of Conduct',  '/code-of-conduct/'),
             ('Email us',  'mailto:organizers@pycon.ca'),
         )),
     ),
@@ -196,7 +196,7 @@ NAVIGATION_LINKS = {
         #     ('Lieu',  '/fr/volunteer/'),
         # )),
         ('Information',  (
-            ('Code de conduite',  '/fr/under-construction/'),
+            ('Code de conduite',  '/fr/code-of-conduct/'),
             ('Contact',  'mailto:organizers@pycon.ca'),
         )),
     ),
