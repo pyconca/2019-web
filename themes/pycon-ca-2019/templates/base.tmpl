@@ -1,0 +1,154 @@
+{% import 'base_footer.tmpl' as footer with context %}
+{{ set_locale(lang) }}
+<!doctype html>
+<html lang="{{ lang }}">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Page title -->
+  {% if blog_title in title %}
+    <title>{{ title|e }}</title>
+  {% else %}
+    <title>{{ title|e }} | {{ blog_title|e }}</title>
+  {% endif %}
+
+  <!-- Font Awesome 4.7 -->
+  <link rel="stylesheet" href="/static/font-awesome.min.css">
+
+  <!-- Our custom CSS -->
+  <link rel="stylesheet" href="/style.css">
+
+</head>
+
+<body>
+  
+  <!-- Nav bar -->
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+    <div class="container">
+      <a class="navbar-brand" href="{{ abs_link(_link("root", None, lang)) }}">
+        <img src="/images/pycon_logo.png" class="d-inline-block align-center" alt="{{ blog_title|e }}">
+      </a>
+
+      <!-- Mobile button -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse flex-lg-column" id="navbarSupportedContent">
+        <!-- Navigation top row -->
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item m-1">
+            <a class="nav-link text-center nav-button-schedule" href="#">
+              <span class="nav-color-select font-weight-bold">{{ messages("SCHEDULE") }}</span>
+            </a>
+          </li>
+          <li class="nav-item m-1">
+            <a class="nav-link text-center nav-button-register" href="#">
+              <span class="nav-color-select font-weight-bold">{{ messages("REGISTER") }}</span>
+            </a>
+          </li>
+          <!-- Language selection -->
+          {% if permalink.startswith('/fr') %}
+            <li class="nav-item m-1">
+              <a class="nav-link text-center nav-top-text font-weight-bold" href="{{ permalink[3:] }}">
+                <span class="font-weight-bold">EN</span>
+                <span class="font-weight-bold"><i class="fa fa-refresh" aria-hidden="true"></i></span>
+              </a>
+            </li>
+          {% else %}
+            <li class="nav-item m-1">
+              <a class="nav-link text-center nav-top-text font-weight-bold" href="/fr{{ permalink }}">
+                <span class="font-weight-bold">FR</span>
+                <span class="font-weight-bold"><i class="fa fa-refresh" aria-hidden="true"></i></span>
+              </a>
+            </li>
+          {% endif %}
+        </ul>
+        <!-- Navigation links -->
+        <ul class="navbar-nav ml-auto">
+          <!-- Build out the navbar from config menu -->
+          {% for text, url in navigation_links[lang] %}  
+            <!-- Does current selection have sub-menus? -->
+            {% if isinstance(url, tuple) %}
+              <li class="nav-item text-center dropdown">
+                <a class="nav-link" href="#" id="menu-parent-{{ loop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
+                  <span class=""><i class="fa fa-level-down" aria-hidden="true"></i></span>
+                </a>
+                <div class="dropdown-menu nav-mobile-submenu text-center text-lg-left" aria-labelledby="menu-parent-{{ loop.index }}">
+                  {% for text, suburl in url %}
+                    <a class="dropdown-item nav-mobile-sublink" href="{{ suburl }}">
+                      <span class="">{{ text|e }}</span>
+                    </a>
+                  {% endfor %}
+                </div>
+              </li>
+            {% else %}
+              <!-- nav menus with no sub-menus -->
+              {% if rel_link(permalink, url) == "#" %}
+                {# active navigation links #}
+                <li class="nav-item text-center nav-active-text">
+                  <a class="nav-link" href="{{ permalink }}">
+                    <span class="nav-top-text font-weight-bold">{{ text|e }}<span class="sr-only">(current)</span></span>
+                  </a>
+                </li>
+              {% else %}
+                {# inactive links #}
+                <li class="nav-item">
+                  <a class="nav-link text-center" href="{{ url }}">
+                    <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
+                  </a>
+                </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+
+
+    </div>
+  </nav>
+
+
+  {% block center_section %}
+    <!-- Page Header -->
+    {% block content_header %}
+    {% endblock %}
+
+    <!-- Page Content -->
+    {% block content_post %}
+    {% endblock %}
+
+    <!-- Post Navigation links -->
+    {% block bottom_nav_links %}
+    {% endblock %}
+
+  {% endblock %}
+
+  <!-- Footer -->
+  {{ footer.html_footer() }}
+
+  <!-- JavaScript for Bootstrap -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="/js/jquery.min.js"></script> <!-- ver v3.4.1 -->
+  <script src="/js/bootstrap.bundle.min.js"></script>  <!-- ver v4.3.1 -->
+
+  <!-- DEBUGGING -->
+  {% if use_cdn %}
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <p class="text-center debug-indicator-footer">  </p>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+</body>
+
+</html>
+

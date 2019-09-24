@@ -20,8 +20,15 @@ npm --version
 echo "PIP version"
 pip --version
 
-# Start gulp build process
-gulp build
+# install NPM dependencies
+npm install
+
+# install PIP dependencies
+pip install -r requirements.txt
+
+nikola build
+
+nikola build  # we need to run this twice to pick up gulp/sass stuff
 
 
 echo "------------------------------------------------------------------------"

@@ -1,0 +1,14 @@
+[Core]
+Name = compile_sass_with_gulp
+Module = compile_sass_with_gulp
+
+[Nikola]
+PluginCategory = Task
+
+[Documentation]
+Author = Abraham Varricatt
+Version = 0.1
+Website = https://2019.pycon.ca/
+Description = Compile our SASS files using gulp 
+
+

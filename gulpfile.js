@@ -36,6 +36,10 @@ const FILES_TO_WATCH = [
     '**/*.tmpl',
     'files/*'
 ];
+const JS_FROM_NODE_MODULES = [
+    'node_modules/bootstrap/dist/js/*',
+    'node_modules/jquery/dist/*'
+];
 
 gulp.task('styles', function () {
     gulp.src(SASS_SOURCES)
@@ -49,6 +53,12 @@ gulp.task('styles', function () {
 
 gulp.task('assets-js', function () {
     gulp.src('src/js/*.js')
+        .pipe(gulp.dest('files/js/'))
+        .pipe(browserSync.stream());
+});
+
+gulp.task('assets-js-from-node', function () {
+    gulp.src(JS_FROM_NODE_MODULES)
         .pipe(gulp.dest('files/js/'))
         .pipe(browserSync.stream());
 });
@@ -113,18 +123,20 @@ gulp.task('nikola-clean', function (cb) {
 });
 
 gulp.task('build', [
-    // 'styles',
+    'styles',
     'assets',
     // 'assets-js',
-    // 'assets-fonts',
-    // 'nikola-build'
+    'assets-fonts',
     
-    // Old placeholder assets
+    'assets-js-from-node',
+
     'assets-old-css',
     'assets-old-js',
     'assets-old-img',
     'assets-old-html',
-    'assets-old-pdf'
+    'assets-old-pdf',
+
+    // 'nikola-build'
 ]);
 
 gulp.task('clean', ['nikola-clean'], function () {

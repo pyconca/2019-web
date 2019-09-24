@@ -1,0 +1,18 @@
+{% extends 'base.tmpl' %}
+
+{% block content_header %}
+<div class="container mt-4">
+  <div class="page-title border-bottom pb-1 mb-4">
+    <h1 class="mb-0 pb-0">{{ post.title()|e }}</h1>
+    {% if post.meta('description') %}
+        <p class="lead">{{ post.meta('description') }}</p>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
+
+{% block content_post %}
+<div class="container">
+  {{ post.text() }}
+</div>
+{% endblock %}

@@ -1,0 +1,44 @@
+
+.nav-active-text {
+    color: #6699CC;
+    @extend .font-weight-bolder;
+}
+
+
+.nav-top-text {
+    font-size: 1.1rem;
+
+    &:hover {
+        @extend .nav-active-text;
+    }
+}
+
+.nav-button-schedule {
+    background-color: #66CCCC;
+    border-radius: 0.25rem;
+    color: black;
+
+    &:hover {
+        background-color: #66FFCC;
+        color: black;
+    }
+
+    .nav-color-select {
+        color: black;
+    }
+}
+
+.nav-button-register {
+    background-color: #CC3333;
+    border-radius: 0.25rem;
+    color: white;
+
+    &:hover {
+        background-color: #CC3366;
+        color: white;
+    }
+
+    .nav-color-select {
+        color: white;
+    }
+}
