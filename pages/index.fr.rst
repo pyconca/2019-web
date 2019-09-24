@@ -24,7 +24,7 @@
     within the community.
     <br />
     PyCon Canada is entirely run by volunteers who are passionate about these goals. We hope to 
-    see you at the 2019 conference! We're also proud to host development sprints which provide 
+    see you at the 2019 conference! We\'re also proud to host development sprints which provide 
     a gateway for new contributors and a way for you to give back to the open-source community.
     On November 18-19, please join us at The Carlu, Toronto’s premier event conference center 
     in downtown Toronto. 
