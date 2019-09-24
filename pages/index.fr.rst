@@ -18,13 +18,16 @@
     logo_path='/images/pycon_circle.png'
     section_title='What is Pycon Canada?'
     section_message='
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
-    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
-    nunc at quam finibus molestie id quis lorem.
+    Our main goal is to strengthen the Canadian Python community by providing more opportunities 
+    for us to share knowledge and ideas, encourage support and education for speaking at 
+    conferences, and increase the visibility of developers, organizations, and companies 
+    within the community.
     <br />
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
-    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
-    nunc at quam finibus molestie id quis lorem.
+    PyCon Canada is entirely run by volunteers who are passionate about these goals. We hope to 
+    see you at the 2019 conference! We're also proud to host development sprints which provide 
+    a gateway for new contributors and a way for you to give back to the open-source community.
+    On November 18-19, please join us at The Carlu, Toronto’s premier event conference center 
+    in downtown Toronto. 
     '
 %}}
 
@@ -48,25 +51,31 @@
 
 {{% general_paragraph
     paragraph='
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
-    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
-    nunc at quam finibus molestie id quis lorem.
+    PyCon Canada is a community conference intended for networking and 
+    collaboration in the developer community.
     <br />
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
-    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
-    nunc at quam finibus molestie id quis lorem.
+    We value the participation of each member of the Python community and want 
+    all attendees to have an enjoyable and fulfilling experience. Accordingly, 
+    all attendees are expected to show respect and courtesy to other attendees 
+    throughout the conference and at all conference events, whether officially 
+    sponsored by PyCon Canada or not.
+    <br />
+    To make clear what is expected, all delegates, speakers, exhibitors and 
+    volunteers at any PyCon Canada event are required to conform to the 
+    following Code of Conduct. Organizers will enforce this code throughout 
+    the event.
     '
 %}}
 
 {{% general_heading
-    heading='News'
+    heading='Important Links'
 %}}
 
 {{% general_paragraph
     paragraph='
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna ex, 
-    aliquam eget mattis vulputate, tristique vel lectus. Aliquam vitae 
-    nunc at quam finibus molestie id quis lorem.
+    You can submit a talk at <a href="https://cfp.pycon.ca/">Call For Papers</a><br />
+    You can submit a grant application at <a href="https://forms.gle/QMuhZHT3zCwgqKbD8">this form</a> <br />
+    Download our <a href="/static/pyconca-sponsorship-prospectus.pdf">sponsorship prospectus</a> <br/>
     <br />
     '
 %}}
