@@ -7,4 +7,4 @@ Want to attend but concerned about the cost? We’d love to help! Submit a finan
 
 .. raw:: html
 
-  <a class="btn btn-lg btn-primary" href="#">Financial Aid for PyCon Canada</a>
+  <a class="btn btn-lg btn-primary" href="https://forms.gle/QMuhZHT3zCwgqKbD8">Financial Aid for PyCon Canada</a>
