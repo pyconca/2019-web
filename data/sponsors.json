@@ -1,58 +1,30 @@
 [
     {
-        "logo": "https://via.placeholder.com/150",
-        "web_link": "https://2019.pycon.ca/",
+        "logo": "https://2019.pycon.ca/images/sponsors/securitycompass-logo.png",
+        "web_link": "https://www.securitycompass.com/",
         "en": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "level": "Silver",
+            "name": "Security Compass",
+            "description": "Security Compass is a software security company that offers professional advisory services, training, and SD Elements, a first-of-its-kind policy to procedure platform. We help to eliminate security vulnerabilities in mission-critical applications, so that regulatory and compliance standards are easily met. At Security Compass, we believe in a world where people can trust technology. It is our mission to help customers manage cybersecurity risk, without slowing down their business. As a trusted information security partner, organizations can align application security with their business goals to build better, more secure software."
         },
         "fr": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "level": "Silver",
+            "name": "Security Compass",
+            "description": "Security Compass is a software security company that offers professional advisory services, training, and SD Elements, a first-of-its-kind policy to procedure platform. We help to eliminate security vulnerabilities in mission-critical applications, so that regulatory and compliance standards are easily met. At Security Compass, we believe in a world where people can trust technology. It is our mission to help customers manage cybersecurity risk, without slowing down their business. As a trusted information security partner, organizations can align application security with their business goals to build better, more secure software."
         }
     },
     {
-        "logo": "https://via.placeholder.com/150",
-        "web_link": "https://2019.pycon.ca/",
+        "logo": "https://2019.pycon.ca/images/sponsors/linode-logo.png",
+        "web_link": "https://www.linode.com/",
         "en": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "level": "Silver | Lanyard",
+            "name": "Linode",
+            "description": "Linode is a leading cloud hosting provider founded in 2003. Today, the company boasts more than 800,000 customers worldwide and operates ten data centers across three continents. Linode subscribers can create a cloud server in under a minute and then dynamically scale their environments to meet demands, paying only for resources used without long-term commitments. Lightning-quick SSD servers starting at $5/month for 1GB of RAM."
         },
         "fr": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "level": "Silver | Lanyard",
+            "name": "Linode",
+            "description": "Linode is a leading cloud hosting provider founded in 2003. Today, the company boasts more than 800,000 customers worldwide and operates ten data centers across three continents. Linode subscribers can create a cloud server in under a minute and then dynamically scale their environments to meet demands, paying only for resources used without long-term commitments. Lightning-quick SSD servers starting at $5/month for 1GB of RAM."
         }
     },
-    {
-        "logo": "https://via.placeholder.com/150",
-        "web_link": "https://2019.pycon.ca/",
-        "en": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        "fr": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-    },
-    {
-        "logo": "https://via.placeholder.com/150",
-        "web_link": "https://2019.pycon.ca/",
-        "en": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        "fr": {
-            "level": "Diamond | Diversity",
-            "name": "Sponsor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        }
-    }
-]
+   ]
