@@ -1,6 +1,6 @@
 [
     {
-        "logo": "https://2019.pycon.ca/images/sponsors/securitycompass-logo.png",
+        "logo": "/images/sponsors/securitycompass-logo.png",
         "web_link": "https://www.securitycompass.com/",
         "en": {
             "level": "Silver",
@@ -14,7 +14,7 @@
         }
     },
     {
-        "logo": "https://2019.pycon.ca/images/sponsors/linode-logo.png",
+        "logo": "/images/sponsors/linode-logo.png",
         "web_link": "https://www.linode.com/",
         "en": {
             "level": "Silver | Lanyard",
@@ -27,4 +27,4 @@
             "description": "Linode is a leading cloud hosting provider founded in 2003. Today, the company boasts more than 800,000 customers worldwide and operates ten data centers across three continents. Linode subscribers can create a cloud server in under a minute and then dynamically scale their environments to meet demands, paying only for resources used without long-term commitments. Lightning-quick SSD servers starting at $5/month for 1GB of RAM."
         }
     }
-   ]
+]

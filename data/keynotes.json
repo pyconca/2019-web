@@ -1,11 +1,11 @@
 [
     {
-        "image": "../images/william_lachance.jpg",
+        "image": "/images/william_lachance.jpg",
         "twitter": "https://twitter.com/pyconca/",
         "en": {
             "name": "William Lachance",
             "title": "Staff Engineer, Mozilla",
-            "description": "William Lachance is a staff engineer in Mozilla's data group, focused on data visualization and representation. He is most interested in building tools that help people of all backgrounds understand the world around them. In past lives, he designed open source transit routing websites and built web browser performance measuring robots with cameras and lego. More recently, he has been helping build out <a href="https://iodide.io">Iodide</a>, a literate scientific notebook environment that helpsbridge the divide between the python data science stack and the open web."
+            "description": "William Lachance is a staff engineer in Mozilla's data group, focused on data visualization and representation. He is most interested in building tools that help people of all backgrounds understand the world around them. In past lives, he designed open source transit routing websites and built web browser performance measuring robots with cameras and lego. More recently, he has been helping build out <a href=\"https://iodide.io\">Iodide</a>, a literate scientific notebook environment that helpsbridge the divide between the python data science stack and the open web."
         },
         "fr": {
             "name": "To Be Announced",
@@ -14,7 +14,7 @@
         }
     },
     {
-        "image": "../images/ideshini_naidoo.jpg",
+        "image": "/images/ideshini_naidoo.jpg",
         "website": "",
         "en": {
             "name": "Ideshini Naidoo",
