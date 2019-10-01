@@ -6,7 +6,7 @@
 
 
 {{% front_banner
-    conf_dates='NOVEMBER 16-19'
+    conf_dates='NOVEMBER 16-17'
     sprint_dates='NOVEMBER 18-19'
     venue='THE CARLU, TORONTO, ON'
     schedule_url='/under-construction/'
