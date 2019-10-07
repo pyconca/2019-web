@@ -8,3 +8,38 @@ $font-family-base: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Robo
 
 // https://getbootstrap.com/docs/4.3/content/typography/#responsive-font-sizes
 $enable-responsive-font-sizes: true;
+
+
+
+// Some coloring stuff copied over from last year
+
+$colour-dark-cyan: rgb(21, 143, 168);
+$colour-midnight-blue: rgb(6, 31, 57);
+$colour-red: rgb(220, 72, 73);
+
+
+// $theme-colors: (
+//   'primary': $colour-dark-cyan,
+//   'secondary': $colour-midnight-blue
+// );
+
+$pycon-colours: (
+  'dark-cyan': $colour-dark-cyan,
+  'midnight-blue': $colour-midnight-blue,
+  'red': $colour-red
+);
+
+
+
+
+
+// stuff for the schedule pages
+$colour-gray: rgb(221,221,221);
+
+
+$navbar-height: 56px;
+$schedule-time-height: 48px;
+$schedule-location-position: $navbar-height + $schedule-time-height;
+$schedule-location-height: 48px;
+$schedule-talk-position: $schedule-location-position + $schedule-location-height;
+
