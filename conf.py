@@ -157,7 +157,7 @@ NAVIGATION_LINKS = {
     # <TEXT> , <LINK>
     DEFAULT_LANG: (
         ('Sponsors', '/sponsors/'),
-        ('Speakers', '/under-construction/'),
+        # ('Speakers', '/under-construction/'),
         ('Event',  (
             ('About',  '/about/'),
             ('Organizers',  '/organizers/'),
@@ -179,7 +179,7 @@ NAVIGATION_LINKS = {
 
     "fr": (
         ('Sponsors', '/fr/sponsors/'),
-        ('Speakers', '/fr/under-construction/'),
+        # ('Speakers', '/fr/under-construction/'),
         ('L\'événement', (
             ('À propos',  '/fr/about/'),
             ('Organizers',  '/fr/organizers/'),

@@ -9,7 +9,7 @@
     conf_dates='NOVEMBER 16-17'
     sprint_dates='NOVEMBER 18-19'
     venue='THE CARLU, TORONTO, ON'
-    schedule_url='/under-construction/'
+    schedule_url='/schedule-day-1/'
     sprints_url='/under-construction/'
     register_url='https://shop.pycon.ca'
 %}}
