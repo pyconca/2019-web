@@ -26,5 +26,47 @@
             "name": "Linode",
             "description": "Linode is a leading cloud hosting provider founded in 2003. Today, the company boasts more than 800,000 customers worldwide and operates ten data centers across three continents. Linode subscribers can create a cloud server in under a minute and then dynamically scale their environments to meet demands, paying only for resources used without long-term commitments. Lightning-quick SSD servers starting at $5/month for 1GB of RAM."
         }
-    }
+    },
+        {
+        "logo": "/images/sponsors/shopify-logo.png",
+        "web_link": "https://www.shopify.com/careers",
+        "en": {
+            "level": "Silver",
+            "name": "Shopify",
+            "description": "Shopify is the leading multi-channel commerce platform. Merchants use Shopify to design, set up, and manage their stores across multiple sales channels, including mobile, web, social media, marketplaces, brick-and-mortar locations, and pop-up shops.The platform also provides merchants with a powerful back-office and a single view of their business, from payments to shipping. The Shopify platform was engineered for reliability and scale, making enterprise-level technology available to businesses of all sizes. Headquartered in Ottawa, Canada, Shopify currently powers over 800,000 businesses in approximately 175 countries and is trusted by brands such as Unilever, Kylie Cosmetics, Allbirds, MVMT, and many more."
+        },
+        "fr": {
+            "level": "Silver",
+            "name": "Shopify",
+            "description": "Shopify is the leading multi-channel commerce platform. Merchants use Shopify to design, set up, and manage their stores across multiple sales channels, including mobile, web, social media, marketplaces, brick-and-mortar locations, and pop-up shops.The platform also provides merchants with a powerful back-office and a single view of their business, from payments to shipping. The Shopify platform was engineered for reliability and scale, making enterprise-level technology available to businesses of all sizes. Headquartered in Ottawa, Canada, Shopify currently powers over 800,000 businesses in approximately 175 countries and is trusted by brands such as Unilever, Kylie Cosmetics, Allbirds, MVMT, and many more."
+        }
+    },
+            {
+        "logo": "/images/sponsors/points-logo.png",
+        "web_link": "https://company.points.com/",
+        "en": {
+            "level": "Silver",
+            "name": "Points",
+            "description": "Points is committed to helping loyalty programs build better experiences for their members. Our loyalty solutions empower over 1 billion members to earn currency faster and redeem it sooner for a broader selection of rewards. We partner with over 60 of the worlds' loyalty leading brands which include airlines, hotels, retailers and credit card rewards programs. Our company was founded in 2000 in Toronto, and we’ve been shaping the loyalty technology industry ever since. From engagement to growth, retention to redemption, our solutions nurture customers throughout all stages of the loyalty journey to maximize their lifetime value. We believe in partnership, collaboration, and that we can always do more together. At the heart of it all is our most valuable resource: our incredible team of employees."
+        },
+        "fr": {
+            "level": "Silver",
+            "name": "Points",
+            "description": "Points is committed to helping loyalty programs build better experiences for their members. Our loyalty solutions empower over 1 billion members to earn currency faster and redeem it sooner for a broader selection of rewards. We partner with over 60 of the worlds' loyalty leading brands which include airlines, hotels, retailers and credit card rewards programs. Our company was founded in 2000 in Toronto, and we’ve been shaping the loyalty technology industry ever since. From engagement to growth, retention to redemption, our solutions nurture customers throughout all stages of the loyalty journey to maximize their lifetime value. We believe in partnership, collaboration, and that we can always do more together. At the heart of it all is our most valuable resource: our incredible team of employees."
+        }
+    },
+                {
+        "logo": "/images/sponsors/yelp-logo.png",
+        "web_link": "yelp.com/careers",
+        "en": {
+            "level": "Gold",
+            "name": "Yelp",
+            "description": "Our users have contributed over 190 million reviews of almost every type of local business, from restaurants, boutiques and salons to dentists, mechanics, plumbers and more. Our business revolves around the connections made between the consumers who read and write reviews and the local businesses that they patronize. Since Yelp was founded in San Francisco back in July 2004, we have taken root across 32 countries. Our engineering culture is driven by our values: we’re a cooperative team that values individual authenticity, and encourages “unboring” solutions to problems. New hires are expected to deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor and team. At the end of the day, we are all about helping our users, growing as engineers, and having fun in a collaborative environment."
+        },
+        "fr": {
+            "level": "Gold",
+            "name": "Yelp",
+            "description": "Our users have contributed over 190 million reviews of almost every type of local business, from restaurants, boutiques and salons to dentists, mechanics, plumbers and more. Our business revolves around the connections made between the consumers who read and write reviews and the local businesses that they patronize. Since Yelp was founded in San Francisco back in July 2004, we have taken root across 32 countries. Our engineering culture is driven by our values: we’re a cooperative team that values individual authenticity, and encourages “unboring” solutions to problems. New hires are expected to deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor and team. At the end of the day, we are all about helping our users, growing as engineers, and having fun in a collaborative environment."
+        }
+    },
 ]
