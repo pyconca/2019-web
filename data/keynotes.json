@@ -1,7 +1,7 @@
 [
     {
         "image": "/images/william_lachance.jpg",
-        "twitter": "https://twitter.com/pyconca/",
+        "website": "https://wlach.github.io/",
         "en": {
             "name": "William Lachance",
             "title": "Staff Engineer, Mozilla",
@@ -15,10 +15,10 @@
     },
     {
         "image": "/images/ideshini_naidoo.jpg",
-        "website": "",
+        "twitter": "https://twitter.com/ideshinini",
         "en": {
             "name": "Ideshini Naidoo",
-            "title": "SVP, Engineering",
+            "title": "SVP, Engineering at Wave",
             "description": "Ideshini Naidoo is the Senior Vice President of Engineering at Wave where she leads a team of over 70 engineers. Her background spans a wealth of experience at an executive level in banking and telecommunications. She brings a depth of experience in technology and information systems within the Fintech space, having led major development efforts at both startups and large corporates within the financial services sector. Ideshini has extensive expertise in large scale electronic banking with multi-country, multi-platform implementation and operating experience, having headed corporate electronic banking across Africa at Barclays Bank and as Chief Information Officer of Rand Merchant Bank (one of Africa’s largest Corporate and Investment banks)."
         },
         "fr": {
@@ -28,14 +28,28 @@
         }
     },
     {
-        "image": "https://via.placeholder.com/150",
-        "website": "http://2019.pycon.ca/",
-        "instagram": "https://instagram.com/",
-        "github": "https://github.com/",
+        "image": "/images/huda_idrees.jpg",
+        "website": "https://www.hudaidrees.com/",
+        "twitter": "https://twitter.com/hidrees",
+        "github": "http://github.com/hidrees",
         "en": {
+            "name": "Huda Idrees",
+            "title": "Founder and CEO of Dot Health",
+            "description": "Huda is the Founder and CEO of Dot Health, a real-time personal health data platform. With a background in engineering from the University of Toronto and a prolific career at some of Toronto's best known startups including Wattpad, Wave, and Wealthsimple, her latest venture is transforming the way people access and control their own health information for good. Huda's work has been featured in The Globe and Mail, Toronto Star, Metro News, CNBC, and Metro Morning. She has been recognized amongst the Top 5 CEOs in Toronto Life, a Top 25 Women of Influence in 2017, and named Top 30 under 30 by the Bay Street Bull in 2018. Huda serves on the Business Innovation and Development committee at Sinai Health System and on the Canadian Federal Economic Strategy Table for Health and Biosciences."
+        },
+        "fr": {
             "name": "To Be Announced",
             "title": "TBD",
             "description": ""
+        }
+    },
+        {
+        "image": "/images/francoise_provenche.jpg",
+        "en": {
+            "name": "Françoise Provencher",
+            "title": "Staff Data Scientist at Shopify",
+            "description": "Françoise is a Staff Data Scientist at Shopify, an ecommerce SaaS company based in Canada. Her focus is to help product teams make good data-informed decisions. Before joining Shopify, she did a PhD in experimental physics and a post-doctoral fellowship in machine learning. Although she loves the switch to data science, she secretly misses shooting lasers on stuff.
+"
         },
         "fr": {
             "name": "To Be Announced",
