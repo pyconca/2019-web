@@ -9,4 +9,4 @@ Volunteers must be registered to volunteer, but we welcome all attendees to lend
 
 .. raw:: html
 
-    <a class="btn btn-lg btn-primary" href="#">Volunteer for PyCon Canada</a>
+    <a class="btn btn-lg btn-primary" href="https://forms.gle/YNhkhbVjtEDCX9hP6">Volunteer for PyCon Canada</a>
