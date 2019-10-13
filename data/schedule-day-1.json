@@ -53,8 +53,8 @@
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Handling datetimes without losing your head",
-                    "speaker_name": "Valery Calderon"
+                    "talk_title": "RAPIDS and cuDF: Accelerating DataFrames on GPUs",
+                    "speaker_name": "Ashwin Trikuta Srinath"
                 },
                 {
                     "location": "Talk room #3",
@@ -70,18 +70,18 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "'Git hook[ed]' on images & up your documentation game",
-                    "speaker_name": "Veronica Hanus"
+                    "talk_title": "Handling datetimes without losing your head",
+                    "speaker_name": "Valery Calderon"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "RAPIDS and cuDF: Accelerating DataFrames on GPUs",
-                    "speaker_name": "Ashwin Trikuta Srinath"
+                    "talk_title": "A Pythonista’s Intro to Kafka: No, it’s not like Celery",
+                    "speaker_name": "Tom Aratyn"
                 },
                 {
                     "location": "Talk room #3",
                     "talk_title": "Data Visualization with Altair - Survey Data Case Study",
-                    "speaker_name": "TBD"
+                    "speaker_name": " Stephen Childs"
                 }
             ]
         },
@@ -152,7 +152,7 @@
                 {
                     "location": "Talk room #3",
                     "talk_title": "Genetic algorithms: Making errors do all the work",
-                    "speaker_name": "raman tehlan"
+                    "speaker_name": "Raman Tehlan"
                 }
             ]
         },
@@ -213,8 +213,8 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Hype Yourself!",
-                    "speaker_name": "Aashni Shah"
+                    "talk_title": "Narrative-focused video games development with Ren'Py",
+                    "speaker_name": "Susan Chang"
                 },
                 {
                     "location": "Talk room #2",
@@ -224,7 +224,7 @@
                 {
                     "location": "Talk room #3",
                     "talk_title": "Voice recognition using python and deep learning",
-                    "speaker_name": "TBD"
+                    "speaker_name": "Cesar Osorio"
                 }
             ]
         },
@@ -236,7 +236,7 @@
                 {
                     "location": "Main hall",
                     "talk_title": "Evening Keynote",
-                    "speaker_name": "TBD"
+                    "speaker_name": ""
                 }
             ]
         }
