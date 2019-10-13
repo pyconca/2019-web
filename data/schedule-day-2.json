@@ -33,17 +33,17 @@
                 {
                     "location": "Talk room #1",
                     "talk_title": "Innovating in Unusual Places",
-                    "speaker_name": "TBD"
+                    "speaker_name": "Sarah Sun"
                 },
                 {
                     "location": "Talk room #2",
                     "talk_title": "Operator Overloading: You're Doing It Wrong",
-                    "speaker_name": "TBD"
+                    "speaker_name": "Greg Ward"
                 },
                 {
                     "location": "Talk room #3",
-                    "talk_title": "Modern gold mining: Leveraging Deep Learning to predict GMV for 100k+ shops",
-                    "speaker_name": "Breno Freitas"
+                    "talk_title": "PySpark: avoiding common pitfalls and keeping your sanity",
+                    "speaker_name": "Jonathan Rioux"
                 }
             ]
         },
@@ -81,13 +81,13 @@
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Data Insights from Linked Data",
-                    "speaker_name": "Rachel Wang and Jordan Pedersen"
+                    "talk_title": "Automate Apache Airflow",
+                    "speaker_name": "Mridu Bhatnagar"
                 },
                 {
                     "location": "Talk room #3",
-                    "talk_title": "PySpark: avoiding common pitfalls and keeping your sanity",
-                    "speaker_name": "Jonathan Rioux"
+                    "talk_title": "Energy Indicators and Jupyter Notebooks at the Canada Energy Regulator",
+                    "speaker_name": "Margaret Skwara and Janna Rodioukova"
                 }
             ]
         },
@@ -147,8 +147,8 @@
                 },
                 {
                     "location": "Talk room #3",
-                    "talk_title": "TBD",
-                    "speaker_name": "TBD"
+                    "talk_title": "Data Insights from Linked Data",
+                    "speaker_name": "Rachel Wang and Jordan Pedersen"
                 }
             ]
         },
