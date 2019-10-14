@@ -10,7 +10,7 @@
     sprint_dates='NOVEMBER 18-19'
     venue='THE CARLU, TORONTO, ON'
     schedule_url='/schedule-day-1/'
-    sprints_url='/under-construction/'
+    sprints_url='https://pyconca2019-sprint-days.eventbrite.com'
     register_url='https://shop.pycon.ca'
 %}}
 
