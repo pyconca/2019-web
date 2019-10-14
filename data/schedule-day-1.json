@@ -1,0 +1,244 @@
+{
+    "date": "2019-Nov-16",
+    "events": [
+        {
+            "time_start": "8:00",
+            "time_stop": "9:00",
+            "type": "break",
+            "title": "Breakfast & Registration"
+        },
+        {
+            "time_start": "9:00",
+            "time_stop": "10:30",
+            "type": "keynote",
+            "rooms": [
+                {
+                    "location": "Main hall",
+                    "talk_title": "Opening Remarks and Morning Keynote",
+                    "speaker_name": "TBD"
+                }
+            ]
+        },
+        {
+            "time_start": "10:30",
+            "time_stop": "10:55",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "Procedural Generation for Fun and Profit",
+                    "speaker_name": "Luis E. Pérez Estrada"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "Debugging Jupyter Notebooks",
+                    "speaker_name": "Maria Khalusova"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Using word2vec to reveal biases in CBC reports",
+                    "speaker_name": "Roberto Rocha"
+                }
+            ]
+        },
+        {
+            "time_start": "11:15",
+            "time_stop": "11:40",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "Move Fast, and Break things, Deploying the Largest Python Site in the World",
+                    "speaker_name": "Alvaro Leiva"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "RAPIDS and cuDF: Accelerating DataFrames on GPUs",
+                    "speaker_name": "Ashwin Trikuta Srinath"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Understanding Autistic Children using BioSensors and Python!",
+                    "speaker_name": "Niharika Krishnan"
+                }
+            ]
+        },
+        {
+            "time_start": "12:00",
+            "time_stop": "12:25",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "Handling datetimes without losing your head",
+                    "speaker_name": "Valery Calderon"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "A Pythonista’s Intro to Kafka: No, it’s not like Celery",
+                    "speaker_name": "Tom Aratyn"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Data Visualization with Altair - Survey Data Case Study",
+                    "speaker_name": " Stephen Childs"
+                }
+            ]
+        },
+        {
+            "time_start": "12:30",
+            "time_stop": "13:30",
+            "type": "lunch_break"
+        },
+        {
+            "time_start": "13:30",
+            "time_stop": "13:55",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "Fantastic anti-patterns and where to find them: pinpointing performance bottlenecks",
+                    "speaker_name": "Samuel Dion-Girardeau"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "Building a CMS in Python with Django+Wagtail",
+                    "speaker_name": "Tyler Savery"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Modelling user journeys with Keras and neural networks",
+                    "speaker_name": "Jennifer Nguyen"
+                }
+            ]
+        },
+        {
+            "time_start": "14:15",
+            "time_stop": "14:40",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "The Zen of Python Teams",
+                    "speaker_name": "Adrienne Lowe"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "Rust Accelerated Pythons",
+                    "speaker_name": "Dorian Pula"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Anomaly Detection in the Wild",
+                    "speaker_name": "Tim Hahn"
+                }
+            ]
+        },
+        {
+            "time_start": "15:00",
+            "time_stop": "15:25",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "How to Build Bulletproof Integrations",
+                    "speaker_name": "John P. Kennedy"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "From hot mess to information, or why you should spend more time processing your data",
+                    "speaker_name": "Serena Peruzzo"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Genetic algorithms: Making errors do all the work",
+                    "speaker_name": "Raman Tehlan"
+                }
+            ]
+        },
+        {
+            "time_start": "15:25",
+            "time_stop": "16:00",
+            "type": "break",
+            "title": "Afternoon Break"
+        },
+        {
+            "time_start": "16:00",
+            "time_stop": "16:10",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "pyblitzdg: The future of physical model development has arrived",
+                    "speaker_name": "Derek Steinmoeller"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "Building Municipal Web Apps with Python",
+                    "speaker_name": "Cody Brown"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Algorithmic Bias in Machine Learning",
+                    "speaker_name": "Jill Cates"
+                }
+            ]
+        },
+        {
+            "time_start": "16:20",
+            "time_stop": "16:30",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "Growing Plants without soil using Python!",
+                    "speaker_name": "Manav Mehra"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "Coding with An Accent",
+                    "speaker_name": "Seonaid Lee"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Forecasting and observing Airfare trends using Python and Neural Networks",
+                    "speaker_name": "Anuj Menta"
+                }
+            ]
+        },
+        {
+            "time_start": "16:40",
+            "time_stop": "16:50",
+            "type": "talk",
+            "rooms": [
+                {
+                    "location": "Talk room #1",
+                    "talk_title": "Narrative-focused video games development with Ren'Py",
+                    "speaker_name": "Susan Chang"
+                },
+                {
+                    "location": "Talk room #2",
+                    "talk_title": "Iron Pythonista",
+                    "speaker_name": "Josh Weissbock"
+                },
+                {
+                    "location": "Talk room #3",
+                    "talk_title": "Voice recognition using python and deep learning",
+                    "speaker_name": "Cesar Osorio"
+                }
+            ]
+        },
+        {
+            "time_start": "17:00",
+            "time_stop": "18:00",
+            "type": "keynote",
+            "rooms": [
+                {
+                    "location": "Main hall",
+                    "talk_title": "Evening Keynote",
+                    "speaker_name": ""
+                }
+            ]
+        }
+    ]
+}
