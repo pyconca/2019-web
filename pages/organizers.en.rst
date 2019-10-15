@@ -63,7 +63,7 @@
     pycon_title='Sprints Coordinator'
     photo='/images/organizers/python-powered.png'
     twitter_url='https://twitter.com/dorianpula'
-    personal_utl='https://dorianpula.ca/'
+    personal_url='https://dorianpula.ca/'
     bitbucket_url='https://bitbucket.org/dorianpula'
     description='Dorian is coordinating the open source coding sprints this
     year. Please get in touch with him if you are a core dev on a project and
