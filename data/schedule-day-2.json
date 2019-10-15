@@ -41,7 +41,7 @@
                     "speaker_name": "Greg Ward"
                 },
                 {
-                    "location": "Talk room #3",
+                    "location": "PyData Track (Round Room)",
                     "talk_title": "PySpark: avoiding common pitfalls and keeping your sanity",
                     "speaker_name": "Jonathan Rioux"
                 }
@@ -63,7 +63,7 @@
                     "speaker_name": "Juti Noppornpitak"
                 },
                 {
-                    "location": "Talk room #3",
+                    "location": "PyData Track (Round Room)",
                     "talk_title": "Feature Engineering: An Apprentice's Guide To The 'Dark Art' Of Machine Learning",
                     "speaker_name": "Deborah Diller Harris"
                 }
@@ -85,7 +85,7 @@
                     "speaker_name": "Mridu Bhatnagar"
                 },
                 {
-                    "location": "Talk room #3",
+                    "location": "PyData Track (Round Room)",
                     "talk_title": "Energy Indicators and Jupyter Notebooks at the Canada Energy Regulator",
                     "speaker_name": "Margaret Skwara and Janna Rodioukova"
                 }
@@ -124,7 +124,7 @@
                     "speaker_name": "Josh Reed"
                 },
                 {
-                    "location": "Talk room #3",
+                    "location": "PyData Track (Round Room)",
                     "talk_title": "Gimme Shelter: Using Python to Find an Apartment in Toronto",
                     "speaker_name": "Ian Whitestone"
                 }
@@ -146,7 +146,7 @@
                     "speaker_name": "Wei Lee"
                 },
                 {
-                    "location": "Talk room #3",
+                    "location": "PyData Track (Round Room)",
                     "talk_title": "Data Insights from Linked Data",
                     "speaker_name": "Rachel Wang and Jordan Pedersen"
                 }
@@ -168,7 +168,7 @@
                     "speaker_name": "Leta Montopoli"
                 },
                 {
-                    "location": "Talk room #3",
+                    "location": "PyData Track (Round Room)",
                     "talk_title": "Why you can’t reproduce that great piece of machine learning research and what we can do to fix it",
                     "speaker_name": "Abhishek Gupta"
                 }
