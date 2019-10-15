@@ -1,5 +1,49 @@
 [
     {
+        "logo": "/images/sponsors/wave-logo.png",
+        "twitter":"https://twitter.com/wavehq",
+        "web_link": "https://www.waveapps.com/about-us/about",
+        "en": {
+            "level": "Gold",
+            "name": "Wave",
+            "description": "We’re changing the lives of entrepreneurs around the world. We join forces to build platforms and products that give small business owners the power to realize their dreams. Our engineering team is fuelled by technical curiosity and empathy. Wave has been a partner to PyCon Canada since its inception, and several Wavers have been involved in its organization since 2012. We're happy to continue this great tradition in 2019. We'll see you there!"
+        },
+        "fr": {
+            "level": "Gold",
+            "name": "Wave",
+            "description": "We’re changing the lives of entrepreneurs around the world. We join forces to build platforms and products that give small business owners the power to realize their dreams. Our engineering team is fuelled by technical curiosity and empathy. Wave has been a partner to PyCon Canada since its inception, and several Wavers have been involved in its organization since 2012. We're happy to continue this great tradition in 2019. We'll see you there!"
+        }
+    },
+    {
+        "logo": "/images/sponsors/yelp-logo.png",
+        "web_link": "yelp.com/careers",
+        "en": {
+            "level": "Gold",
+            "name": "Yelp",
+            "description": "Our users have contributed over 190 million reviews of almost every type of local business, from restaurants, boutiques and salons to dentists, mechanics, plumbers and more. Our business revolves around the connections made between the consumers who read and write reviews and the local businesses that they patronize. Since Yelp was founded in San Francisco back in July 2004, we have taken root across 32 countries. Our engineering culture is driven by our values: we’re a cooperative team that values individual authenticity, and encourages “unboring” solutions to problems. New hires are expected to deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor and team. At the end of the day, we are all about helping our users, growing as engineers, and having fun in a collaborative environment."
+        },
+        "fr": {
+            "level": "Gold",
+            "name": "Yelp",
+            "description": "Our users have contributed over 190 million reviews of almost every type of local business, from restaurants, boutiques and salons to dentists, mechanics, plumbers and more. Our business revolves around the connections made between the consumers who read and write reviews and the local businesses that they patronize. Since Yelp was founded in San Francisco back in July 2004, we have taken root across 32 countries. Our engineering culture is driven by our values: we’re a cooperative team that values individual authenticity, and encourages “unboring” solutions to problems. New hires are expected to deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor and team. At the end of the day, we are all about helping our users, growing as engineers, and having fun in a collaborative environment."
+        }
+    },
+        {
+        "logo": "/images/sponsors/microsoft-logo.png",
+        "twitter": "https://twitter.com/MSDevCA",
+        "web_link": "www.microsoft.ca",
+        "en": {
+            "level": "Silver | Workshop",
+            "name": "Microsoft",
+            "description": "Microsoft provides technology solutions that help people of action meet real-world challenges through innovation, productivity, and collaboration. Our mission is to empower every person and organization on the planet to achieve more."
+        },
+        "fr": {
+            "level": "Silver | Workshop",
+            "name": "Microsoft",
+            "description": "Microsoft provides technology solutions that help people of action meet real-world challenges through innovation, productivity, and collaboration. Our mission is to empower every person and organization on the planet to achieve more."
+        }
+    },
+    {
         "logo": "/images/sponsors/securitycompass-logo.png",
         "web_link": "https://www.securitycompass.com/",
         "en": {
@@ -54,19 +98,6 @@
             "name": "Points",
             "description": "Points is committed to helping loyalty programs build better experiences for their members. Our loyalty solutions empower over 1 billion members to earn currency faster and redeem it sooner for a broader selection of rewards. We partner with over 60 of the worlds' loyalty leading brands which include airlines, hotels, retailers and credit card rewards programs. Our company was founded in 2000 in Toronto, and we’ve been shaping the loyalty technology industry ever since. From engagement to growth, retention to redemption, our solutions nurture customers throughout all stages of the loyalty journey to maximize their lifetime value. We believe in partnership, collaboration, and that we can always do more together. At the heart of it all is our most valuable resource: our incredible team of employees."
         }
-    },
-                {
-        "logo": "/images/sponsors/yelp-logo.png",
-        "web_link": "yelp.com/careers",
-        "en": {
-            "level": "Gold",
-            "name": "Yelp",
-            "description": "Our users have contributed over 190 million reviews of almost every type of local business, from restaurants, boutiques and salons to dentists, mechanics, plumbers and more. Our business revolves around the connections made between the consumers who read and write reviews and the local businesses that they patronize. Since Yelp was founded in San Francisco back in July 2004, we have taken root across 32 countries. Our engineering culture is driven by our values: we’re a cooperative team that values individual authenticity, and encourages “unboring” solutions to problems. New hires are expected to deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor and team. At the end of the day, we are all about helping our users, growing as engineers, and having fun in a collaborative environment."
-        },
-        "fr": {
-            "level": "Gold",
-            "name": "Yelp",
-            "description": "Our users have contributed over 190 million reviews of almost every type of local business, from restaurants, boutiques and salons to dentists, mechanics, plumbers and more. Our business revolves around the connections made between the consumers who read and write reviews and the local businesses that they patronize. Since Yelp was founded in San Francisco back in July 2004, we have taken root across 32 countries. Our engineering culture is driven by our values: we’re a cooperative team that values individual authenticity, and encourages “unboring” solutions to problems. New hires are expected to deploy working code their first week, and your impact will only grow from there with the support of your manager, mentor and team. At the end of the day, we are all about helping our users, growing as engineers, and having fun in a collaborative environment."
-        }
     }
+                
 ]
