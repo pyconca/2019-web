@@ -31,5 +31,15 @@
        twitter_url='https://twitter.com/cfournie'
        github_url='https://github.com/cfournie'
        description='He works as a Software Engineering Lead at Shopify'
-   %}}
+%}}
+   
+{{% organizer_details
+   name='Juti Noppornpitak'
+   pycon_title='Organizer, Photographer'
+   photo='/images/organizers/juti.jpeg'
+   github_url='https://github.com/shiroyuki'
+   personal_url='https://www.shiroyuki.com/'
+   twitter_url='https://twitter.com/shiroyuki'
+   description='He works as a senior software developer and team lead at DNAstack.'
+%}}  
    
