@@ -82,10 +82,12 @@
    name='Alex Volkov'
    pycon_title='Organizer'
    photo='/images/organizers/alex-volkov.jpg'
+   personal_url='https://flamy.ca/'
    mastodon_url='https://mastodon.xyz/@avolkov'
    gitlab_url='https://gitlab.com/avolkov1'
    description='He works as a Intermediate Developer at MAG Solutions at Ministry of Attorney General of Ontario'
 %}}
+
 {{% organizer_details
    name='Francis Deslauriers'
    pycon_title='Organizer'
