@@ -34,6 +34,15 @@
 %}}
    
 {{% organizer_details
+   name='Elaine Wong'
+   pycon_title='Conference co-Chair'
+   photo='/images/organizers/elaine.png'
+   twitter_url='https://twitter.com/elthenerd'
+   github_url='https://github.com/elainewong'
+   description="When she wasn't helping out for PyCon Canada, Elaine works as a Switcher/Director for the Canadian Broadcasting Corporation/Radio-Canada. She is also active as a global organizer of PyLadies and organizes a conference about all things data."
+%}}  
+   
+{{% organizer_details
    name='Juti Noppornpitak'
    pycon_title='Organizer, Photographer'
    photo='/images/organizers/juti.jpeg'
