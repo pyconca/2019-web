@@ -51,4 +51,16 @@
    twitter_url='https://twitter.com/shiroyuki'
    description='He works as a senior software developer and team lead at DNAstack.'
 %}}  
-   
+
+{{% organizer_details
+   name='Myles Braithwaite'
+   pycon_title='Organizer'
+   photo='/images/organizers/myles-braithwaite.png'
+   twitter_url='https://twitter.com/mylesb'
+   instagram_url='https://instagram.com/myles'
+   github_url='https://github.com/myles'
+   mastodon_url='https://mastodon.social/@mylesb'
+   linkedin_url='https://linkedin.com/in/mylesbraithwaite'
+   description='He works as a Full Stack Developer at Bungalow.'
+%}}
+
