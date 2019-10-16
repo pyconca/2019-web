@@ -63,6 +63,7 @@
    linkedin_url='https://linkedin.com/in/mylesbraithwaite'
    description='He works as a Full Stack Developer at Bungalow.'
 %}}
+
 {{% organizer_details
     name='Dorian Pula'
     pycon_title='Sprints Coordinator'
@@ -75,4 +76,13 @@
     Dorian is coordinating the open source coding sprints for this
     year. Please get in touch with him if you are a core dev on a project and
     will be available to work on the sprints.'
+%}}
+
+{{% organizer_details
+   name='Alex Volkov'
+   pycon_title='Organizer'
+   photo='/images/organizers/alex-volkov.jpg'
+   mastodon_url='https://mastodon.xyz/@avolkov'
+   gitlab_url='https://gitlab.com/avolkov1'
+   description='He works as a Intermediate Developer at MAG Solutions at Ministry of Attorney General of Ontario'
 %}}
