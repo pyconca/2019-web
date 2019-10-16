@@ -58,3 +58,16 @@
     placeholder.'
 %}}
 
+{{% organizer_details
+    name='Dorian Pula'
+    pycon_title='Sprints Coordinator'
+    photo='/images/organizers/dorian-pula.jpg'
+    twitter_url='https://twitter.com/dorianpula'
+    personal_url='https://dorianpula.ca/'
+    bitbucket_url='https://bitbucket.org/dorianpula'
+    description='Dorian is a full-stack web application, and DevOps developer
+    and is a contributor to a number of open source Python and Rust projects.
+    Dorian is coordinating the open source coding sprints for this
+    year. Please get in touch with him if you are a core dev on a project and
+    will be available to work on the sprints.'
+%}}
