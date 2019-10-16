@@ -28,6 +28,20 @@
         }
     },
     {
+        "logo": "/images/sponsors/microsoft-logo.png",
+        "web_link": "https://www.microsoft.ca/",
+        "en": {
+            "level": "Silver | Workshop",
+            "name": "Microsoft",
+            "description": "Microsoft provides technology solutions that help people of action meet real-world challenges through innovation, productivity, and collaboration. Our mission is to empower every person and organization on the planet to achieve more."
+        },
+        "fr": {
+            "level": "Silver | Workshop",
+            "name": "Microsoft",
+            "description": "Microsoft provides technology solutions that help people of action meet real-world challenges through innovation, productivity, and collaboration. Our mission is to empower every person and organization on the planet to achieve more."
+        }
+    },
+    {
         "logo": "/images/sponsors/securitycompass-logo.png",
         "web_link": "https://www.securitycompass.com/",
         "en": {
