@@ -86,3 +86,30 @@
    gitlab_url='https://gitlab.com/avolkov1'
    description='He works as a Intermediate Developer at MAG Solutions at Ministry of Attorney General of Ontario'
 %}}
+{{% organizer_details
+   name='Francis Deslauriers'
+   pycon_title='Organizer'
+   photo='/images/organizers/no-photo.png'
+   twitter_url='https://twitter.com/frdeso_'
+   github_url='https://github.com/frdeso'
+   description='He works as a Computer Engineer at EfficiOS'
+%}}
+
+{{% organizer_details
+   name='David Cormier'
+   pycon_title='Organizer'
+   photo='/images/organizers/no-photo.png'
+   github_url='https://github.com/cormier'
+   description='He works at Érudit'
+%}}
+
+
+{{% organizer_details
+   name='Abraham Varricatt'
+   pycon_title='Organizer'
+   photo='/images/organizers/abraham_v.jpg'
+   github_url='https://github.com/abrahamvarricatt'
+   personal_url='https://blog.abraham-v.com/'
+   linkedin_url='https://www.linkedin.com/in/abrahamvarricatt/'
+   description='Helped to build the website you see. Is a software designer at heart. Loves programming and fun challenges. Enjoys teaching others how to use computers and code. A family man blessed with a loving wife.'
+%}}
