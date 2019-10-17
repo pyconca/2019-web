@@ -7,10 +7,10 @@
 .. raw:: html
 
   <div class="col-md-4">
-  <a class="btn btn-block front-banner-button-2" href="https://shop.pycon.ca" role="button">Buy a Ticket to PyCon Canada 2019</a>
+  <a class="nav-link text-center nav-button-register" href="https://shop.pycon.ca" role="button">Buy a Ticket to PyCon Canada 2019</a>
   </div>
-  <p>%nbsp;</p>
-   <p>%nbsp;</p>
+  <p>&nbsp;</p>
+   <p>&nbsp;</p>
 
 
 Schedule
@@ -67,6 +67,6 @@ Financial aid recipients have some part of their expenses, which may include reg
 .. raw:: html
 
   <div class="col-md-4">
-  <a class="btn btn-block front-banner-button-2" href="https://shop.pycon.ca" role="button">Buy a Ticket to PyCon Canada 2019</a>
+  <a class="nav-link text-center nav-button-register" href="https://shop.pycon.ca" role="button">Buy a Ticket to PyCon Canada 2019</a>
   </div>
 
