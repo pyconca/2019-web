@@ -5,6 +5,7 @@
 
 
 .. raw:: html
+
  <div class="btn-group">
         <a class="btn btn-outline-red btn-lg" style="font-size: 2rem;" href="https://shop.pycon.ca" role="button">Buy a ticket to PyConCA 2019</a>
             </div>
@@ -61,6 +62,7 @@ However, this philosophy might be a barrier to someone who can not afford for th
 Financial aid recipients have some part of their expenses, which may include registration, travel or accomodation, paid from PyCon budget. While we can't cover all expenses for everyone, we try our best to optimally allocate our budget. Profits from  Contributor tickets sales goes to financial aid fund.
 
 .. raw:: html
+
  <div class="btn-group">
         <a class="btn btn-outline-red btn-lg" style="font-size: 2rem;" href="https://shop.pycon.ca" role="button">Buy a ticket to PyConCA 2019</a>
             </div>
