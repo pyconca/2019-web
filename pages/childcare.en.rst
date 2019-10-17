@@ -9,5 +9,5 @@ We are hoping to provide childcare at Pycon Canada 2019. If you are interested i
 
 .. raw:: html
 
-    <a class="btn btn-lg btn-primary" href="https://t.co/KvKBkQFk95?amp=1">Childcare Survey</a>
+    <a class="btn btn-lg btn-primary" href="https://t.co/KvKBkQFk95?amp=1" target="_blank">Childcare Survey</a>
 
