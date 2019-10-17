@@ -81,7 +81,7 @@
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Automate Apache Airflow",
+                    "talk_title": "Automating the data pipeline using Apache Airflow",
                     "speaker_name": "Mridu Bhatnagar"
                 },
                 {
