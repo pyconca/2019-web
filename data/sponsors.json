@@ -1,7 +1,7 @@
 [
                 {
         "logo": "/images/sponsors/yelp-logo.png",
-        "web_link": "yelp.com/careers",
+        "web_link": "https://yelp.com/careers",
         "en": {
             "level": "Gold",
             "name": "Yelp",
