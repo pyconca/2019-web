@@ -1,13 +1,18 @@
-.. title: Registration
+.. title: PyCon Canada 2019 Registration Information
 .. slug: registration
-.. date: 2019-09-24 21:23:22 UTC+04:00
+.. date: 2019-10-16 21:23:22 UTC+04:00
 .. type: text
+
 
 
 .. raw:: html
  <div class="btn-group">
         <a class="btn btn-outline-red btn-lg" style="font-size: 2rem;" href="https://shop.pycon.ca" role="button">Buy a ticket to PyConCA 2019</a>
             </div>
+
+    <!-- Hack for some space on page -->
+    <p>&nbsp;</p>
+
 
 Schedule
 ========
@@ -17,8 +22,6 @@ Schedule
 +==========================+==========================+================+=================+
 | Talks and Tutorials      | Talks and Tutorials      | Sprints        | Sprints         |
 +--------------------------+--------------------------+----------------+-----------------+
-
-.. raw:: html
 
     <br />
     <br />
