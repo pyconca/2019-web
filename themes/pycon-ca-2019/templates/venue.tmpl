@@ -1,0 +1,8 @@
+{% extends 'landing_page.tmpl' %}
+
+{{ define banner_img }}
+        <img src="/images/The_Carlu_sign.png" class="d-inline-block align-center" alt="{{ blog_title|e }}">
+{{ end }}
+{% block content_post %}
+    {{ post.text() }}
+{% endblock %}
