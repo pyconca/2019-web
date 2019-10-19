@@ -24,7 +24,7 @@
 </head>
 
 <body>
-  
+
   <!-- Nav bar -->
   <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
     <div class="container">
@@ -71,7 +71,7 @@
         <!-- Navigation links -->
         <ul class="navbar-nav ml-auto">
           <!-- Build out the navbar from config menu -->
-          {% for text, url in navigation_links[lang] %}  
+          {% for text, url in navigation_links[lang] %}
             <!-- Does current selection have sub-menus? -->
             {% if isinstance(url, tuple) %}
               <li class="nav-item text-center dropdown">
@@ -138,11 +138,12 @@
   <script src="/js/bootstrap.bundle.min.js"></script>  <!-- ver v4.3.1 -->
 
   <!-- DEBUGGING -->
+
   {% if use_cdn %}
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-          <p class="text-center debug-indicator-footer">  </p>
+          <!-- p class="text-center debug-indicator-footer">  </p -->
         </div>
       </div>
     </div>
@@ -151,4 +152,3 @@
 </body>
 
 </html>
-
