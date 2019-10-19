@@ -161,10 +161,11 @@ NAVIGATION_LINKS = {
         ('Event',  (
             ('About',  '/about/'),
             ('Organizers',  '/organizers/'),
-            # ('Sponsors',  '/sponsors/'),
-            # ('Schedule Day-1',  '/schedule-day-1/'),
-            # ('Schedule Day-2',  '/schedule-day-2/'),
+            ('Venue',  '/venue/'),
+             ('Schedule Day-1',  '/schedule-day-1/'),
+             ('Schedule Day-2',  '/schedule-day-2/'),
         )),
+
         ('Participate',  (
             ('Registration',  '/registration/'),
             ('Childcare',  '/childcare/'),
@@ -183,7 +184,7 @@ NAVIGATION_LINKS = {
         ('L\'événement', (
             ('À propos',  '/fr/about/'),
             ('Organizers',  '/fr/organizers/'),
-            # ('Commanditaires', '/fr/sponsors/'),
+            ('Venue', '/fr/venue/'),
             # ('Schedule Day-1',  '/fr/schedule-day-1/'),
             # ('Schedule Day-2',  '/fr/schedule-day-2/'),
         )),
