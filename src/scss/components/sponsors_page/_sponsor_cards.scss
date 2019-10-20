@@ -1,12 +1,13 @@
 
 .sponsor-header {
     @extend .text-uppercase;
+    @extend .font-weight-bold;
 
-    color: #c42a48;
+    color: map-get($pycon-colours, 'button-red-hover');
     background-color: white;
     border-bottom: none;
 }
 
 .sponsor-card-title {
-    color: #1284a3;
+    color: map-get($pycon-colours, 'color-a');
 }
