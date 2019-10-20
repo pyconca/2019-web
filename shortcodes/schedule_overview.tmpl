@@ -49,7 +49,7 @@
                     <div class="row">
                         {% for room in event['rooms'] %}
                             <!-- location column -->
-                            <div class="col-12 schedule-locationdata-sticky" id="#">
+                            <div class="col-12 schedule-locationdata-sticky" id="talk-{{ room['ref'] }}">
                                 <div class="row schedule-locationdata schedule-locationdata-sticky">
                                     <div class="col-3 location-icon">
                                         <!-- icon is different between keynotes and talks -->
@@ -66,33 +66,33 @@
                             <!-- talk column -->
                             <div class="col-12">
                                     <div class="schedule-talkdata schedule-talkdata-sticky">
-                                        <a href="#" class="btn disabled">
+                                        <a href="#" class="btn">
                                             <p class="talk-title">
                                                 <i class="fa fa-bullhorn" aria-hidden="true"></i>
-                                                {{  room['talk_title']  }}
+                                                {{ global_data['talks/' + room['ref']]['talk_title'] }}
                                             </p>
-                                            {% if room['speaker_name'] %}
-                                            <p class="talk-speaker">
-                                                {{  room['speaker_name']  }}
-                                            </p>
+                                            {% if global_data['talks/' + room['ref']]['speaker_name'] %}
+                                              <p class="talk-speaker">
+                                                  {{  global_data['talks/' + room['ref']]['speaker_name']  }}
+                                              </p>
                                             {% endif %}
                                         </a>
                                     </div>
                                     <div class="schedule-talk-tags">
                                         <p>
-                                            <!-- {% for tag in room['talk_tags'] %}
+                                            {% for tag in global_data['talks/' + room['ref']]['talk_tags'] %}
                                                 <span>{{ tag }}</span>
                                             {% endfor %} -->
                                         </p>
                                     </div>
-                                    {% if room['talk_abstract'] %}
+                                    {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
                                     <div class="schedule-talk-abstract">
                                         <p>
-                                            {{  room['talk_abstract']  }}
+                                            {{  global_data['talks/' + room['ref']]['talk_abstract']  }}
                                         </p>
                                     </div>
                                     {% endif %}
-                                    {% if room['talk_details'] %}
+                                    {% if global_data['talks/' + room['ref']]['talk_details'] %}
 {#                                        <div class="schedule-talk-more">#}
 {#                                            <a class="btn btn-block" href="/talks/talk-{{ room }}/" role="button">{{ messages("More Details") }}</a>#}
 {#                                        </div>#}
@@ -110,7 +110,7 @@
                             <div class="col-lg schedule-talk-column">
                                 <div class="row-lg">
                                     <!-- location column -->
-                                    <div class="col-12 schedule-locationdata-sticky" id="#">
+                                    <div class="col-12 schedule-locationdata-sticky" id="talk-{{ room['ref'] }}">
                                         <div class="row schedule-locationdata schedule-locationdata-talks schedule-locationdata-sticky">
                                             <div class="col-3 location-icon">
                                                 <!-- icon is different between keynotes and talks -->
@@ -127,35 +127,35 @@
                                     <!-- talk column -->
                                     <div class="col-12">
                                         <div class="schedule-talkdata schedule-talkdata-sticky">
-                                            <a href="#" class="btn disabled">
+                                            <a href="#talk-{{ room['ref'] }}" class="btn disabled">
                                                 <p class="talk-title">
                                                     <i class="fa fa-comment" aria-hidden="true"></i>
-                                                    {{  room['talk_title']  }}
+                                                    {{  global_data['talks/' + room['ref']]['talk_title']  }}
                                                 </p>
                                                 <p class="talk-speaker">
-                                                    {{  room['speaker_name']  }}
+                                                    {{  global_data['talks/' + room['ref']]['speaker_name']  }}
                                                 </p>
                                             </a>
                                         </div>
                                         <div class="schedule-talk-tags">
                                             <p>
-                                                <!-- {% for tag in room['talk_tags'] %}
+                                                {% for tag in global_data['talks/' + room['ref']]['talk_tags'] %}
                                                     <span>{{ tag }}</span>
-                                                {% endfor %} -->
+                                                {% endfor %}
                                             </p>
                                         </div>
                                         <div class="schedule-talk-abstract">
-                                            {% if room['talk_abstract'] %}
+                                            {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
                                               <p>
-                                                  {{  room['talk_abstract']  }}
+                                                  {{  global_data['talks/' + room['ref']]['talk_abstract']  }}
                                               </p>
                                             {% endif %}
                                         </div>
-                                        <!-- {% if room['talk_details'] %}
+                                        {% if global_data['talks/' + room['ref']]['talk_details'] %}
                                             <div class="schedule-talk-more">
                                                 <a class="btn btn-block" href="/talks/talk-{{ room }}/" role="button">{{ messages("More Details") }}</a>
                                             </div>
-                                        {% endif %} -->
+                                        {% endif %}
                                     </div>
                                 </div>
                             </div>
