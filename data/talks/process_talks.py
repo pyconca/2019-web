@@ -5,8 +5,7 @@ import json
 from pathlib import Path
 from jinja2 import FileSystemLoader
 from jinja2 import Environment
-from selenium import webdriver
-from .talk_ids import TALK_IDS
+from talk_ids import TALK_IDS
 
 
 # Template setup
@@ -30,8 +29,8 @@ def to_yaml(talk_data):
     pass
 
 
-def load_talks(json_data)
-    pass
+def load_talks(json_data):
+    import ipdb; ipdb.set_trace()
 
 
 def old_code():
@@ -77,4 +76,5 @@ def old_code():
 
 
 if __name__ == "__main__":
-    pass
+
+    load_talks(JSON_DATA)
