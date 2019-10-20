@@ -1,0 +1,22 @@
+.speaker-image {
+    @extend .mx-auto;
+    height: 240px;
+    width: 240px;
+    margin-top: 5px;
+}
+
+.card-title {
+    @extend .font-weight-bold;
+    font-size: 16px;
+    color: map-get($pycon-colours, 'color-b');
+}
+
+.card-subtitle {
+    font-size: 14px;
+    margin-top: -8px;
+}
+
+.card-text {
+    font-size: 10pt;
+    margin-top: 12px;
+}

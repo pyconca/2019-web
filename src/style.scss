@@ -12,6 +12,7 @@ Root SCSS file for this project
 // custom components
 @import "scss/components/breakpoint_debug_indicator";
 @import "scss/components/buttons";
+@import "scss/components/general_text";
 @import "scss/components/top_navigation";
 @import "scss/components/landing_page/the_front_banner";
 @import "scss/components/section_with_logo_right_side";
@@ -22,3 +23,4 @@ Root SCSS file for this project
 @import "scss/components/org_team";
 @import "scss/components/empty_paras";
 @import "scss/components/schedule_pages";
+@import "scss/components/speaker_cards";
