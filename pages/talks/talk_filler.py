@@ -26,6 +26,6 @@ for talk_number in TALK_IDS:
     }
     with open(Path(current_folder, filename), 'w') as text_file:        
         text_file.write(template.render(context))
-    print('Auto-filled [{}]'.format(filename))
+    print(('Auto-filled [{}]'.format(filename)))
 
 print('task completed')
