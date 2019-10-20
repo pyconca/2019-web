@@ -385,9 +385,8 @@
     "talk_time_start": "11:25",
     "talk_room": "Round Room (PyData Track)",
     "speaker": "Jonathan Rioux",
-    "speaker_bio": "Jonathan is the data science practice lead for EPAM Canada, a global engineering consultancy. He worked in insurance, analytics and data science for a little over a decade. He is passionate about programming languages and how they allow to map more and more complex ideas.",
+    "speaker_bio": "Jonathan is the data science practice lead for EPAM Canada, a global engineering consultancy. He worked in insurance, analytics and data science for a little over a decade. He is passionate about programming languages and how they allow to map more and more complex ideas. Jonathan is the author of _Data at scale with PySpark_ (Manning, scheduled for 2020).",
     "category": "Machine Learning & Data Science // Tools, Testing, and Practices",
-    "note_to_editors": "I removed a reference to a book that doesn't exist yet from the bio. It's neither an accomplishment (yet) nor something actionable for the audience. It's just an ad."
   },
   {
     "ID": 211,
