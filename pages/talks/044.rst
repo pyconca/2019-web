@@ -7,7 +7,5 @@
 
 
 {{% talk_details
-
     talk_number='044'
-
 %}}
