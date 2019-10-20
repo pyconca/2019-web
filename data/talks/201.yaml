@@ -11,6 +11,17 @@ talk_tags:
 - "Quite Different"
 
 
+
 talk_abstract: "[PyCon](https://us.pycon.org/2015/5k/) partnered with Autism Speaks in the year 2015 and conducted a 5K annual fun-run to raise awareness about Autism Spectrum Disorder. It’s great to see tech conferences supporting such a cause but wouldn’t it be incredible if we can leverage Python itself to understand autistic children and help them lead better lives? In this talk, we’ll cover the concepts of BioSensors, BioSignal Processing in Python and Machine Learning to find out how we can do just that. Since children suffering from ASD have difficulty in expressing and communicating, traditional methods of recognizing emotions through facial expressions or speech recognition tend to have very less accuracy. Hence, the technique of mapping emotions through physiological signals of the body using Biosignal Processing in Python is relatively new and un-explored which will be the basis of the talk. The talk aims to introduce various biosensors that can be used to capture the real-time physiological signals of the body, followed by the techniques involved in Biosignal processing using Python (Neurokit, BioSPPy) and finally conclude with explaining how Machine Learning algorithms like SVM and K-NN can help map these real-time signals to emotions."
 
-talk_details: "Niharika Krishnan is currently working as a Machine Learning Engineer in India focussing on building NLP solutions for TCS-Walmart. With a passion for AI and when not at work, she focuses on projects in the healthcare space. She believes in leveraging technology to help people lead better lives and her talk at PyCon is about one such projects, AutiGlove. She is a regular at hackathons, meetups and conferences and believes in learning, coding and sharing. She was selected as a mentor for Python (Data Science) for the 4th edition of Learn IT Girl. She has also been an invited speaker at tech meetups like Google Women Techmakers, Global Diversity CFP in India. With her love for python and a will to encourage young women into tech, she took up the initiative of a PyLadies Chapter in Chennai, India."
+about_author: "Niharika Krishnan is currently working as a Machine Learning Engineer in India focussing on building NLP solutions for TCS-Walmart. With a passion for AI and when not at work, she focuses on projects in the healthcare space. She believes in leveraging technology to help people lead better lives and her talk at PyCon is about one such projects, AutiGlove. She is a regular at hackathons, meetups and conferences and believes in learning, coding and sharing. She was selected as a mentor for Python (Data Science) for the 4th edition of Learn IT Girl. She has also been an invited speaker at tech meetups like Google Women Techmakers, Global Diversity CFP in India. With her love for python and a will to encourage young women into tech, she took up the initiative of a PyLadies Chapter in Chennai, India."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 11:15"
+
+    - "**Duration:** 30 minutes"

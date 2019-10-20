@@ -132,7 +132,7 @@
                                               </p>
                                             {% endif %}
                                         </div>
-                                        {% if global_data['talks/' + room['ref']]['talk_details'] %}
+                                        {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
                                             <div class="schedule-talk-more">
                                                 <a class="btn btn-block" href="/talks/talk-{{ room['ref'] }}/" role="button">{{ messages("More Details") }}</a>
                                             </div>

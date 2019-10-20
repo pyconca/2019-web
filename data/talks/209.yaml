@@ -11,6 +11,17 @@ talk_tags:
 - "Language Features & Internals"
 
 
+
 talk_abstract: "Communicating dates and times with another person is not so simple. “See you at 6 o’clock on Monday” sounds understandable. But was it a.m. or p.m.? And was your friend in the same time zone as you when you said that? When we need to use and store dates and times on Python, we have similar and more intense issues since we can express a date and time in many ways. For example, “July 15, 2019 07:05 pm”, “2019-15-07 19:05:53 CDT”, “2019-07-15T23:05:53.256587-05:00”, and 1563231953, express the exact same date and time.  However, the types used and format look very different. In this talk we'll explore the python datetime best practices to reduce the complexity when using, formatting, and storing datetimes on a daily basis."
 
-talk_details: "Pythonista, Software Engineer at prescrypto.com, cloudacademy.com Writer, Telecommunications Engineer. PyLadies Mexico City Co-organizer, Python Guatemala Co-founder."
+about_author: "Pythonista, Software Engineer at prescrypto.com, cloudacademy.com Writer, Telecommunications Engineer. PyLadies Mexico City Co-organizer, Python Guatemala Co-founder."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 12:00"
+
+    - "**Duration:** 30 minutes"

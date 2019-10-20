@@ -11,10 +11,17 @@ talk_tags:
 - "Machine Learning & Data Science"
 
 
-talk_abstract: "Susan Li walks you through deep learning methods for natural language processing (NLP) tasks using Python and open source libraries, using a live example. Methods include word2vec embedding, recurrent neural networks (RNN) and convolutional neural networks (CNN). 
 
-This is a hands-on approach to framing a real-world problem to the underlying NLP tasks and building a NLP application using Deep Learning.
+talk_abstract: "Susan Li walks you through deep learning methods for natural language processing (NLP) tasks using Python and open source libraries, using a live example. Methods include word2vec embedding, recurrent neural networks (RNN) and convolutional neural networks (CNN). This is a hands-on approach to framing a real-world problem to the underlying NLP tasks and building a NLP application using Deep Learning. If you are a data scientist or software developer with experience in Python who wants to develop natural language processing software, this talk is for you."
 
-If you are a data scientist or software developer with experience in Python who wants to develop natural language processing software, this talk is for you."
+about_author: "I am Susan Li, the Sr. Data Scientist at Kognitiv where I specialize in machine learning and NLP. I’m passionate about helping organizations realize the potential of big data and advanced analytics, and helping individuals enhance skills in data literacy. I frequently write and speak about predictive analytics, machine learning and NLP for technical and general audience. In my free time, I can be found training for the next half marathon."
 
-talk_details: "I am Susan Li, the Sr. Data Scientist at Kognitiv where I specialize in machine learning and NLP. I’m passionate about helping organizations realize the potential of big data and advanced analytics, and helping individuals enhance skills in data literacy. I frequently write and speak about predictive analytics, machine learning and NLP for technical and general audience. In my free time, I can be found training for the next half marathon."
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Clipper Room"
+
+    - "**Begin time:** 11:25"
+
+    - "**Duration:** 55 minutes"

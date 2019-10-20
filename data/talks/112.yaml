@@ -11,8 +11,19 @@ talk_tags:
 - "Tools, Testing, and Practices"
 
 
+
 talk_abstract: "How many times has a library just handed you a big-ol' messy bag of data? You know, when a function hands you an imprecise dict, or an overlong tuple? What are you supposed to do with that? 
 
 Python has great default data structures, but until recently it hasn't come with a lot of great support for *structuring data*; that is, the available options rarely encourage the right thing, which is often a custom made data structure, or *record* type. But there are libraries and modern features to help with this problem and allow you to export neatly organized types quickly and easily. These tools make it easier to box up your data and give it to consumers in a neat, friendly, and controlled way."
 
-talk_details: "Josh has been coding with Python for 8 years. He spent many years developing retail and hardware control software with Twisted, and now he works with DevOps, release engineering, and big data management for an imaging and computer vision company."
+about_author: "Josh has been coding with Python for 8 years. He spent many years developing retail and hardware control software with Twisted, and now he works with DevOps, release engineering, and big data management for an imaging and computer vision company."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 15:25"
+
+    - "**Duration:** 30 minutes"

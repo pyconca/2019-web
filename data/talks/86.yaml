@@ -12,10 +12,21 @@ talk_tags:
 - "Tools, Testing, and Practices"
 
 
+
 talk_abstract: "In today’s world of developing services we tend to move fast and with that comes mistakes. This talk will discuss using post-mortems to turn incidents into opportunities for improvement, instead of just an opportunity to assign blame.
 
 While developing software, bugs and mistakes are inevitable. Come to hear how we can improve the approaches we often take as software developers to work better with one another in heated moments of failure and the aftermath of incidents. Through better interactions we can build better teams and create better services.
 
 In my career I have worked in a blameless post-mortem and a blame-full post mortem environment, across a variety of projects ranging from individual python libraries, to core infrastructure for a cloud. I am excited to share how I think not assigning blame when things go wrong results in a better team and a better product."
 
-talk_details: "Chris is a developer at Google in Seattle, WA, USA and works on the Google Cloud Platform Client Libraries team, focusing on dynamic languages and their users. Before joining Google, Chris spent 6 years working on compilers, cloud platforms, and developer tooling for Python, Node, and .NET developers. He brings a passion for enabling developers everywhere through better tools and libraries. In his spare time you can find Chris running or cycling nowhere in particular or riding his motorcycle."
+about_author: "Chris is a developer at Google in Seattle, WA, USA and works on the Google Cloud Platform Client Libraries team, focusing on dynamic languages and their users. Before joining Google, Chris spent 6 years working on compilers, cloud platforms, and developer tooling for Python, Node, and .NET developers. He brings a passion for enabling developers everywhere through better tools and libraries. In his spare time you can find Chris running or cycling nowhere in particular or riding his motorcycle."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 16:05"
+
+    - "**Duration:** 30 minutes"

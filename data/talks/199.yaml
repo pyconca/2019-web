@@ -11,6 +11,17 @@ talk_tags:
 - "Quite Different"
 
 
+
 talk_abstract: "Sometimes you need to scale the performance of your Python code, or you need to hook into a C API.  Wouldn't it be nice not having to do that in C or C++? This talk walks through how to accelerate Python code using a binding written in Rust (a new safe, fast systems level programming language)."
 
-talk_details: "Dorian Puła is a full-stack web app developer, Linux DevOps enthusiast, and tech writer. He graduated from the University of Toronto, where he studied Computer Science and Professional Communication. During the day he builds and maintains web applications, REST API services and CI/CD tooling that builds, tests and deploys those systems. At night he contributes to a number of open source Python, Rust and Javascript projects including Ansible, Flask and Rookeries. When he isn't coding, Dorian enjoys writing, kayaking and hiking in Ontario's back-country."
+about_author: "Dorian Puła is a full-stack web app developer, Linux DevOps enthusiast, and tech writer. He graduated from the University of Toronto, where he studied Computer Science and Professional Communication. During the day he builds and maintains web applications, REST API services and CI/CD tooling that builds, tests and deploys those systems. At night he contributes to a number of open source Python, Rust and Javascript projects including Ansible, Flask and Rookeries. When he isn't coding, Dorian enjoys writing, kayaking and hiking in Ontario's back-country."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 14:40"
+
+    - "**Duration:** 30 minutes"

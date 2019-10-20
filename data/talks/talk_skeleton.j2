@@ -12,6 +12,12 @@ talk_tags:
   - "{{ tag }}"
 {% endfor %}
 
+
 talk_abstract: "{{ abstract }}"
 
-talk_details: "{{ details }}"
+about_author: "{{ about_author }}"
+
+talk_metadata:
+{% for item in talk_metadata %}
+    - "{{ item }}"
+{% endfor %}

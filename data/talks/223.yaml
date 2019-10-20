@@ -11,6 +11,17 @@ talk_tags:
 - "Quite Different"
 
 
+
 talk_abstract: "When most of us think of agriculture, we don't think of it as a cutting-edge playground for AI, robotics, and data science development in Python. Over the years with the development of Data Science and AI methodologies, people have potentially been interested in applying these tools to different fields(finance, journalism, agriculture) to gain meaningful insights. I came across a method called Hydroponics which allows growing plants with water in the absence of soil. I was deeply interested and started to question the idea of attaching a few sensors to plants.  Given the data, I began to explore the automation of the plant growth process. This talk focuses on performing exploratory data analysis and using neural networks with Python for implementing a smart and intelligent hydroponics system."
 
-talk_details: ""
+about_author: ""
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 16:30"
+
+    - "**Duration:** 10 minutes"
