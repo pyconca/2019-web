@@ -140,7 +140,7 @@
     "talk_room": "Sky Room",
     "speaker": "Tyler Savery",
     "speaker_bio": "As Co-Founder and Chief Technology Officer of The Young Astronauts, a creative collective dedicated to the exploration and innovation of the multimedia universe, Tyler Savery oversees all company and technical operations— from internal communications strategies to future development opportunities and new business endeavours. In 2007, while attending Ryerson University, Tyler started his first business with Nev Todorovic. Originally setting out to create a video production company, they quickly realized the benefits of offering other digital media solutions such as web applications and interactive campaigns. They found success working with artists and record labels, creating campaigns that bridged early social media, web, and multimedia. Although Tyler focusses more on new business development, he keeps up to date with new technologies, frameworks, and development methodologies. He still considers himself a full stack developer, competent in Python, Javascript, C#, PHP, Swift, and HTML/CSS. He has a great understanding of big data systems and development operations which gives the projects he’s involved in a leading edge on scalability. A proud alumnus of Ryerson of Ryerson University in Toronto, Savery studied radio and television arts. As an undergraduate, Savery founded RUtv, which later became Ryerson University’s official television network. Growing up, Savery was deeply influenced by his interest in creative, video production, theatre, and computer programming, which he began honing his skills in early on. When he’s not working, Savery can be found making music, writing and exploring the great outdoors. Originally from Whitby, Canada, Savery currently resides in Toronto, Canada and travels frequently to New York, NY and Los Angeles, CA.",
-    "category": "Web & Databases",
+    "category": "Web & Databases"
   },
   {
     "ID": 154,
@@ -517,7 +517,7 @@
       "talk_room": "Concert Hall",
       "speaker": "Chris Wilcox",
       "speaker_bio": "Chris is a developer at Google in Seattle, WA, USA and works on the Google Cloud Platform Client Libraries team, focusing on dynamic languages and their users. Before joining Google, Chris spent 6 years working on compilers, cloud platforms, and developer tooling for Python, Node, and .NET developers. He brings a passion for enabling developers everywhere through better tools and libraries. In his spare time you can find Chris running or cycling nowhere in particular or riding his motorcycle.",
-      "category": "Community, Social, Ethics, and Education // Tools, Testing, and Practices",
+      "category": "Community, Social, Ethics, and Education // Tools, Testing, and Practices"
     },
 
   {
