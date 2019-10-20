@@ -8,9 +8,7 @@ talk_title: "Voice recognition using python and deep learning"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Calculate Mel spectrograms from human voices using python and train an algorithm to compare human voices"

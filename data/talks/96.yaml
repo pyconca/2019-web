@@ -8,9 +8,7 @@ talk_title: "Building a CMS in Python with Django+Wagtail"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Web & Databases"
 
 
 talk_abstract: "In this talk, I will give an overview and real-time coding demos of the power of Django+Wagtail for building intuitive content management systems. Wagtail is a framework built on top of Django that adds a whole new level of power to the Python platform. Whether you are familiar with Django or not, this talk is aimed at anyone looking to try out something other than the industry go-to of Wordpress while exploring the workflow. The talk includes an overview of features, common custom CMS issues that Wagtail handles gracefully, and code examples of creating page models and customizing the admin. I'll be showcasing a real world example of a solution we provided a client that had many complex requests. Through this exercise, I hope to illustrate the power through simplicity Wagtail provides."

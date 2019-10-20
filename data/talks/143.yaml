@@ -8,9 +8,7 @@ talk_title: "Fantastic anti-patterns and where to find them: pinpointing perform
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Quite Different // Tools, Testing, and Practices"
 
 
 talk_abstract: "Is your code running slower than you would like? If so, how do you even begin identifying performance bottlenecks? This talk will teach you how to profile your Python program and interpret flame graphs to find the best candidates for speedups. Through a real-life case study, we'll also see common performance anti-patterns, and simple remediation techniques. The case study will be a crypto-assets trading strategy backtesting program that was way too slow, and for which the techniques covered in this talk yielded amazing results, and even lead to improvements to third-party libraries!"

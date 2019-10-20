@@ -8,9 +8,7 @@ talk_title: "Feature engineering: an apprentice’s guide to the dark art” of 
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Why is feature engineering considered the ‘dark art’ of machine learning? Transforming raw data into a form that your machine learning algorithm can utilize seems mysterious and downright frightening! Bring your wizard hat and join me as this machine learning apprentice shares her personal book of feature engineering incantations."

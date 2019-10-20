@@ -8,9 +8,7 @@ talk_title: "How to build bulletproof integrations"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Web & Databases"
 
 
 talk_abstract: "Integrating with third-party services can be challenging. Network connections, API endpoints, and third-party Python client packages are often unreliable or poorly documented. Debugging production problems can be difficult because reproducing the issue is timeconsuming. In this presentation, I will share expertise learned from years of from building and maintaining integrations with 60+ services, including Salesforce, Intercom, HubSpot, Zendesk, Xero, NetSuite, and others."

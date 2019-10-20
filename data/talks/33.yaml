@@ -8,9 +8,7 @@ talk_title: "Why that great machine learning research can’t be reproduced and 
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Ever got excited about a piece of new machine learning research that you saw come out on arXiv or your favorite research lab’s blog hoping it will finally solve that last bit of optimization you need in your own work that will make you the ML superstar of your team? But after spending days trying to get the same results, you end up failing despite having tried everything in the paper including looking through their Github page, contacting the authors, etc. 

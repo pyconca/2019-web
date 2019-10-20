@@ -8,9 +8,7 @@ talk_title: "Automating data pipeline using Apache Airflow"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Today, we are moving towards machine learning. Making predictions, finding out insights based on data. For the same purpose, the initial step is to have efficient processes in place which help us in collecting data from various different data sources. Using traditional ways to collect data is tedious and cumbersome. Manually running scripts to extract, transform and load data is a trade-off with time.

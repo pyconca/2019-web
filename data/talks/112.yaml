@@ -8,9 +8,7 @@ talk_title: "Put Your Data in a Box"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Tools, Testing, and Practices"
 
 
 talk_abstract: "How many times has a library just handed you a big-ol' messy bag of data? You know, when a function hands you an imprecise dict, or an overlong tuple? What are you supposed to do with that? 

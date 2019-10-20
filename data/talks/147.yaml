@@ -8,9 +8,7 @@ talk_title: "Data insights from linked data"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Our entire world wide web already is composed of linked data, and so it is not surprising that cultural institutions such as libraries, archives and museums - organizations which provide and curate open data - have begun to transform their metadata into linked data.  In this talk we will explain why linked data is powerful and demonstrate the process of how to extract data insights from it using the python modules RDFlib and plotly. 

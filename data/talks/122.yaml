@@ -8,9 +8,7 @@ talk_title: "Do-it-yourself Natural Language Processing for makers"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Susan Li walks you through deep learning methods for natural language processing (NLP) tasks using Python and open source libraries, using a live example. Methods include word2vec embedding, recurrent neural networks (RNN) and convolutional neural networks (CNN). 

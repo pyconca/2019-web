@@ -8,9 +8,7 @@ talk_title: "A Pythonista’s intro to Kafka: no, it’s not like Celery"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Large projects often use Kafka to provide durable real time processing over huge amounts of data. But, Kafka is nothing like Redis, SQS, or any Celery backend. We’ll look at how Kafka’s design makes it amazing at some tasks (real time durable processing) and awful at others (this isn’t a Celery backend for a reason). How to avoid having your Kafka clients sitting idle and ensure your messages are actually recorded in order and in real time! Finally, we’ll look at how a Pythonista can take advantage of Java-only tech like Kafka Streams with KSQL."

@@ -8,9 +8,7 @@ talk_title: "Coding with an accent"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Community, Social, Ethics, and Education"
 
 
 talk_abstract: "There was a time that, no matter what language I was writing in, it always came out looking a little bit like FORTRAN. As I added on some OOP-ness and more modern languages, I eventually arrived at Python, a language which has a clear 'idiomatic' style, and its own adjective. 

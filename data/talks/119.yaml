@@ -8,9 +8,7 @@ talk_title: "Building municipal web apps with Python"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Community, Social, Ethics, and Education // Quite Different"
 
 
 talk_abstract: "Municipal departments all work together for the common good of our residents through our strategic plan, but we may not always be up to date on what other staff or departments are working on. The Planning Services department of the Municipality of Clarington has utilized in house expertise and infrastructure to build several apps that allow our department and other departments within the Municipality to view our current workload, collaborate on projects and stay organized.

@@ -8,9 +8,7 @@ talk_title: "Python table manners: a clean style"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Community, Social, Ethics, and Education // Tools, Testing, and Practices"
 
 
 talk_abstract: "Programming is not just about writing runnable codes but writing maintainable and extensible applications. Besides the general design issue, many code quality aspects need to take care, such as PEP 8, test coverage, security, etc. Manually checking them can be time-consuming and error-prone for both writers and reviewers. Thus, I'd like to introduce tools that can help us with each of these checkings.

@@ -8,9 +8,7 @@ talk_title: "Beating your friends at board games using Python and machine learni
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Do you hate losing at board games? Do you have too many friends and too few enemies? Then this talk is for you! I will demonstrate rapid prototyping of board games in Python, training simple yet powerful game AI, and extracting their strategies in a human-understandable way to ultimately defeat all your board game foes.

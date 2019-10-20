@@ -8,9 +8,7 @@ talk_title: "Introduction to asynchronous programming"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Language Features & Internals"
 
 
 talk_abstract: "Since Python 3.5 and PEP 492, we have been able to write asynchronous programs in an easy and Pythonic way without external libraries. Even so, it is still difficult to understand what asynchronous programming is all about and when we, Python developers, should consider using it.

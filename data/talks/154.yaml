@@ -8,9 +8,7 @@ talk_title: "Modelling user journeys with Keras and neural networks"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Regardless of your business, being able to anticipate your users’ next action is a valuable advantage, whether that be a purchase, a view, or even a cancellation. Typical modelling approaches to predict users’ actions have focused on one specific action, e.g., conversion or churn. Here, we take a more holistic approach and don’t limit ourselves to one action. We model a users’ journey, so that we can not only anticipate a user’s action but also the one after that."

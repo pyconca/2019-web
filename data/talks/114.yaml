@@ -8,9 +8,7 @@ talk_title: "A need for speed: accelerating your math with vectorization and Num
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "While Python is an extremely versatile language, it isn't exactly known for its blazing performance. When developing math-intensive applications, particularly on low-power devices such as single-board computers, this can become a real issue. This talk provides an introduction to vectorization and libraries designed to support it (such as Numpy), giving you the tools you need to eliminate those pesky for loops and achieve a drastic performance boost."

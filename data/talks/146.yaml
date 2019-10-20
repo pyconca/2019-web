@@ -8,9 +8,7 @@ talk_title: "Anomaly detection in the wild"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "How can you use machine learning with python to detect situations that are weird, abnormal, or different? Anomaly detection may be your answer! In this talk, we’ll review some interesting anomaly detection applications across multiple domains (from healthcare to finance, to name a couple). Finally, we’ll walk through a practical example of anomaly detection, for use in an industrial setting, using deep-learning and TensorFlow 2.0."

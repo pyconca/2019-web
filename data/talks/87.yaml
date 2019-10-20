@@ -8,9 +8,7 @@ talk_title: "Operator overloading: you're doing it wrong"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Language Features & Internals"
 
 
 talk_abstract: "Some languages (C++, Python) support operator overloading, and their communities are quite happy to use this nifty feature for more readable and expressive code. And some languages (Java, Go) are resolutely opposed to this terrible idea, and would sooner die than let you change the meaning of + or /. Why the divide?

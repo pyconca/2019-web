@@ -8,9 +8,7 @@ talk_title: "Energy indicators and Jupyter Notebooks at the Canada Energy Regula
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science // Quite Different"
 
 
 talk_abstract: "Data on energy markets in Canada is abundant. Various datasets are produced by different levels of governments, private companies and industry associations, international organizations and academia. However, this data is not always standardized and is not centralized. Often, data is not comparable because units are not uniform (ex. imperial, metric) and temporal periods are variable (annual, monthly, daily). Formats range from csv, excel, html or PDF.

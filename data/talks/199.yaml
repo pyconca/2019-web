@@ -8,9 +8,7 @@ talk_title: "Rust accelerated Pythons"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Quite Different"
 
 
 talk_abstract: "Sometimes you need to scale the performance of your Python code, or you need to hook into a C API.  Wouldn't it be nice not having to do that in C or C++? This talk walks through how to accelerate Python code using a binding written in Rust (a new safe, fast systems level programming language)."

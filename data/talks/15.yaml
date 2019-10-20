@@ -8,9 +8,7 @@ talk_title: "Forecasting and observing airfare trends using Python and neural ne
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "We have always been taught that the future you book a flight, the cheaper it is. What if I said it is not? You see it's a straight line and it has a minimum at some point (someday before the flight). We are going to see how historical Airfare data can help you get the best deals for you.

@@ -8,9 +8,7 @@ talk_title: "Genetic algorithms: making errors do all the work"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "This talk presents a systematic approach to understand and implement Genetic Algorithms, with a hands-on experience of solving a real-world problem. The inspiration and methods behind GA will also be included with all the fundamental topics like fitness algorithms, mutation, crossover etc, with limitations and advantages of using it."

@@ -8,9 +8,7 @@ talk_title: "Procedural Generation for fun and profit"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Quite Different"
 
 
 talk_abstract: "Techniques for algorithmic content creation have found uses in industries like film, music, and most notably video games. More importantly than that, they are extremely fun to play with. In this talk I will share procedural generation methods I have encountered in both hobby and professional projects, and how they can be implemented in Python. We will look at several methods with their applications in the generation of textures, 3D models, music, and outfits."

@@ -8,9 +8,7 @@ talk_title: "Python is a weirdo"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "t"
-- "b"
-- "d"
+- "Community, Social, Ethics, and Education // Quite Different"
 
 
 talk_abstract: "We all know Javascript is notorious for having stupid 'features', but what can we do with Python? This talk will go through surprising features, as well as some code golf to explore surprising applications of unsurprising features. Disclaimer: This probably won't help you do your job."

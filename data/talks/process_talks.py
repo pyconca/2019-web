@@ -30,7 +30,7 @@ def to_yaml(needed_details):
         'title': needed_details.get('title', '').replace('"', "'"),
         'abstract': needed_details.get('talk_description', '').replace('"', "'"),
         'details': needed_details.get('speaker_bio', '').replace('"', "'"),
-        'talk_tags': 'tbd'
+        'talk_tags': [needed_details.get('category', '').replace('"', "'")]
     }
 
 
