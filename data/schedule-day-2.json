@@ -35,19 +35,19 @@
                     "location": "Talk room #1",
                     "talk_title": "Innovating in Unusual Places",
                     "speaker_name": "Sarah Sun",
-                    "ref": ""
+                    "ref": "378"
                 },
                 {
                     "location": "Talk room #2",
                     "talk_title": "Operator Overloading: You're Doing It Wrong",
                     "speaker_name": "Greg Ward",
-                    "ref": ""
+                    "ref": "87"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "talk_title": "PySpark: avoiding common pitfalls and keeping your sanity",
                     "speaker_name": "Jonathan Rioux",
-                    "ref": ""
+                    "ref": "169"
                 }
             ]
         },
@@ -60,19 +60,19 @@
                     "location": "Talk room #1",
                     "talk_title": "Making Multiple Inheritance not Work",
                     "speaker_name": "Andy Fundinger",
-                    "ref": ""
+                    "ref": "211"
                 },
                 {
                     "location": "Talk room #2",
                     "talk_title": "Introduction to Asynchronous Programming",
                     "speaker_name": "Juti Noppornpitak",
-                    "ref": ""
+                    "ref": "25"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "talk_title": "Feature Engineering: An Apprentice's Guide To The 'Dark Art' Of Machine Learning",
                     "speaker_name": "Deborah Diller Harris",
-                    "ref": ""
+                    "ref": "30"
                 }
             ]
         },
@@ -85,19 +85,19 @@
                     "location": "Talk room #1",
                     "talk_title": "Beating Your Friends at Board Games Using Python and Machine Learning",
                     "speaker_name": "Daniel Kats",
-                    "ref": ""
+                    "ref": "225"
                 },
                 {
                     "location": "Talk room #2",
                     "talk_title": "Automating the data pipeline using Apache Airflow",
                     "speaker_name": "Mridu Bhatnagar",
-                    "ref": ""
+                    "ref": "88"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "talk_title": "Energy Indicators and Jupyter Notebooks at the Canada Energy Regulator",
                     "speaker_name": "Margaret Skwara and Janna Rodioukova",
-                    "ref": ""
+                    "ref": "82"
                 }
             ]
         },
@@ -128,19 +128,19 @@
                     "location": "Talk room #1",
                     "talk_title": "Python is a Weirdo",
                     "speaker_name": "Carol Chen",
-                    "ref": ""
+                    "ref": "180"
                 },
                 {
                     "location": "Talk room #2",
                     "talk_title": "Put Your Data in a Box",
                     "speaker_name": "Josh Reed",
-                    "ref": ""
+                    "ref": "112"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "talk_title": "Gimme Shelter: Using Python to Find an Apartment in Toronto",
                     "speaker_name": "Ian Whitestone",
-                    "ref": ""
+                    "ref": "11"
                 }
             ]
         },
@@ -153,19 +153,19 @@
                     "location": "Talk room #1",
                     "talk_title": "The blameless post mortem: how embracing failure makes us better",
                     "speaker_name": "Chris Wilcox",
-                    "ref": ""
+                    "ref": "86"
                 },
                 {
                     "location": "Talk room #2",
                     "talk_title": "Python Table Manners: A Clean Style",
                     "speaker_name": "Wei Lee",
-                    "ref": ""
+                    "ref": "153"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "talk_title": "Data Insights from Linked Data",
                     "speaker_name": "Rachel Wang and Jordan Pedersen",
-                    "ref": ""
+                    "ref": "147"
                 }
             ]
         },
@@ -184,13 +184,13 @@
                     "location": "Talk room #2",
                     "talk_title": "How to Level Up",
                     "speaker_name": "Leta Montopoli",
-                    "ref": ""
+                    "ref": "97"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "talk_title": "Why you can’t reproduce that great piece of machine learning research and what we can do to fix it",
                     "speaker_name": "Abhishek Gupta",
-                    "ref": ""
+                    "ref": "33"
                 }
             ]
         },
