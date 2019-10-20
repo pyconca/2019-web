@@ -1,0 +1,49 @@
+
+a.blue-button {
+
+    background-color: map-get($pycon-colours, 'button-blue-regular');
+    border-radius: 0.25rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px!important;
+    padding-right: 25px!important;
+
+    &:hover {
+        background-color: map-get($pycon-colours, 'button-blue-hover');
+    }
+
+    span {
+        @extend .font-weight-bold;
+        color: map-get($pycon-colours, 'button-text');
+        font-size: 18px;
+    }
+}
+
+a.red-button {
+
+    background-color: map-get($pycon-colours, 'button-red-regular');
+    border-radius: 0.25rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px!important;
+    padding-right: 25px!important;
+
+    &:hover {
+        background-color: map-get($pycon-colours, 'button-red-hover');
+    }
+
+    span {
+        @extend .font-weight-bold;
+        color: white;
+        font-size: 18px;
+    }
+}
+
+a.invisible-button {
+    @extend a.blue-button;
+    background-color: transparent;
+
+    &:hover {
+        background-color: transparent;
+    }
+}
