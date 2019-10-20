@@ -14,7 +14,6 @@
             "rooms": [
                 {
                     "location": "Main hall",
-                    "ref": "A-9001",
                     "talk_title": "Opening Remarks and Morning Keynote",
                     "speaker_name": "Ideshini Naidoo"
                 }
@@ -27,8 +26,8 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Procedural Generation for Fun and Profit",
-                    "speaker_name": "Luis E. Pérez Estrada"
+                    "ref": "044"
+
                 },
                 {
                     "location": "Talk room #2",

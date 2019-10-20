@@ -85,7 +85,7 @@
                                             {% endfor %} -->
                                         </p>
                                     </div>
-                                    <!-- {% if room['talk_abstract'] %}
+                                    {% if room['talk_abstract'] %}
                                     <div class="schedule-talk-abstract">
                                         <p>
                                             {{  room['talk_abstract']  }}
@@ -96,7 +96,7 @@
 {#                                        <div class="schedule-talk-more">#}
 {#                                            <a class="btn btn-block" href="/talks/talk-{{ room }}/" role="button">{{ messages("More Details") }}</a>#}
 {#                                        </div>#}
-                                    {% endif %} -->
+                                    {% endif %}
                                 </div>
                         {% endfor %}
                     </div>
@@ -145,9 +145,11 @@
                                             </p>
                                         </div>
                                         <div class="schedule-talk-abstract">
-                                            <!-- <p>
-                                                {{  room['talk_abstract']  }}
-                                            </p> -->
+                                            {% if room['talk_abstract'] %}
+                                              <p>
+                                                  {{  room['talk_abstract']  }}
+                                              </p>
+                                            {% endif %}
                                         </div>
                                         <!-- {% if room['talk_details'] %}
                                             <div class="schedule-talk-more">
