@@ -14,6 +14,7 @@
             "rooms": [
                 {
                     "location": "Main hall",
+                    "ref": "A-9001",
                     "talk_title": "Opening Remarks and Morning Keynote",
                     "speaker_name": "Ideshini Naidoo"
                 }
