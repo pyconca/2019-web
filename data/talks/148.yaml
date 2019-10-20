@@ -8,7 +8,8 @@ talk_title: "Query better with Django ORM"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "Tools, Testing, and Practices // Web & Databases"
+- "Tools, Testing, and Practices"
+- "Web & Databases"
 
 
 talk_abstract: "Django ORM is extremely powerful and is a vital part of the framework. Being simple and intuitive to use, often some of its advanced features remain unutilized, leading to inefficiencies. In this cookbook style tutorial, a selection of nontrivial query usecases will be addressed, each of which will introduce an ORM feature or two. Notable ones covered will be advanced querying techniques, database functions, performance optimization, and legacy databases. In this interactive session, participants would be encouraged to share knowledge or ask questions based on their real-life challenges related to the topic at hand. The session will end with a discussion on ORM features recently introduced in Django as well as upcoming ones."

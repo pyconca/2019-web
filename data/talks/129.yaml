@@ -8,7 +8,8 @@ talk_title: "From hot mess to information, or why you should spend more time pro
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "Community, Social, Ethics, and Education // Machine Learning & Data Science"
+- "Community, Social, Ethics, and Education"
+- "Machine Learning & Data Science"
 
 
 talk_abstract: "Over the last few years machine learning has drawn a lot of attention from both inside and outside the data science community. The internet is flooded with articles on the latest or coolest algorithms. What these articles often don’t cover is that at the beginning of your project, you'll be spending a lot of time collecting, cleaning and otherwise pre-processing your data, no matter what type of project or model you’re working on. There’s a tendency to dismiss this first stage as mundane, but this couldn’t be further from the truth. This first, exploratory, stage of the analysis is when you'll learn most about the information that is available for solving your problem and how to harness it. In this talk, I’ll use practical examples to describe some of the statistical techniques that I've found most useful over the years.  For instance, box plots offer a simple way to detect outliers and inconsistencies. Others, like imputation, are more complex and can even leverage machine learning. These methods can be combined in multiple ways to create useful representations of data, making building a good model a whole lot easier."

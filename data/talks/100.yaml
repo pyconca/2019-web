@@ -8,7 +8,8 @@ talk_title: "Pull requests: merging good practices into your project"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "Community, Social, Ethics, and Education // Tools, Testing, and Practices"
+- "Community, Social, Ethics, and Education"
+- "Tools, Testing, and Practices"
 
 
 talk_abstract: "Although known by most, **Pull Requests are often not dealt with in the most effective way**. Believe it or not, **there are teams that don’t review code at all!** People may assume that a senior developer is experienced enough to not make any mistakes, or that merely changing those 3 lines of code couldn’t possibly do any harm to the system. In these cases, it’s not uncommon to skip the code review in order to cut some time. Unreviewed (or badly reviewed) code can be extremely dangerous, resulting in huge risks and unpredictable behavior.

@@ -8,7 +8,8 @@ talk_title: "PySpark: avoiding common pitfalls and keeping your sanity"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "Machine Learning & Data Science // Tools, Testing, and Practices"
+- "Machine Learning & Data Science"
+- "Tools, Testing, and Practices"
 
 
 talk_abstract: "For a Python developer, using PySpark can often feel foreign, like driving a race car in sandals. You see the power, yet it feels like you're fighting against the machine.

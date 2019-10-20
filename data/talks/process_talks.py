@@ -25,12 +25,17 @@ JSON_DATA = json.loads(open('../speakers-details.json').read())
 
 
 def to_yaml(needed_details):
+    tags = [
+        x.strip() for x in
+        needed_details.get('category', '').replace('"', "'").split('//')
+    ]
+
     return {
         'name': needed_details.get('speaker', '').replace('"', "'"),
         'title': needed_details.get('title', '').replace('"', "'"),
         'abstract': needed_details.get('talk_description', '').replace('"', "'"),
         'details': needed_details.get('speaker_bio', '').replace('"', "'"),
-        'talk_tags': [needed_details.get('category', '').replace('"', "'")]
+        'talk_tags': tags
     }
 
 
