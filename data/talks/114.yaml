@@ -2,142 +2,17 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Toni White"
+speaker_name: "Kyle Kotowick, Ph.D."
 
-talk_title: "Ita tres sunt fines experteshonestatis, unus Aristipp!"
+talk_title: "A need for speed: accelerating your math with vectorization and Numpy"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "intermediate"
-- "talk"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Pertinere autem ad rem arbitrantur intellegi natura fieri ut liberi a parentibus amentur. A quo initio profectamcommunem humani generis societatem persequimur. Quod primum intellegi debet figura membrisque corporum, quae ipsadeclarant procreandi a natura habitam esse rationem. Neque vero haec inter se congruere possent, ut natura et procrearivellet et diligi procreatos non curaret. Atque etiam in bestiis vis naturae perspici potest; quarum in fetu et ineducatione laborem cum cernimus, naturae ipsius vocem videmur audire. Quare perspicuum est natura nos a doloreabhorrere, sic apparet a natura ipsa, ut eos, quos genuerimus, amemus, inpelli."
+talk_abstract: "While Python is an extremely versatile language, it isn't exactly known for its blazing performance. When developing math-intensive applications, particularly on low-power devices such as single-board computers, this can become a real issue. This talk provides an introduction to vectorization and libraries designed to support it (such as Numpy), giving you the tools you need to eliminate those pesky for loops and achieve a drastic performance boost."
 
-talk_details: "Pertinere autem ad rem arbitrantur intellegi natura fieri ut liberi a parentibus amentur. a quo initio profectam
-communem humani generis societatem persequimur. quod primum intellegi debet figura membrisque corporum, quae ipsa
-declarant procreandi a natura habitam esse rationem. neque vero haec inter se congruere possent, ut natura et procreari
-vellet et diligi procreatos non curaret. atque etiam in bestiis vis naturae perspici potest; quarum in fetu et in
-educatione laborem cum cernimus, naturae ipsius vocem videmur audire. quare perspicuum est natura nos a dolore
-abhorrere, sic apparet a natura ipsa, ut eos, quos genuerimus, amemus, inpelli. ex hoc nascitur ut etiam communis
-hominum inter homines naturalis sit commendatio, ut oporteat hominem ab homine ob id ipsum, quod homo sit, non alienum
-videri. ut enim in membris alia sunt tamquam sibi nata, ut oculi, ut aures, alia etiam ceterorum membrorum usum
-adiuvant, ut crura, ut manus, sic inmanes quaedam bestiae sibi solum natae sunt, at illa, quae in concha patula pina
-dicitur, isque, qui enat e concha, qui, quod eam custodit, pinoteres vocatur in eandemque cum se recepit includitur, ut
-videatur monuisse ut caveret, itemque formicae, apes, ciconiae aliorum etiam causa quaedam faciunt. multo haec
-coniunctius homines. itaque natura sumus apti ad coetus, concilia, civitates. mundum autem censent regi numine
-deorum, eumque esse quasi communem urbem et civitatem hominum et deorum, et unum quemque nostrum eius mundi esse partem;
-ex quo illud natura consequi, ut communem utilitatem nostrae anteponamus. ut enim leges omnium salutem singulorum saluti
-anteponunt, sic vir bonus et sapiens et legibus parens et civilis officii non ignarus utilitati omnium plus quam unius
-alicuius aut suae consulit. nec magis est vituperandus proditor patriae quam communis utilitatis aut salutis desertor
-propter suam utilitatem aut salutem. ex quo fit, ut laudandus is sit, qui mortem oppetat pro re publica, quod deceat
-cariorem nobis esse patriam quam nosmet ipsos. quoniamque illa vox inhumana et scelerata ducitur eorum, qui negant se
-recusare quo minus ipsis mortuis terrarum omnium deflagratio consequatur - quod vulgari quodam versu Graeco pronuntiari
-solet - certe verum est etiam iis, qui aliquando futuri sint, esse propter ipsos consulendum. ex hac animorum
-affectione testamenta commendationesque morientium natae sunt. quodque nemo in summa solitudine vitam agere velit ne cum
-infinita quidem voluptatum abundantia, facile intellegitur nos ad coniunctionem congregationemque hominum et ad
-naturalem communitatem esse natos. Inpellimur autem natura, ut prodesse velimus quam plurimis in primisque docendo
-rationibusque prudentiae tradendis. itaque non facile est invenire qui quod sciat ipse non tradat alteri; ita non
-solum ad discendum propensi sumus, verum etiam ad docendum. Atque ut tauris natura datum est ut pro vitulis contra
-leones summa vi impetuque contendant, sic ii, qui valent opibus atque id facere possunt, ut de Hercule et de Libero
-accepimus, ad servandum genus hominum natura incitantur. Atque etiam Iovem cum Optimum et Maximum dicimus cumque eundem
-Salutarem, Hospitalem, Statorem, hoc intellegi volumus, salutem hominum in eius esse tutela. minime autem convenit, cum
-ipsi inter nos viles neglectique simus, postulare ut diis inmortalibus cari simus et ab iis diligamur. Quem ad modum
-igitur membris utimur prius, quam didicimus, cuius ea causa utilitatis habeamus, sic inter nos natura ad civilem
-communitatem coniuncti et consociati sumus. quod ni ita se haberet, nec iustitiae ullus esset nec bonitati locus. 
-Et quo modo hominum inter homines iuris esse vincula putant, sic homini nihil iuris esse cum bestiis. praeclare enim
-Chrysippus, cetera nata esse hominum causa et deorum, eos autem communitatis et societatis suae, ut bestiis homines uti
-ad utilitatem suam possint sine iniuria. Quoniamque ea natura esset hominis, ut ei cum genere humano quasi civile ius
-intercederet, qui id conservaret, eum iustum, qui migraret, iniustum fore. sed quem ad modum, theatrum cum commune sit,
-recte tamen dici potest eius esse eum locum, quem quisque occuparit, sic in urbe mundove communi non adversatur ius, quo
-minus suum quidque cuiusque sit. Cum autem ad tuendos conservandosque homines hominem natum esse videamus,
-consentaneum est huic naturae, ut sapiens velit gerere et administrare rem publicam atque, ut e natura vivat, uxorem
-adiungere et velle ex ea liberos. ne amores quidem sanctos a sapiente alienos esse arbitrantur. Cynicorum autem rationem
-atque vitam alii cadere in sapientem dicunt, si qui eius modi forte casus inciderit, ut id faciendum sit, alii nullo
-modo.
-
-Ut vero conservetur omnis homini erga hominem societas, coniunctio, caritas, et emolumenta et detrimenta, quae et
-appellant, communia esse voluerunt; quorum altera prosunt, nocent altera. neque solum ea communia, verum etiam paria
-esse dixerunt. incommoda autem et commoda - ita enim et appello - communia esse voluerunt, paria
-noluerunt. illa enim, quae prosunt aut quae nocent, aut bona sunt aut mala, quae sint paria necesse est. commoda autem
-et incommoda in eo genere sunt, quae praeposita et reiecta diximus; ea possunt paria non esse. sed emolumenta communia
-esse dicuntur, recte autem facta et peccata non habentur communia.
-
-Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt. quamquam autem in amicitia alii dicant
-aeque caram esse sapienti rationem amici ac suam, alii autem sibi cuique cariorem suam, tamen hi quoque posteriores
-fatentur alienum esse a iustitia, ad quam nati esse videamur, detrahere quid de aliquo, quod sibi adsumat. minime vero
-probatur huic disciplinae, de qua loquor, aut iustitiam aut amicitiam propter utilitates adscisci aut probari. eaedem
-enim utilitates poterunt eas labefactare atque pervertere. etenim nec iustitia nec amicitia esse omnino poterunt, nisi
-ipsae per se expetuntur.
-
-Ius autem, quod ita dici appellarique possit, id esse natura, alienumque esse a sapiente non modo iniuriam cui facere,
-verum etiam nocere. nec vero rectum est cum amicis aut bene meritis consociare aut coniungere iniuriam, gravissimeque et
-verissime defenditur numquam aequitatem ab utilitate posse seiungi, et quicquid aequum iustumque esset, id etiam
-honestum vicissimque, quicquid esset honestum, id iustum etiam atque aequum fore.
-
-Ad easque virtutes, de quibus disputatum est, dialecticam etiam adiungunt et physicam, easque ambas virtutum nomine
-appellant, alteram, quod habeat rationem, ne cui falso adsentiamur neve umquam captiosa probabilitate fallamur, eaque,
-quae de bonis et malis didicerimus, ut tenere tuerique possimus. nam sine hac arte quemvis arbitrantur a vero abduci
-fallique posse. recte igitur, si omnibus in rebus temeritas ignoratioque vitiosa est, ars ea, quae tollit haec, virtus
-nominata est. physicae quoque non sine causa tributus idem est honos, propterea quod, qui convenienter naturae
-victurus sit, ei proficiscendum est ab omni mundo atque ab eius procuratione. nec vero potest quisquam de bonis et malis
-vere iudicare nisi omni cognita ratione naturae et vitae etiam deorum, et utrum conveniat necne natura hominis cum
-universa. quaeque sunt vetera praecepta sapientium, qui iubent tempori parere et sequi deum et se noscere et nihil
-nimis, haec sine physicis quam vim habeant - et habent maximam - videre nemo potest. atque etiam ad iustitiam colendam,
-ad tuendas amicitias et reliquas caritates quid natura valeat haec una cognitio potest tradere. nec vero pietas adversus
-deos nec quanta iis gratia debeatur sine explicatione naturae intellegi potest.
-
-Sed iam sentio me esse longius provectum, quam proposita ratio postularet. verum admirabilis compositio disciplinae
-incredibilisque rerum me traxit ordo; quem, per deos inmortales! nonne miraris? quid enim aut in natura, qua nihil est
-aptius, nihil descriptius, aut in operibus manu factis tam compositum tamque compactum et coagmentatum inveniri potest?
-quid posterius priori non convenit? quid sequitur, quod non respondeat superiori? quid non sic aliud ex alio nectitur,
-ut, si ullam litteram moveris, labent omnia? nec tamen quicquam est, quod moveri possit. quam gravis vero, quam
-magnifica, quam constans conficitur persona sapientis! qui, cum ratio docuerit, quod honestum esset, id esse solum
-bonum, semper sit necesse est beatus vereque omnia ista nomina possideat, quae irrideri ab inperitis solent. rectius
-enim appellabitur rex quam Tarquinius, qui nec se nec suos regere potuit, rectius magister populi - is enim est
-dictator - quam Sulla, qui trium pestiferorum vitiorum, luxuriae, avaritiae, crudelitatis, magister fuit, rectius dives
-quam Crassus, qui nisi eguisset, numquam Euphraten nulla belli causa transire voluisset. recte eius omnia dicentur, qui
-scit uti solus omnibus, recte etiam pulcher appellabitur - animi enim liniamenta sunt pulchriora quam corporis - recte
-solus liber nec dominationi cuiusquam parens nec oboediens cupiditati, recte invictus, cuius etiamsi corpus
-constringatur, animo tamen vincula inici nulla possint, nec expectet ullum tempus aetatis, uti tum denique
-iudicetur beatusne fuerit, cum extremum vitae diem morte confecerit, quod ille unus e septem sapientibus non sapienter
-Croesum monuit; nam si beatus umquam fuisset, beatam vitam usque ad illum a Cyro extructum rogum pertulisset. quod si
-ita est, ut neque quisquam nisi bonus vir et omnes boni beati sint, quid philosophia magis colendum aut quid est virtute
-divinius?
-Non eram nescius, Brute, cum, quae summis ingeniis exquisitaque doctrina philosophi Graeco sermone tractavissent, ea
-Latinis litteris mandaremus, fore ut hic noster labor in varias reprehensiones incurreret. nam quibusdam, et iis quidem
-non admodum indoctis, totum hoc displicet philosophari. quidam autem non tam id reprehendunt, si remissius agatur, sed
-tantum studium tamque multam operam ponendam in eo non arbitrantur. erunt etiam, et ii quidem eruditi Graecis litteris,
-contemnentes Latinas, qui se dicant in Graecis legendis operam malle consumere. postremo aliquos futuros suspicor, qui
-me ad alias litteras vocent, genus hoc scribendi, etsi sit elegans, personae tamen et dignitatis esse negent. Contra
-quos omnis dicendum breviter existimo. Quamquam philosophiae quidem vituperatoribus satis responsum est eo libro, quo a
-nobis philosophia defensa et collaudata est, cum esset accusata et vituperata ab Hortensio. qui liber cum et tibi
-probatus videretur et iis, quos ego posse iudicare arbitrarer, plura suscepi veritus ne movere hominum studia viderer,
-retinere non posse. Qui autem, si maxime hoc placeat, moderatius tamen id volunt fieri, difficilem quandam temperantiam
-postulant in eo, quod semel admissum coerceri reprimique non potest, ut propemodum iustioribus utamur illis, qui omnino
-avocent a philosophia, quam his, qui rebus infinitis modum constituant in reque eo meliore, quo maior sit, mediocritatem
-desiderent. Sive enim ad sapientiam perveniri potest, non paranda nobis solum ea, sed fruenda etiam est;
-sive hoc difficile est, tamen nec modus est ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis
-est, cum id, quod quaeritur, sit pulcherrimum. etenim si delectamur, cum scribimus, quis est tam invidus, qui ab eo nos
-abducat? sin laboramus, quis est, qui alienae modum statuat industriae? nam ut Terentianus Chremes non inhumanus, qui
-novum vicinum non vult 'fodere aut arare aut aliquid ferre denique' - non enim illum ab industria, sed ab inliberali
-labore deterret - sic isti curiosi, quos offendit noster minime nobis iniucundus labor.
-
-Iis igitur est difficilius satis facere, qui se Latina scripta dicunt contemnere. in quibus hoc primum est in quo
-admirer, cur in gravissimis rebus non delectet eos sermo patrius, cum idem fabellas Latinas ad verbum e Graecis
-expressas non inviti legant. quis enim tam inimicus paene nomini Romano est, qui Ennii Medeam aut Antiopam Pacuvii
-spernat aut reiciat, quod se isdem Euripidis fabulis delectari dicat, Latinas litteras oderit?
-
-Synephebos ego, inquit, potius Caecilii aut Andriam Terentii quam utramque Menandri legam? A quibus tantum dissentio,
-ut, cum Sophocles vel optime scripserit Electram, tamen male conversam Atilii mihi legendam putem, de quo Lucilius:
-'ferreum scriptorem', verum, opinor, scriptorem tamen, ut legendus sit. rudem enim esse omnino in nostris poetis aut
-inertissimae segnitiae est aut fastidii delicatissimi. mihi quidem nulli satis eruditi videntur, quibus nostra ignota
-sunt. an 'Utinam ne in nemore . . .' nihilo minus legimus quam hoc idem Graecum, quae autem de bene beateque vivendo a
-Platone disputata sunt, haec explicari non placebit Latine? Quid? si nos non interpretum fungimur munere, sed tuemur ea,
-quae dicta sunt ab iis quos probamus, eisque nostrum iudicium et nostrum scribendi ordinem adiungimus, quid habent, cur
-Graeca anteponant iis, quae et splendide dicta sint neque sint conversa de Graecis? nam si dicent ab illis has res esse
-tractatas, ne ipsos quidem Graecos est cur tam multos legant, quam legendi sunt. quid enim est a Chrysippo praetermissum
-in Stoicis? legimus tamen Diogenem, Antipatrum, Mnesarchum, Panaetium, multos alios in primisque familiarem nostrum
-Posidonium. quid? Theophrastus mediocriterne delectat, cum tractat locos ab Aristotele ante tractatos? quid? Epicurei
-num desistunt de isdem, de quibus et ab Epicuro scriptum est et ab antiquis, ad arbitrium suum scribere? quodsi Graeci
-leguntur a Graecis isdem de rebus alia ratione compositis, quid est, cur nostri a nostris non legantur?"
+talk_details: "Dr. Kotowick is the founder of a Canadian consulting and development firm focusing on prototype and POC development for complex systems. He holds a Ph.D. in Human Systems Integration from MIT's Department of Aeronautics and Astronautics, which he completed in the Computer Science and Artificial Intelligence Laboratory. He has served as a consultant, architect, and developer for global firms, startups, and universities; as the Director of Information Technology for an ambulance service; and as a researcher for military navigation systems and for life support systems in space. He specializes in working with enterprise clients to define requirements and explore possible solutions, as well as in leading the development of project architecture, cloud services, and back-end software. He volunteers as a team leader and technology specialist for World Health Organization Emergency Medical Teams deployed to disaster zones, and has a passion for exploring the uses of technology in high-risk environments."

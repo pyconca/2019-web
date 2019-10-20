@@ -2,87 +2,17 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Duane Bier"
+speaker_name: "Adrienne Lowe"
 
-talk_title: "Id qui in una virtute ponun!"
+talk_title: "The zen of Python teams"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "expert"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Quae cum dixisset, Explicavi, inquit, sententiam meam, et eo quidem consilio, tuum iudicium ut cognoscerem, quoniam mihiea facultas, ut id meo arbitratu facerem, ante hoc tempus numquam est data. Hic cum uterque me intueretur sesequead audiendum significarent paratos, Primum, inquam, deprecor, ne metamquamphilosophum putetis scholam vobis aliquam explicaturum, quod ne in ipsis quidem philosophis magnopere umquamprobavi."
+talk_abstract: "The Zen of Python, accessed by running `import this`, is a list of nineteen aphorisms that have guided the development of the language. It has good advice for how to organize our code, but what does it have to say about how we organize ourselves? Plenty: the Zen of Python is not only a solid set of development principles, but the other easter egg is that it’s packed with wisdom about how to build healthy teams. In this talk I draw upon my time as an engineering manager leading Python teams to tell stories of what the Zen of Python has to teach us about communication and conflict, building inclusive teams and transparent processes, and promoting psychological safety. Come ready to reflect on and feel inspired by a new interpretation of these principles, and bring what you learn back to your meetup, study group, open source project, or team."
 
-talk_details: "Haec dicuntur inconstantissime.cum enim summum bonum in voluptate ponat, negat infinito temporeaetatis voluptatem fieri
-maiorem quam finito atque modico. quibonum omne in virtute ponit, is potest dicere perfici beatam vitamperfectione
-virtutis; negat enim summo bono afferre incrementumdiem. qui autem voluptate vitam effici beatam putabit, qui sibi
-isconveniet, si negabit voluptatem crescere longinquitate? igitur nedolorem quidem. an dolor longissimus quisque
-miserrimus, voluptatemnon optabiliorem diuturnitas facit? quid est igitur, cur ita semperdeum appellet Epicurus beatum
-et aeternum? dempta enim aeternitatenihilo beatior Iuppiter quam Epicurus; uterque enim summo bonofruitur, id est
-voluptate. 'At enim hic etiam dolore.' At eumnihili facit; ait enim se, si uratur, 'Quam hoc suave!'dicturum.
-
-Qua igitur re ab deo vincitur, siaeternitate non vincitur? in qua quid est boni praeter summamvoluptatem, et eam
-sempiternam? quid ergo attinet gloriose loqui, nisi constanter loquare? In voluptate corporis - addam, si vis,'animi',
-dum ea ipsa, ut vultis, sit e corpore - situm est viverebeate. Quid? istam voluptatem perpetuam quis potest
-praestaresapienti? nam quibus rebus efficiuntur voluptates, eae non sunt inpotestate sapientis. non enim in ipsa
-sapientia positum est beatumesse, sed in iis rebus, quas sapientia comparat ad voluptatem.totum autem id externum est,
-et quod externum, id in casu est. itafit beatae vitae domina fortuna, quam Epicurus ait exiguamintervenire sapienti.
-
-Age, inquies, ista parva sunt. Sapientem locupletat ipsa natura, cuius divitias Epicurus parabilesesse docuit. Haec bene
-dicuntur, nec ego repugno, sed inter seseipsa pugnant. negat enim tenuissimo victu, id est contemptissimisescis et
-potionibus, minorem voluptatem percipi quam rebusexquisitissimis ad epulandum. huic ego, si negaret quicquaminteresse ad
-beate vivendum quali uteretur victu, concederem, laudarem etiam; verum enim diceret, idque Socratem, qui voluptatemnullo
-loco numerat, audio dicentem, cibi condimentum esse famem, potionis sitim. sed qui ad voluptatem omnia referens vivit
-utGallonius, loquitur ut Frugi ille Piso, non audio nec eum, quodsentiat, dicere existimo.
-
-Naturales divitias dixit parabilesesse, quod parvo esset natura contenta. Certe, nisi voluptatemtanti aestimaretis. Non
-minor, inquit, voluptas percipitur exvilissimis rebus quam ex pretiosissimis. Hoc est non modo cor nonhabere, sed ne
-palatum quidem. qui enim voluptatem ipsamcontemnunt, iis licet dicere se acupenserem maenae non anteponere.cui vero in
-voluptate summum bonum est, huic omnia sensu, nonratione sunt iudicanda, eaque dicenda optima, quae sintsuavissima.
-
-Verum esto; consequatur summasvoluptates non modo parvo, sed per me nihilo, si potest; sitvoluptas non minor in
-nasturcio illo, quo vesci Persas esse solitosscribit Xenophon, quam in Syracusanis mensis, quae a Platonegraviter
-vituperantur; sit, inquam, tam facilis, quam vultis, comparatio voluptatis, quid de dolore dicemus? cuius tanta
-tormentasunt, ut in iis beata vita, si modo dolor summum malum est, essenon possit. ipse enim Metrodorus, paene alter
-Epicurus, beatum essedescribit his fere verbis: 'cum corpus bene constitutum sit et sitexploratum ita futurum.' an id
-exploratum cuiquam potest esse, quomodo se hoc habiturum sit corpus, non dico ad annum, sed advesperum? dolor ergo, id
-est summum malum, metuetur semper, etiamsinon aderit; iam enim adesse poterit. qui potest igitur habitare inbeata vita
-summi mali metus?
-
-Traditur, inquit, ab Epicuro rationeglegendi doloris. Iam id ipsum absurdum, maximum malum neglegi.sed quae tandem ista
-ratio est? Maximus dolor, inquit, brevis est.Primum quid tu dicis breve? deinde dolorem quem maximum? quid enim?summus
-dolor plures dies manere non potest? vide, ne etiam menses!nisi forte eum dicis, qui, simul atque arripuit, interficit.
-quisistum dolorem timet? illum mallem levares, quo optimum atquehumanissimum virum, Cn. Octavium, Marci filium,
-familiarem meum, confici vidi, nec vero semel nec ad breve tempus, sed et saepe etplane diu. quos ille, di inmortales,
-cum omnes artus ardereviderentur, cruciatus perferebat! nec tamen miser esse, quia summumid malum non erat, tantum modo
-laboriosus videbatur; at miser, siin flagitiosa et vitiosa vita afflueret voluptatibus.
-
-Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit. videoenim et magnos et
-eosdem bene longinquos dolores, quorum aliatoleratio est verior, qua uti vos non potestis, qui honestatemipsam per se
-non amatis. fortitudinis quaedam praecepta sunt acpaene leges, quae effeminari virum vetant in dolore. quam ob remturpe
-putandum est, non dico dolere - nam id quidem est interdumnecesse - sed saxum illud Lemnium clamore Philocteteo
-funestare, Quod eiulatu, questu, gemitu, fremitibus Resonando mutum flebilesvoces refert. Huic Epicurus praecentet, si
-potest, cui viperino morsu venae viscerum Veneno inbutae taetros cruciatuscient! Sic Epicurus: 'Philocteta, st!
-brevis dolor.' At iam decimumannum in spelunca iacet. 'Si longus, levis; dat enim intervalla etrelaxat.?
-
-Primum non saepe, deinde quae estista relaxatio, cum et praeteriti doloris memoria recens est etfuturi atque inpendentis
-torquet timor? 'Moriatur', inquit.Fortasse id optimum, sed ubi illud: 'Plus semper voluptatis'? sienim ita est, vide ne
-facinus facias, cum mori suadeas. potius ergoilla dicantur: turpe esse, viri non esse debilitari dolore, frangi,
-succumbere. nam ista vestra: 'Si gravis, brevis; si longus, levis'dictata sunt. virtutis, magnitudinis animi,
-patientiae, fortitudinis fomentis dolor mitigari solet.
-
-Audi, ne longe abeam, moriens quiddicat Epicurus, ut intellegas facta eius cum dictis discrepare:'Epicurus Hermarcho
-salutem. Cum ageremus', inquit, 'vitae beatumet eundem supremum diem, scribebamus haec. tanti autem aderantvesicae et
-torminum morbi, ut nihil ad eorum magnitudinem possetaccedere.' Miserum hominem! Si dolor summum malum est, dici
-aliternon potest. sed audiamus ipsum: 'Compensabatur', inquit, 'tamen cumhis omnibus animi laetitia, quam capiebam
-memoria rationuminventorumque nostrorum. sed tu, ut dignum est tua erga me etphilosophiam voluntate ab adolescentulo
-suscepta, fac ut Metrodoritueare liberos.!
-
-Non ego iam Epaminondae, nonLeonidae mortem huius morti antepono, quorum alter cum vicissetLacedaemonios apud Mantineam
-atque ipse gravi vulnere exanimari sevideret, ut primum dispexit, quaesivit salvusne esset clipeus. cumsalvum esse
-flentes sui respondissent, rogavit essentne fusihostes. cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua
-erat transfixus, hastam. ita multo sanguine profuso in laetitiaet in victoria est mortuus. Leonidas autem, rex
-Lacedaemoniorum, sein Thermopylis trecentosque eos, quos eduxerat Sparta, cum essetproposita aut fuga turpis aut
-gloriosa mors, opposuit hostibus.praeclarae mortes sunt imperatoriae; philosophi autem in suislectulis plerumque
-moriuntur. refert tamen, quo modo.sibi videtur esse moriens. magna laus.'Compensabatur', inquit, 'cum summis
-doloribus laetitia.!"
+talk_details: "Adrienne leads engineers at verica.io. She is the former Director of Advancement of the Django Software Foundation, the non-profit backing Django, where she led fundraising for two years. She is also an O’Reilly contributor and technical editor of Head First Python 2nd Edition. Adrienne is based in Music City: Nashville, Tennessee."

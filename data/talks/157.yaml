@@ -2,81 +2,17 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Maurice Allen"
+speaker_name: "Raman Tehlan"
 
-talk_title: "Licet hic rursus ea commemores, quae optimis verbis ab Epicuro d!"
+talk_title: "Genetic algorithms: making errors do all the work"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "expert"
-- "talk"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Bene facis, inquit, quod me adiuvas, et istis quidem, quae modo dixisti, utar potius Latinis, in ceteris subvenies, sime haerentem videbis. Sedulo, inquam, faciam. Sed 'fortuna fortis'; quare conare, quaeso."
+talk_abstract: "This talk presents a systematic approach to understand and implement Genetic Algorithms, with a hands-on experience of solving a real-world problem. The inspiration and methods behind GA will also be included with all the fundamental topics like fitness algorithms, mutation, crossover etc, with limitations and advantages of using it."
 
-talk_details: "Ut vero conservetur omnis homini erga hominem societas, coniunctio, caritas, et emolumenta et detrimenta, quae et
-appellant, communia esse voluerunt; quorum altera prosunt, nocent altera. neque solum ea communia, verum etiam paria
-esse dixerunt. incommoda autem et commoda - ita enim et appello - communia esse voluerunt, paria
-noluerunt. illa enim, quae prosunt aut quae nocent, aut bona sunt aut mala, quae sint paria necesse est. commoda autem
-et incommoda in eo genere sunt, quae praeposita et reiecta diximus; ea possunt paria non esse. sed emolumenta communia
-esse dicuntur, recte autem facta et peccata non habentur communia.
-
-Amicitiam autem adhibendam esse censent, quia sit ex eo genere, quae prosunt. quamquam autem in amicitia alii dicant
-aeque caram esse sapienti rationem amici ac suam, alii autem sibi cuique cariorem suam, tamen hi quoque posteriores
-fatentur alienum esse a iustitia, ad quam nati esse videamur, detrahere quid de aliquo, quod sibi adsumat. minime vero
-probatur huic disciplinae, de qua loquor, aut iustitiam aut amicitiam propter utilitates adscisci aut probari. eaedem
-enim utilitates poterunt eas labefactare atque pervertere. etenim nec iustitia nec amicitia esse omnino poterunt, nisi
-ipsae per se expetuntur.
-
-Ius autem, quod ita dici appellarique possit, id esse natura, alienumque esse a sapiente non modo iniuriam cui facere,
-verum etiam nocere. nec vero rectum est cum amicis aut bene meritis consociare aut coniungere iniuriam, gravissimeque et
-verissime defenditur numquam aequitatem ab utilitate posse seiungi, et quicquid aequum iustumque esset, id etiam
-honestum vicissimque, quicquid esset honestum, id iustum etiam atque aequum fore.
-
-Ad easque virtutes, de quibus disputatum est, dialecticam etiam adiungunt et physicam, easque ambas virtutum nomine
-appellant, alteram, quod habeat rationem, ne cui falso adsentiamur neve umquam captiosa probabilitate fallamur, eaque,
-quae de bonis et malis didicerimus, ut tenere tuerique possimus. nam sine hac arte quemvis arbitrantur a vero abduci
-fallique posse. recte igitur, si omnibus in rebus temeritas ignoratioque vitiosa est, ars ea, quae tollit haec, virtus
-nominata est. physicae quoque non sine causa tributus idem est honos, propterea quod, qui convenienter naturae
-victurus sit, ei proficiscendum est ab omni mundo atque ab eius procuratione. nec vero potest quisquam de bonis et malis
-vere iudicare nisi omni cognita ratione naturae et vitae etiam deorum, et utrum conveniat necne natura hominis cum
-universa. quaeque sunt vetera praecepta sapientium, qui iubent tempori parere et sequi deum et se noscere et nihil
-nimis, haec sine physicis quam vim habeant - et habent maximam - videre nemo potest. atque etiam ad iustitiam colendam,
-ad tuendas amicitias et reliquas caritates quid natura valeat haec una cognitio potest tradere. nec vero pietas adversus
-deos nec quanta iis gratia debeatur sine explicatione naturae intellegi potest.
-
-Sed iam sentio me esse longius provectum, quam proposita ratio postularet. verum admirabilis compositio disciplinae
-incredibilisque rerum me traxit ordo; quem, per deos inmortales! nonne miraris? quid enim aut in natura, qua nihil est
-aptius, nihil descriptius, aut in operibus manu factis tam compositum tamque compactum et coagmentatum inveniri potest?
-quid posterius priori non convenit? quid sequitur, quod non respondeat superiori? quid non sic aliud ex alio nectitur,
-ut, si ullam litteram moveris, labent omnia? nec tamen quicquam est, quod moveri possit. quam gravis vero, quam
-magnifica, quam constans conficitur persona sapientis! qui, cum ratio docuerit, quod honestum esset, id esse solum
-bonum, semper sit necesse est beatus vereque omnia ista nomina possideat, quae irrideri ab inperitis solent. rectius
-enim appellabitur rex quam Tarquinius, qui nec se nec suos regere potuit, rectius magister populi - is enim est
-dictator - quam Sulla, qui trium pestiferorum vitiorum, luxuriae, avaritiae, crudelitatis, magister fuit, rectius dives
-quam Crassus, qui nisi eguisset, numquam Euphraten nulla belli causa transire voluisset. recte eius omnia dicentur, qui
-scit uti solus omnibus, recte etiam pulcher appellabitur - animi enim liniamenta sunt pulchriora quam corporis - recte
-solus liber nec dominationi cuiusquam parens nec oboediens cupiditati, recte invictus, cuius etiamsi corpus
-constringatur, animo tamen vincula inici nulla possint, nec expectet ullum tempus aetatis, uti tum denique
-iudicetur beatusne fuerit, cum extremum vitae diem morte confecerit, quod ille unus e septem sapientibus non sapienter
-Croesum monuit; nam si beatus umquam fuisset, beatam vitam usque ad illum a Cyro extructum rogum pertulisset. quod si
-ita est, ut neque quisquam nisi bonus vir et omnes boni beati sint, quid philosophia magis colendum aut quid est virtute
-divinius?
-Non eram nescius, Brute, cum, quae summis ingeniis exquisitaque doctrina philosophi Graeco sermone tractavissent, ea
-Latinis litteris mandaremus, fore ut hic noster labor in varias reprehensiones incurreret. nam quibusdam, et iis quidem
-non admodum indoctis, totum hoc displicet philosophari. quidam autem non tam id reprehendunt, si remissius agatur, sed
-tantum studium tamque multam operam ponendam in eo non arbitrantur. erunt etiam, et ii quidem eruditi Graecis litteris,
-contemnentes Latinas, qui se dicant in Graecis legendis operam malle consumere. postremo aliquos futuros suspicor, qui
-me ad alias litteras vocent, genus hoc scribendi, etsi sit elegans, personae tamen et dignitatis esse negent. Contra
-quos omnis dicendum breviter existimo. Quamquam philosophiae quidem vituperatoribus satis responsum est eo libro, quo a
-nobis philosophia defensa et collaudata est, cum esset accusata et vituperata ab Hortensio. qui liber cum et tibi
-probatus videretur et iis, quos ego posse iudicare arbitrarer, plura suscepi veritus ne movere hominum studia viderer,
-retinere non posse. Qui autem, si maxime hoc placeat, moderatius tamen id volunt fieri, difficilem quandam temperantiam
-postulant in eo, quod semel admissum coerceri reprimique non potest, ut propemodum iustioribus utamur illis, qui omnino
-avocent a philosophia, quam his, qui rebus infinitis modum constituant in reque eo meliore, quo maior sit, mediocritatem
-desiderent. Sive enim ad sapientiam perveniri potest, non paranda nobis solum ea, sed fruenda etiam est;
-sive hoc difficile est, tamen nec modus est ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis
-est, cum id, quod quaeritur, sit pulcherrimum. etenim si delectamur, cum scribimus, quis est tam invidus, qui ab eo nos
-abducat? sin laboramus, quis est, qui alienae modum statuat industriae? nam ut Terentianus Chremes non inhumanus, qui
-novum vicinum non vult 'fodere aut arare aut aliquid ferre denique' - non enim illum ab industria, sed ab inliberali
-labore deterret - sic isti curiosi, quos offendit noster minime nobis iniucundus labor."
+talk_details: "I am an undergraduate student at SRM University, doing B Tech in Computer Science. My field of interest is Mathematics, Server-Side Technologies and Genetic Algorithms. I am currently a Software engineering intern at Timeless co, previously at Udacity and Knowalrity. I have created more than 20+ projects and love contributing to other open-source projects. I am also a core member of PyData Delhi and recently co-organized PyData Delhi Conference."

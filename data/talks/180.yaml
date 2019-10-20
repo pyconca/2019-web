@@ -2,75 +2,17 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Cindy Thyng"
+speaker_name: "Carol Chen"
 
-talk_title: "Hoc ille tuus non vult omnibusqueex rebu!"
+talk_title: "Python is a weirdo"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "beginner"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Eademque ratione ne temperantiam quidem propter se expetendam esse dicemus, sed quia pacem animis afferat et eos quasiconcordia quadam placet ac leniat. Temperantia est enim, quae in rebus aut expetendis aut fugiendis ut rationem sequamurmonet. Nec enim satis est iudicare quid faciendum non faciendumve sit, sed stare etiam oportet in eo, quod sitiudicatum. Plerique autem, quod tenere atque servare id, quod ipsi statuerunt, non possunt, victi et debilitati obiectaspecie voluptatis tradunt se libidinibus constringendos nec quid eventurum sit provident ob eamque causam proptervoluptatem et parvam et non necessariam et quae vel aliter pararetur et qua etiam carere possent sine dolore tum inmorbos gravis, tum in damna, tum in dedecora incurrunt, saepe etiam legum iudiciorumque poenis obligantur."
+talk_abstract: "We all know Javascript is notorious for having stupid 'features', but what can we do with Python? This talk will go through surprising features, as well as some code golf to explore surprising applications of unsurprising features. Disclaimer: This probably won't help you do your job."
 
-talk_details: "Si ea, quae sunt luxuriosisefficientia voluptatum, liberarent eos deorum et mortis et dolorismetu docerentque qui essent
-fines cupiditatum, nihil haberemus, cum undique complerentur voluptatibusnec haberent ulla ex
-parte aliquid aut dolens aut aegrum, id estautem malum.' Hoc loco tenere se Triarius non potuit. Obsecro, inquit,
-Torquate, haec dicit Epicurus? quod mihi quidem visus est, cum sciret, velle tamen confitentem audire Torquatum. At ille
-nonpertimuit saneque fidenter: Istis quidem ipsis verbis, inquit; sedquid sentiat, non videtis. Si alia sentit, inquam,
-alia loquitur, numquam intellegam quid sentiat; sed plane dicit quod intellegit.idque si ita dicit, non esse
-reprehendendos luxuriosos, sisapientes sint, dicit absurde, similiter et si dicat nonreprehendendos parricidas, si nec
-cupidi sint nec deos metuant necmortem nec dolorem. et tamen quid attinet luxuriosis ullamexceptionem dari aut fingere
-aliquos, qui, cum luxuriose viverent, a summo philosopho non reprehenderentur eo nomine dumtaxat, ceteracaverent?
-
-Sed tamen nonne reprehenderes, Epicure, luxuriosos ob eam ipsam causam, quod ita viverent, utpersequerentur cuiusque
-modi voluptates, cum esset praesertim, utais tu, summa voluptas nihil dolere? atqui reperiemus asotos primumita non
-religiosos, ut edint de patella, deinde ita mortem nontimentes, ut illud in ore habeant ex Hymnide: 'Mihi sex
-mensessatis sunt vitae, septimum Orco spondeo'. iam doloris medicamentailla Epicurea tamquam de narthecio proment: 'Si
-gravis, brevis; silongus, levis.' Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere.
-
-Quid ergo attinet dicere: 'Nihilhaberem, quod reprehenderem, si finitas cupiditates haberent'? hocest dicere: 'Non
-reprehenderem asotos, si non essent asoti.' istomodo ne improbos quidem, si essent boni viri. hic homo severusluxuriam
-ipsam per se reprehendendam non putat, et hercule, Torquate, ut verum loquamur, si summum bonum voluptas est, rectissime
-non putat. Noli enim mihi fingere asotos, ut soletis, qui in mensam vomant, et qui de conviviis auferantur
-crudiquepostridie se rursus ingurgitent, qui solem, ut aiunt, necoccidentem umquam viderint nec orientem, qui consumptis
-patrimoniisegeant. nemo nostrum istius generis asotos iucunde putat vivere.mundos, elegantis, optimis cocis, pistoribus,
-piscatu, aucupio, venatione, his omnibus exquisitis, vitantes cruditatem, quibusvinum defusum e pleno sit chrysizon, ut
-ait Lucilius, cui nihildumsitulus et sacculus abstulerit, adhibentis ludos et quae sequuntur, illa, quibus detractis
-clamat Epicurus se nescire quid sit bonum;adsint etiam formosi pueri, qui ministrent, respondeat his vestis, argentum,
-Corinthium, locus ipse, aedificium - hos ergo asotos benequidem vivere aut beate numquam dixerim.
-
-Laelius clamoressofw ille so lebat Edere compellans gumias ex ordinenostros. praeclare Laelius, et recte sofw,
-illudque vere: OPubli, o gurges, Galloni! es homo miser, inquit. Cenasti in vitanumquam bene, cum omnia in ista Consumis
-squilla atque acupenserecum decimano. is haec loquitur, qui in voluptate nihil ponens negateum bene cenare, qui omnia
-ponat in voluptate, et tamen non negatlibenter cenasse umquam Gallonium - mentiretur enim - sed bene.ita graviter et
-severe voluptatem secrevit a bono. ex quo illudefficitur, qui bene cenent omnis libenter cenare, qui libenter,
-noncontinuo bene.
-
-Prave, nequiter, turpiter cenabat; non igitur. nec lapathi suavitatem acupenseri Galloni Laeliusanteponebat, sed
-suavitatem ipsam neglegebat; quod non faceret, siin voluptate summum bonum poneret.
-
-Semovenda est igitur voluptas, nonsolum ut recta sequamini, sed etiam ut loqui deceat frugaliter. possumusne ergo in
-vita summum bonum dicere, cum id ne in cenaquidem posse videamur? Quo modo autem philosophus loquitur? 'Triagenera
-cupiditatum, naturales et necessariae, naturales et nonnecessariae, nec naturales nec necessariae.' primum
-divisitineleganter; duo enim genera quae erant, fecit tria. hoc est nondividere, sed frangere. qui haec didicerunt, quae
-ille contemnit, sic solent: 'Duo genera cupiditatum, naturales et inanes, naturalium duo, necessariae et non
-necessariae.' confecta resesset. vitiosum est enim in dividendo partem in generenumerare.
-
-Sed hoc sane concedamus. contemnitenim disserendi elegantiam, confuse loquitur. gerendus est mos, modo recte sentiat. et
-quidem illud ipsum non nimium probo ettantum patior, philosophum loqui de cupiditatibus finiendis. anpotest cupiditas
-finiri? tollenda est atque extrahenda radicitus.quis est enim, in quo sit cupiditas, quin recte cupidus dicipossit? ergo
-et avarus erit, sed finite, et adulter, verum habebitmodum, et luxuriosus eodem modo. qualis ista philosophia est,
-quaenon interitum afferat pravitatis, sed sit contenta mediocritatevitiorum? quamquam in hac divisione rem ipsam prorsus
-probo, elegantiam desidero. appellet haec desideria naturae, cupiditatisnomen servet alio, ut eam, cum de avaritia, cum
-de intemperantia, cum de maximis vitiis loquetur, tamquam capitis accuset.
-
-Sed haec quidem liberius ab eodicuntur et saepius. quod equidem non reprehendo; est enim tantiphilosophi tamque nobilis
-audacter sua decreta defendere. sed tamenex eo, quod eam voluptatem, quam omnes gentes hoc nomine appellant, videtur
-amplexari saepe vehementius, in magnis interdum versaturangustiis, ut hominum conscientia remota nihil tam turpe sit,
-quodvoluptatis causa non videatur esse facturus. deinde, ubierubuit - vis enim est permagna naturae - confugit illuc,
-ut negetaccedere quicquam posse ad voluptatem nihil dolentis. at iste nondolendi status non vocatur voluptas. 'Non
-laboro', inquit, 'denomine'. Quid, quod res alia tota est? 'Reperiam multos, velinnumerabilis potius, non tam curiosos
-nec tam molestos, quam vosestis, quibus, quid velim, facile persuadeam.' quid ergo dubitamus, quin, si non dolere
-voluptas sit summa, non esse in voluptate dolorsit maximus? cur id non ita fit? 'Quia dolori non voluptascontraria est,
-sed doloris privatio.!"
+talk_details: "Carol Chen is a self-taught programmer who currently works as a developer at Shopify (Rails). Before that she worked for almost a year at Hatch Canada where she worked with Django and developed a Python based computer science curriculum. She has also contributed to Sugar (mostly in Python). Lover of conferences, she has been to the Wolfram Tech Conference (where she also spoke), I/O '18, and F8 '19. She's currently 17 and resides in Toronto."

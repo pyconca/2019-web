@@ -2,74 +2,22 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Betty Baskin"
+speaker_name: "Margaret Skwara and Janna Rodeokova"
 
-talk_title: "Omne autem, quod honestum sit, i!"
+talk_title: "Energy indicators and Jupyter Notebooks at the Canada Energy Regulator"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "expert"
-- "talk"
-- "python"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Ut enim obscuratur et offunditur luce solis lumen lucernae, et ut interit magnitudine maris Aegaei stilla mellis,et ut in divitiis Croesi teruncii accessio et gradus unus in ea via, quae est hinc in Indiam, sic, cum sit is bonorumfinis, quem Stoici dicunt, omnis ista rerum corporearum aestimatio splendore virtutis et magnitudine obscuretur etobruatur atque intereat necesse est. Et quem ad modum oportunitas - sic enim appellemus elairsn - non fit maiorproductione temporis - habent enim suum modum, quae oportuna dicuntur - sic recta effectio - katyvsin enim ita appello,quoniam rectum factum katyvma - recta igitur effectio, item convenientia, denique ipsum bonum, quod in eo positum est,ut naturae consentiat, crescendi accessionem nullam habet."
+talk_abstract: "Data on energy markets in Canada is abundant. Various datasets are produced by different levels of governments, private companies and industry associations, international organizations and academia. However, this data is not always standardized and is not centralized. Often, data is not comparable because units are not uniform (ex. imperial, metric) and temporal periods are variable (annual, monthly, daily). Formats range from csv, excel, html or PDF.
 
-talk_details: "Haec igitur Epicuri non probo, inquam. De cetero vellem equidem aut ipse doctrinis fuisset instructior - est enim, quod
-tibi ita videri necesse est, non satis politus iis artibus, quas qui tenent, eruditi appellantur - aut ne deterruisset
-alios a studiis. quamquam te quidem video minime esse deterritum.
+ Before any analytics can commence, data needs to be extensively cleaned up. The Canadian Energy Regulator (CER), in cooperation with three other federal agencies, recently launched the [Energy Indicators](https://www.neb-one.gc.ca/nrg/tl/nrgcmmdt/index-eng.html) – a series of interactive dashboards that display most recently available public information
+ related to energy commodity markets in Canada (crude oil, natural gas, electricity and Canada’s energy transition). 
 
-Quae cum dixissem, magis ut illum provocarem quam ut ipse loquerer, tum Triarius leniter arridens: Tu quidem, inquit,
-totum Epicurum paene e philosophorum choro sustulisti. Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere,
-quid diceret? Aliena dixit in physicis nec ea ipsa, quae tibi probarentur; si qua in iis corrigere voluit, deteriora
-fecit. disserendi artem nullam habuit. voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc
-quoque alienum; nam ante Aristippus, et ille melius. addidisti ad extremum etiam indoctum fuisse.
+Jupyter Notebooks to accompany each dashboard have also been created to provide a transparent data access methodology to allow reproducibility by others and clear the path for more advanced analytics related to Canada’s energy information."
 
-Fieri, inquam, Triari, nullo pacto potest, ut non dicas, quid non probes eius, a quo dissentias. quid enim me prohiberet
-Epicureum esse, si probarem, quae ille diceret? cum praesertim illa perdiscere ludus esset. Quam ob rem dissentientium
-inter se reprehensiones non sunt vituperandae, maledicta, contumeliae, tum iracundiae, contentiones concertationesque in
-disputando pertinaces indignae philosophia mihi videri solent.
-
-Tum Torquatus: Prorsus, inquit, assentior; neque enim disputari sine reprehensione nec cum iracundia aut pertinacia
-recte disputari potest. sed ad haec, nisi molestum est, habeo quae velim. An me, inquam, nisi te audire vellem, censes
-haec dicturum fuisse? Utrum igitur percurri omnem Epicuri disciplinam placet an de una voluptate quaeri, de qua omne
-certamen est? Tuo vero id quidem, inquam, arbitratu. Sic faciam igitur, inquit: unam rem explicabo, eamque maximam, de
-physicis alias, et quidem tibi et declinationem istam atomorum et magnitudinem solis probabo et Democriti errata ab
-Epicuro reprehensa et correcta permulta. nunc dicam de voluptate, nihil scilicet novi, ea tamen, quae te ipsum
-probaturum esse confidam.
-
-Certe, inquam, pertinax non ero tibique, si mihi probabis ea, quae dices, libenter assentiar. Probabo, inquit, modo ista
-sis aequitate, quam ostendis. sed uti oratione perpetua malo quam interrogare aut interrogari. Ut placet, inquam. Tum
-dicere exorsus est. Primum igitur, inquit, sic agam, ut ipsi auctori huius disciplinae placet: constituam, quid et quale
-sit id, de quo quaerimus, non quo ignorare vos arbitrer, sed ut ratione et via procedat oratio. quaerimus igitur, quid
-sit extremum et ultimum bonorum, quod omnium philosophorum sententia tale debet esse, ut ad id omnia referri oporteat,
-ipsum autem nusquam. hoc Epicurus in voluptate ponit, quod summum bonum esse vult, summumque malum dolorem, idque
-instituit docere sic: Omne animal, simul atque natum sit, voluptatem appetere eaque gaudere ut summo bono, dolorem
-aspernari ut summum malum et, quantum possit, a se repellere, idque facere nondum depravatum ipsa natura incorrupte
-atque integre iudicante. itaque negat opus esse ratione neque disputatione, quam ob rem voluptas expetenda, fugiendus
-dolor sit. sentiri haec putat, ut calere ignem, nivem esse albam, dulce mel. quorum nihil oportere exquisitis rationibus
-confirmare, tantum satis esse admonere. interesse enim inter argumentum conclusionemque rationis et inter mediocrem
-animadversionem atque admonitionem. altera occulta quaedam et quasi involuta aperiri, altera prompta et aperta iudicari.
-etenim quoniam detractis de homine sensibus reliqui nihil est, necesse est, quid aut ad naturam aut contra sit, a natura
-ipsa iudicari. ea quid percipit aut quid iudicat, quo aut petat aut fugiat aliquid, praeter voluptatem et dolorem? 
-Sunt autem quidam e nostris, qui haec subtilius velint tradere et negent satis esse, quid bonum sit aut quid malum,
-sensu iudicari, sed animo etiam ac ratione intellegi posse et voluptatem ipsam per se esse expetendam et dolorem ipsum
-per se esse fugiendum. itaque aiunt hanc quasi naturalem atque insitam in animis nostris inesse notionem, ut alterum
-esse appetendum, alterum aspernandum sentiamus. Alii autem, quibus ego assentior, cum a philosophis compluribus permulta
-dicantur, cur nec voluptas in bonis sit numeranda nec in malis dolor, non existimant oportere nimium nos causae
-confidere, sed et argumentandum et accurate disserendum et rationibus conquisitis de voluptate et dolore disputandum
-putant. Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. nemo enim
-ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione
-voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci
-velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim
-ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur,
-vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos
-ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint,
-obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et
-dolorum fuga. et harum quidem rerum facilis est et expedita distinctio. nam libero tempore, cum soluta nobis est
-eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est,
-omnis dolor repellendus. temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut
-et voluptates repudiandae sint et molestiae non recusandae. itaque earum rerum hic tenetur a sapiente delectus, ut aut
-reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+talk_details: "Margaret Skwara is a senior natural gas markets analyst at the National Energy Board in Calgary, Alberta."

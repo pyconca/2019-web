@@ -2,51 +2,19 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Mabel Nix"
+speaker_name: "Juti Noppornpitak"
 
-talk_title: "Quid nunc 'honeste' dicit? idemne, quod iucunde? ergo ita: non poss."
+talk_title: "Introduction to asynchronous programming"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "intermediate"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Isto modo, ne si avia quidem eius nata non esset. Res tota, Torquate, nondoctorum hominum, velle post mortem epuliscelebrari memoriam suinominis. Quos quidem dies quem ad modum agatis et in quantamhominum facetorum urbanitatemincurratis, non dico - nihil opus estlitibus - ; tantum dico, magis fuisse vestrum agere Epicuri diemnatalem, quamillius testamento cavere ut ageretur. Sed ut ad propositum - de doloreenim cum diceremus, ad istam epistulam delati sumus - nunc totumillud concludi siclicet: qui in summo malo est, is tum, cum in eoest, non est beatus; sapiens autem semper beatus est et estaliquando indolore; non est igitur summum malum dolor. Iam illudquale tandem est, bona praeterita non effluere sapienti,malameminisse non oportere?"
+talk_abstract: "Since Python 3.5 and PEP 492, we have been able to write asynchronous programs in an easy and Pythonic way without external libraries. Even so, it is still difficult to understand what asynchronous programming is all about and when we, Python developers, should consider using it.
 
-talk_details: "Quod autem magnum dolorem brevem, longinquum levem esse dicitis, id non intellego quale sit. videoenim et magnos et
-eosdem bene longinquos dolores, quorum aliatoleratio est verior, qua uti vos non potestis, qui honestatemipsam per se
-non amatis. fortitudinis quaedam praecepta sunt acpaene leges, quae effeminari virum vetant in dolore. quam ob remturpe
-putandum est, non dico dolere - nam id quidem est interdumnecesse - sed saxum illud Lemnium clamore Philocteteo
-funestare, Quod eiulatu, questu, gemitu, fremitibus Resonando mutum flebilesvoces refert. Huic Epicurus praecentet, si
-potest, cui viperino morsu venae viscerum Veneno inbutae taetros cruciatuscient! Sic Epicurus: 'Philocteta, st!
-brevis dolor.' At iam decimumannum in spelunca iacet. 'Si longus, levis; dat enim intervalla etrelaxat.!
+This talk will give you a gentle introduction to the world of asynchronous programming, focusing mostly on the core concept of async programming, how it works, and what its applications are, in order to provide a good foundation to Python developers on the topic. On top of that, we will explore a small code example (mostly involving the built-in `asyncio`) and briefly exam the source code of CPython to find out how it works. This talk will also give you some brief comparison of `threading.Thread` and `ThreadPoolExecutor`."
 
-Primum non saepe, deinde quae estista relaxatio, cum et praeteriti doloris memoria recens est etfuturi atque inpendentis
-torquet timor? 'Moriatur', inquit.Fortasse id optimum, sed ubi illud: 'Plus semper voluptatis'? sienim ita est, vide ne
-facinus facias, cum mori suadeas. potius ergoilla dicantur: turpe esse, viri non esse debilitari dolore, frangi,
-succumbere. nam ista vestra: 'Si gravis, brevis; si longus, levis'dictata sunt. virtutis, magnitudinis animi,
-patientiae, fortitudinis fomentis dolor mitigari solet.
-
-Audi, ne longe abeam, moriens quiddicat Epicurus, ut intellegas facta eius cum dictis discrepare:'Epicurus Hermarcho
-salutem. Cum ageremus', inquit, 'vitae beatumet eundem supremum diem, scribebamus haec. tanti autem aderantvesicae et
-torminum morbi, ut nihil ad eorum magnitudinem possetaccedere.' Miserum hominem! Si dolor summum malum est, dici
-aliternon potest. sed audiamus ipsum: 'Compensabatur', inquit, 'tamen cumhis omnibus animi laetitia, quam capiebam
-memoria rationuminventorumque nostrorum. sed tu, ut dignum est tua erga me etphilosophiam voluntate ab adolescentulo
-suscepta, fac ut Metrodoritueare liberos.?
-
-Non ego iam Epaminondae, nonLeonidae mortem huius morti antepono, quorum alter cum vicissetLacedaemonios apud Mantineam
-atque ipse gravi vulnere exanimari sevideret, ut primum dispexit, quaesivit salvusne esset clipeus. cumsalvum esse
-flentes sui respondissent, rogavit essentne fusihostes. cum id quoque, ut cupiebat, audivisset, evelli iussit eam, qua
-erat transfixus, hastam. ita multo sanguine profuso in laetitiaet in victoria est mortuus. Leonidas autem, rex
-Lacedaemoniorum, sein Thermopylis trecentosque eos, quos eduxerat Sparta, cum essetproposita aut fuga turpis aut
-gloriosa mors, opposuit hostibus.praeclarae mortes sunt imperatoriae; philosophi autem in suislectulis plerumque
-moriuntur. refert tamen, quo modo.sibi videtur esse moriens. magna laus.'Compensabatur', inquit, 'cum summis
-doloribus laetitia..
-
-Audio equidem philosophi vocem, Epicure, sed quid tibi dicendum sit oblitus es. primum enim, sivera sunt ea, quorum
-recordatione te gaudere dicis, hoc est, sivera sunt tua scripta et inventa, gaudere non potes. nihil enim iamhabes, quod
-ad corpus referas; est autem a te semper dictum necgaudere quemquam nisi propter corpus nec dolere. 'Praeteritis',
-inquit, 'gaudeo.' Quibusnam praeteritis? si ad corpuspertinentibus, rationes tuas te video compensare cum
-istisdoloribus, non memoriam corpore perceptarum voluptatum; sin autemad animum, falsum est, quod negas animi ullum esse
-gaudium, quodnon referatur ad corpus. cur deinde Metrodori liberos commendas?quid isto egregio tuo officio et tanta
-fide - sic enimexistimo - ad corpus refers?"
+talk_details: "Juti focuses on helping accelerating medical research at DNAstack. Juti received his BMath in Mathematics from the University of Waterloo. He has years of experience in full-stack software development, fault-resistant and scalable software design, consulting on software development projects for academic researches and contributing to open-source projects."

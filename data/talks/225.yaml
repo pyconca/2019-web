@@ -2,65 +2,19 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Phyllis Rea"
+speaker_name: "Daniel Kats"
 
-talk_title: "Sed tamen nonne reprehenderes."
+talk_title: "Beating your friends at board games using Python and machine learning"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "expert"
-- "talk"
-- "python"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Audio equidem philosophi vocem, Epicure, sed quid tibi dicendum sit oblitus es. Primum enim, sivera sunt ea, quorumrecordatione te gaudere dicis, hoc est, sivera sunt tua scripta et inventa, gaudere non potes."
+talk_abstract: "Do you hate losing at board games? Do you have too many friends and too few enemies? Then this talk is for you! I will demonstrate rapid prototyping of board games in Python, training simple yet powerful game AI, and extracting their strategies in a human-understandable way to ultimately defeat all your board game foes.
 
-talk_details: "Atque haec contra Aristippum, quieam voluptatem non modo summam, sed solam etiam ducit, quam omnesunam appellamus
-voluptatem. aliter autem vobis placet. sed ille, utdixi, vitiose. nec enim figura corporis nec ratio excellens
-ingeniihumani significat ad unam hanc rem natum hominem, ut fruereturvoluptatibus. Nec vero audiendus Hieronymus, cui
-summum bonum estidem, quod vos interdum vel potius nimium saepe dicitis, nihildolere. non enim, si malum est dolor,
-carere eo malo satis est adbene vivendum. hoc dixerit potius Ennius: 'Nimium boni est, cuinihil est mali'. nos beatam
-vitam non depulsione mali, sedadeptione boni iudicemus, nec eam cessando, sive gaudentem, utAristippus, sive non
-dolentem, ut hic, sed agendo aliquidconsiderandove quaeramus.
+This talk will cover helpful newly-introduced Python features for rapid prototyping, using keras for games, and Monte Carlo Tree Search. You will see the effectiveness of these techniques on popular games such as Settlers of Catan and Machi Koro."
 
-Quae possunt eadem contraCarneadeum illud summum bonum dici, quod is non tam, ut probaret, protulit, quam ut Stoicis,
-quibuscum bellum gerebat, opponeret. idautem eius modi est, ut additum ad virtutem auctoritatem videaturhabiturum et
-expleturum cumulate vitam beatam, de quo omnis haecquaestio est. nam qui ad virtutem adiungunt vel voluptatem, quamunam
-virtus minimi facit, vel vacuitatem doloris, quae etiamsi malocaret, tamen non est summum bonum, accessione utuntur non
-itaprobabili, nec tamen, cur id tam parce tamque restricte faciant, intellego. quasi enim emendum eis sit, quod addant
-ad virtutem, primum vilissimas res addunt, dein singulas potius, quam omnia, quae prima natura approbavisset, ea cum
-honestate coniungerent.
-
-Quae quod Aristoni et Pyrrhoniomnino visa sunt pro nihilo, ut inter optime valere et gravissimeaegrotare nihil prorsus
-dicerent interesse, recte iam pridem contraeos desitum est disputari. dum enim in una virtute sic omnia essevoluerunt,
-ut eam rerum selectione expoliarent nec ei quicquam, autunde oriretur, darent, aut ubi niteretur, virtutem ipsam,
-quamamplexabantur, sustulerunt. Erillus autem ad scientiam omniarevocans unum quoddam bonum vidit, sed nec optimum nec
-quo vitagubernari possit. itaque hic ipse iam pridem est reiectus; postenim Chrysippum non sane est disputatum.
-Restatisigitur vos; nam cum Academicis incerta luctatio est, qui nihilaffirmant et quasi desperata cognitione certi id
-sequi volunt, quodcumque veri simile videatur.
-
-Cum Epicuro autem hoc plus estnegotii, quod e duplici genere voluptatis coniunctus est, quodqueet ipse et amici eius et
-multi postea defensores eius sententiaefuerunt, et nescio quo modo, is qui auctoritatem minimam habet, maximam vim,
-populus cum illis facit. quos nisi redarguimus, omnisvirtus, omne decus, omnis vera laus deserenda est. ita
-ceterorumsententiis semotis relinquitur non mihi cum Torquato, sed virtuticum voluptate certatio. quam quidem
-certationem homo et acutus etdiligens, Chrysippus, non contemnit totumque discrimen summi boniin earum comparatione
-positum putat. ego autem existimo, sihonestum esse aliquid ostendero, quod sit ipsum vi sua propterseque expetendum,
-iacere vestra omnia. itaque eo, quale sit, breviter, ut tempus postulat, constituto accedam ad omnia tua, Torquate, nisi
-memoria forte defecerit.
-
-Honestum igitur id intellegimus, quod tale est, ut detracta omni utilitate sine ullis praemiisfructibusve per se ipsum
-possit iure laudari. quod quale sit, nontam definitione, qua sum usus, intellegi potest, quamquamaliquantum potest, quam
-communi omnium iudicio et optimi cuiusquestudiis atque factis, qui permulta ob eam unam causam faciunt, quiadecet, quia
-rectum, quia honestum est, etsi nullum consecuturumemolumentum vident. homines enim, etsi aliis multis, tamen hoc
-unoplurimum a bestiis differunt, quod rationem habent a natura datammentemque acrem et vigentem celerrimeque multa simul
-agitantem et, ut ita dicam, sagacem, quae et causas rerum et consecutiones videatet similitudines transferat et
-disiuncta coniungat et cumpraesentibus futura copulet omnemque complectatur vitaeconsequentis statum. eademque ratio
-fecit hominem hominumadpetentem cumque iis natura et sermone et usu congruentem, utprofectus a caritate domesticorum ac
-suorum serpat longius et seimplicet primum civium, deinde omnium mortalium societate atque, utad Archytam scripsit
-Plato, non sibi se soli natum meminerit, sedpatriae, sed suis, ut perexigua pars ipsi relinquatur.
-
-Et quoniam eadem naturacupiditatem ingenuit homini veri videndi, quod facillime apparet, cum vacui curis etiam quid in
-caelo fiat scire avemus, his initiisinducti omnia vera diligimus, id est fidelia, simplicia, constantia, tum vana,
-falsa, fallentia odimus, ut fraudem, periurium, malitiam, iniuriam. eadem ratio habet in se quiddamamplum atque
-magnificum, ad imperandum magis quam ad parendumaccommodatum, omnia humana non tolerabilia solum, sed etiam leviaducens,
-altum quiddam et excelsum, nihil timens, nemini cedens, semper invictum."
+talk_details: "I’m a rock climber, board game geek, and obsessive coffee drinker. I’m also a principal researcher at Symantec Research Labs. I attended the University of Toronto, interspersed with internships at Yelp and IBM. I graduated with a B.Sc., followed by an M.Sc. studying under Prof. Eyal de Lara. In my free time I read The Atlantic, go on anger-fueled morning jogs, and show up to events 5 minutes after doors close."

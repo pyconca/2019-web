@@ -5,7 +5,6 @@ import json
 from pathlib import Path
 from jinja2 import FileSystemLoader
 from jinja2 import Environment
-from talk_ids import TALK_IDS
 
 
 # Template setup
@@ -27,11 +26,11 @@ JSON_DATA = json.loads(open('../speakers-details.json').read())
 
 def to_yaml(needed_details):
     return {
-        'name': needed_details.get('name', '').replace('"', "'"),
+        'name': needed_details.get('speaker', '').replace('"', "'"),
         'title': needed_details.get('title', '').replace('"', "'"),
-        'abstract': needed_details.get('abstract', '').replace('"', "'"),
-        'details': needed_details.get('description', '').replace('"', "'"),
-        'talk_tags': ''
+        'abstract': needed_details.get('talk_description', '').replace('"', "'"),
+        'details': needed_details.get('speaker_bio', '').replace('"', "'"),
+        'talk_tags': 'tbd'
     }
 
 

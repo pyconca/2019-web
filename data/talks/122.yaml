@@ -2,43 +2,21 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Jan Monat"
+speaker_name: "Susan Li"
 
-talk_title: "At negat Epicurus - hoc enimvestrum lumen est ?"
+talk_title: "Do-it-yourself Natural Language Processing for makers"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "beginner"
-- "talk"
-- "python"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Tum ille: His igitur ita positis, inquit, sequitur magna contentio, quam tractatam a Peripateticis mollius - est enimeorum consuetudo dicendi non satis acuta propter ignorationem dialecticae - Carneades tuus egregia quadam exercitationein dialecticis summaque eloquentia rem in summum discrimen adduxit, propterea quod pugnare non destitit in omni hacquaestione, quae de bonis et malis appelletur, non esse rerum Stoicis cum Peripateticis controversiam, sed nominum. Mihiautem nihil tam perspicuum videtur, quam has sententias eorum philosophorum re inter se magis quam verbis dissidere;maiorem multo inter Stoicos et Peripateticos rerum esse aio discrepantiam quam verborum, quippe cum Peripatetici omnia,quae ipsi bona appellant, pertinere dicant ad beate vivendum, nostri non ex omni, quod aestimatione aliqua dignum sit,compleri vitam beatam putent. An vero certius quicquam potest esse quam illorum ratione, qui dolorem in malis ponunt, non posse sapientem beatum esse,cum eculeo torqueatur?"
+talk_abstract: "Susan Li walks you through deep learning methods for natural language processing (NLP) tasks using Python and open source libraries, using a live example. Methods include word2vec embedding, recurrent neural networks (RNN) and convolutional neural networks (CNN). 
 
-talk_details: "Illud autem ipsum qui optineripotest, quod dicitis, omnis animi et voluptates et dolores adcorporis voluptates ac
-dolores pertinere? nihilne te delectatumquam - video, quicum loquar - te igitur, Torquate, ipsum per senihil delectat?
-omitto dignitatem, honestatem, speciem ipsamvirtutum, de quibus ante dictum est, haec leviora ponam: poema, orationem
-cum aut scribis aut legis, cum omnium factorum, cumregionum conquiris historiam, signum, tabula, locus amoenus, ludi,
-venatio, villa Luculli - nam si 'tuam' dicerem, latebram haberes; adcorpus diceres pertinere - sed ea, quae dixi, ad
-corpusne refers?an est aliquid, quod te sua sponte delectet? aut pertinacissimusfueris, si in eo perstiteris ad corpus
-ea, quae dixi, referri, autdeserueris totam Epicuri voluptatem, si negaveris.
+This is a hands-on approach to framing a real-world problem to the underlying NLP tasks and building a NLP application using Deep Learning.
 
-Sed dumefficere vultis beatum sapientem, cum maximas animo voluptatespercipiat omnibusque partibus maiores quam corpore,
-quid occurratnon videtis. animi enim quoque dolores percipiet omnibus partibusmaiores quam corporis. ita miser sit
-aliquando necesse est is, quemvos beatum semper vultis esse, nec vero id, dum omnia ad voluptatemdoloremque referetis,
-efficietis umquam.
+If you are a data scientist or software developer with experience in Python who wants to develop natural language processing software, this talk is for you."
 
-Quare aliud aliquod, Torquate, hominis summum bonum reperiendum est, voluptatem bestiisconcedamus, quibus vos de summo
-bono testibus uti soletis. quid, sietiam bestiae multa faciunt duce sua quaeque natura partimindulgenter vel cum labore,
-ut in gignendo, in educando, perfacileappareat aliud quiddam iis propositum, non voluptatem?partim cursu et
-peragratione laetantur, congregatione aliae coetumquodam modo civitatis imitantur!
-
-Videmus in quodam volucriumgenere non nulla indicia pietatis, cognitionem, memoriam, in multisetiam desideria videmus.
-ergo in bestiis erunt secreta e voluptatehumanarum quaedam simulacra virtutum, in ipsis hominibus virtusnisi voluptatis
-causa nulla erit? et homini, qui ceterisanimantibus plurimum praestat, praecipue a natura nihil datum essedicemus?
-
-Nos vero, siquidem in voluptatesunt omnia, longe multumque superamur a bestiis, quibus ipsa terrafundit ex sese pastus
-varios atque abundantes nihil laborantibus, nobis autem aut vix aut ne vix quidem suppetunt multo laborequaerentibus.
-nec tamen ullo modo summum pecudis bonum et hominisidem mihi videri potest. quid enim tanto opus est instrumento
-inoptimis artibus comparandis? quid tanto concursu honestissimorumstudiorum, tanto virtutum comitatu, si ea nullam ad
-aliam rem nisiad voluptatem conquiruntur?"
+talk_details: "I am Susan Li, the Sr. Data Scientist at Kognitiv where I specialize in machine learning and NLP. I’m passionate about helping organizations realize the potential of big data and advanced analytics, and helping individuals enhance skills in data literacy. I frequently write and speak about predictive analytics, machine learning and NLP for technical and general audience. In my free time, I can be found training for the next half marathon."

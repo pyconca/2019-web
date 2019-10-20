@@ -2,90 +2,17 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Willard Guzman"
+speaker_name: "Tim Hahn"
 
-talk_title: "Atque haec quidem de reru."
+talk_title: "Anomaly detection in the wild"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "beginner"
-- "talk"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Quae adhuc, Cato, a te dicta sunt, eadem, inquam, dicere posses, si sequerere Pyrrhonem aut Aristonem. Nec enim ignorashis istud honestum non summum modo, sed etiam, ut tu vis, solum bonum videri. Quod si ita est, sequitur id ipsum, quodte velle video, omnes semper beatos esse sapientes. Hosne igitur laudas et hanc eorum, inquam, sententiam sequi noscenses oportere?"
+talk_abstract: "How can you use machine learning with python to detect situations that are weird, abnormal, or different? Anomaly detection may be your answer! In this talk, we’ll review some interesting anomaly detection applications across multiple domains (from healthcare to finance, to name a couple). Finally, we’ll walk through a practical example of anomaly detection, for use in an industrial setting, using deep-learning and TensorFlow 2.0."
 
-talk_details: "Ac ne plura complectar - suntenim innumerabilia - bene laudata virtus voluptatis aditusintercludat necesse est. quod
-iam a me expectare noli. tuteintrospice in mentem tuam ipse eamque omni cogitatione pertractanspercontare ipse te
-perpetuisne malis voluptatibus perfruens in ea, quam saepe usurpabas, tranquillitate degere omnem aetatem sinedolore,
-adsumpto etiam illo, quod vos quidem adiungere soletis, sedfieri non potest, sine doloris metu, an, cum de omnibus
-gentibusoptime mererere, cum opem indigentibus salutemque ferres, velHerculis perpeti aerumnas. sic enim maiores nostri
-labores nonfugiendos tristissimo tamen verbo aerumnas etiam in deonominaverunt.
-
-Elicerem ex te cogeremque, utresponderes, nisi vererer ne Herculem ipsum ea, quae pro salutegentium summo labore
-gessisset, voluptatis causa gessisse diceres.Quae cum dixissem, Habeo, inquit Torquatus, ad quos ista referam, et,
-quamquam aliquid ipse poteram, tamen invenire malo paratiores.Familiares nostros, credo, Sironem dicis et Philodemum,
-cum optimosviros, tum homines doctissimos. Recte, inquit, intellegis. Agesane, inquam. sed erat aequius Triarium aliquid
-de dissensionenostra iudicare. Eiuro, inquit adridens, iniquum, hac quidem de re;tu enim ista lenius, hic Stoicorum more
-nos vexat. Tum Triarius:Posthac quidem, inquit, audacius. nam haec ipsa mihi erunt inpromptu, quae modo audivi, nec ante
-aggrediar, quam te ab istis, quos dicis, instructum videro. Quae cum essent dicta, finem fecimuset ambulandi et
-disputandi.
-
-Voluptatem quidem, Brute, si ipsa pro se loquatur nec tam pertinaces habeat patronos, concessuram arbitror convictam
-superiore libro dignitati. etenim sit inpudens, si virtuti diutius repugnet, aut si honestis iucunda anteponat aut
-pluris esse contendat dulcedinem corporis ex eave natam laetitiam quam gravitatem animi atque constantiam. quare illam
-quidem dimittamus et suis se finibus tenere iubeamus, ne blanditiis eius inlecebrisque impediatur disputandi severitas.
-quaerendum est enim, ubi sit illud summum bonum, quod reperire volumus, quoniam et voluptas ab eo remota est, et
-eadem fere contra eos dici possunt, qui vacuitatem doloris finem bonorum esse voluerunt, nec vero ullum probetur
-summum bonum, quod virtute careat, qua nihil potest esse praestantius. itaque quamquam in eo sermone, qui cum
-Torquato est habitus, non remissi fuimus, tamen haec acrior est cum Stoicis parata contentio. quae enim de voluptate
-dicuntur, ea nec acutissime nec abscondite disseruntur; neque enim qui defendunt eam versuti in disserendo sunt nec qui
-contra dicunt causam difficilem repellunt. ipse etiam dicit Epicurus ne argumentandum quidem esse de voluptate, quod
-sit positum iudicium eius in sensibus, ut commoneri nos satis sit, nihil attineat doceri. quare illa nobis simplex fuit
-in utramque partem disputatio. nec enim in Torquati sermone quicquam implicatum aut tortuosum fuit, nostraque, ut mihi
-videtur, dilucida oratio. Stoicorum autem non ignoras quam sit subtile vel spinosum potius disserendi genus, idque cum
-Graecis tum magis nobis, quibus etiam verba parienda sunt inponendaque nova rebus novis nomina. quod quidem nemo
-mediocriter doctus mirabitur cogitans in omni arte, cuius usus vulgaris communisque non sit, multam novitatem nominum
-esse, cum constituantur earum rerum vocabula, quae in quaque arte versentur. itaque et dialectici et physici verbis
-utuntur iis, quae ipsi Graeciae nota non sint, geometrae vero et musici, grammatici etiam more quodam loquuntur suo.
-ipsae rhetorum artes, quae sunt totae forenses atque populares, verbis tamen in docendo quasi privatis utuntur ac suis.
-atque ut omittam has artis elegantes et ingenuas, ne opifices quidem tueri sua artificia possent, nisi vocabulis
-uterentur nobis incognitis, usitatis sibi. quin etiam agri cultura, quae abhorret ab omni politiore elegantia, tamen eas
-res, in quibus versatur, nominibus notavit novis. quo magis hoc philosopho faciendum est. ars est enim philosophia
-vitae, de qua disserens arripere verba de foro non potest. Quamquam ex omnibus philosophis Stoici plurima
-novaverunt, Zenoque, eorum princeps, non tam rerum inventor fuit quam verborum novorum. quodsi in ea lingua, quam
-plerique uberiorem putant, concessum a Graecia est ut doctissimi homines de rebus non pervagatis inusitatis verbis
-uterentur, quanto id nobis magis est concedendum, qui ea nunc primum audemus attingere? et quoniam saepe diximus, et
-quidem cum aliqua querela non Graecorum modo, sed eorum etiam, qui se Graecos magis quam nostros haberi volunt, nos non
-modo non vinci a Graecis verborum copia, sed esse in ea etiam superiores, elaborandum est ut hoc non in nostris solum
-artibus, sed etiam in illorum ipsorum adsequamur. quamquam ea verba, quibus instituto veterum utimur pro Latinis, ut
-ipsa philosophia, ut rhetorica, dialectica, grammatica, geometria, musica, quamquam Latine ea dici poterant, tamen,
-quoniam usu percepta sunt, nostra ducamus.
-
-Atque haec quidem de rerum nominibus. de ipsis rebus autem saepenumero, Brute, vereor ne reprehendar, cum haec ad te
-scribam, qui cum in philosophia, tum in optimo genere philosophiae tantum processeris. quod si facerem quasi te
-erudiens, iure reprehenderer. sed ab eo plurimum absum neque, ut ea cognoscas, quae tibi notissima sunt, ad te mitto,
-sed quia facillime in nomine tuo adquiesco, et quia te habeo aequissimum eorum studiorum, quae mihi communia tecum sunt,
-existimatorem et iudicem. attendes igitur, ut soles, diligenter eamque controversiam diiudicabis, quae mihi fuit cum
-avunculo tuo, divino ac singulari viro. nam in Tusculano cum essem vellemque e bibliotheca pueri Luculli quibusdam
-libris uti, veni in eius villam, ut eos ipse, ut solebam, depromerem. quo cum venissem, M. Catonem, quem ibi esse
-nescieram, vidi in bibliotheca sedentem multis circumfusum Stoicorum libris. erat enim, ut scis, in eo aviditas legendi,
-nec satiari poterat, quippe qui ne reprehensionem quidem vulgi inanem reformidans in ipsa curia soleret legere saepe,
-dum senatus cogeretur, nihil operae rei publicae detrahens. quo magis tum in summo otio maximaque copia quasi helluari
-libris, si hoc verbo in tam clara re utendum est, videbatur. quod cum accidisset ut alter alterum necopinato
-videremus, surrexit statim. deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? a villa enim, credo, et:
-Si ibi te esse scissem, ad te ipse venissem.
-
-Heri, inquam, ludis commissis ex urbe profectus veni ad vesperum. causa autem fuit huc veniendi ut quosdam hinc libros
-promerem. et quidem, Cato, hanc totam copiam iam Lucullo nostro notam esse oportebit; nam his libris eum malo quam
-reliquo ornatu villae delectari. est enim mihi magnae curae - quamquam hoc quidem proprium tuum munus est - ut ita
-erudiatur, ut et patri et Caepioni nostro et tibi tam propinquo respondeat. laboro autem non sine causa; nam et avi eius
-memoria moveor - nec enim ignoras, quanti fecerim Caepionem, qui, ut opinio mea fert, in principibus iam esset, si
-viveret - et Lucullus mihi versatur ante oculos, vir cum virtutibus omnibus excellens, tum mecum et amicitia et omni
-voluntate sententiaque coniunctus.
-
-Praeclare, inquit, facis, cum et eorum memoriam tenes, quorum uterque tibi testamento liberos suos commendavit, et
-puerum diligis. quod autem meum munus dicis non equidem recuso, sed te adiungo socium. addo etiam illud, multa iam mihi
-dare signa puerum et pudoris et ingenii, sed aetatem vides.
-
-Video equidem, inquam, sed tamen iam infici debet iis artibus, quas si, dum est tener, conbiberit, ad maiora veniet
-paratior."
+talk_details: "Tim is passionate about using python, combined with machine learning, to help Canadian manufacturers thrive. Currently, he is harnessing his passion and years of experience in heavy industry, while at Queen’s University, where he does research in the field of machinery health monitoring. Tim also dabbles in natural language processing, data visualization, and public speaking."

@@ -2,61 +2,21 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Kerry Boykin"
+speaker_name: "Chris Wilcox"
 
-talk_title: "Sunt enim levia et perinfirma, qua."
+talk_title: "The blameless post mortem: how embracing failure makes us better"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "expert"
+- "t"
+- "b"
+- "d"
 
 
-talk_abstract: "Non igitur potestis voluptateomnia dirigentes aut tueri aut retinere virtutem. Nam nec vir bonusac iustus haberi debetqui, ne malum habeat, abstinet se abiniuria."
+talk_abstract: "In today’s world of developing services we tend to move fast and with that comes mistakes. This talk will discuss using post-mortems to turn incidents into opportunities for improvement, instead of just an opportunity to assign blame.
 
-talk_details: "Illud autem ipsum qui optineripotest, quod dicitis, omnis animi et voluptates et dolores adcorporis voluptates ac
-dolores pertinere? nihilne te delectatumquam - video, quicum loquar - te igitur, Torquate, ipsum per senihil delectat?
-omitto dignitatem, honestatem, speciem ipsamvirtutum, de quibus ante dictum est, haec leviora ponam: poema, orationem
-cum aut scribis aut legis, cum omnium factorum, cumregionum conquiris historiam, signum, tabula, locus amoenus, ludi,
-venatio, villa Luculli - nam si 'tuam' dicerem, latebram haberes; adcorpus diceres pertinere - sed ea, quae dixi, ad
-corpusne refers?an est aliquid, quod te sua sponte delectet? aut pertinacissimusfueris, si in eo perstiteris ad corpus
-ea, quae dixi, referri, autdeserueris totam Epicuri voluptatem, si negaveris.
+While developing software, bugs and mistakes are inevitable. Come to hear how we can improve the approaches we often take as software developers to work better with one another in heated moments of failure and the aftermath of incidents. Through better interactions we can build better teams and create better services.
 
-Sed dumefficere vultis beatum sapientem, cum maximas animo voluptatespercipiat omnibusque partibus maiores quam corpore,
-quid occurratnon videtis. animi enim quoque dolores percipiet omnibus partibusmaiores quam corporis. ita miser sit
-aliquando necesse est is, quemvos beatum semper vultis esse, nec vero id, dum omnia ad voluptatemdoloremque referetis,
-efficietis umquam.
+In my career I have worked in a blameless post-mortem and a blame-full post mortem environment, across a variety of projects ranging from individual python libraries, to core infrastructure for a cloud. I am excited to share how I think not assigning blame when things go wrong results in a better team and a better product."
 
-Quare aliud aliquod, Torquate, hominis summum bonum reperiendum est, voluptatem bestiisconcedamus, quibus vos de summo
-bono testibus uti soletis. quid, sietiam bestiae multa faciunt duce sua quaeque natura partimindulgenter vel cum labore,
-ut in gignendo, in educando, perfacileappareat aliud quiddam iis propositum, non voluptatem?partim cursu et
-peragratione laetantur, congregatione aliae coetumquodam modo civitatis imitantur!
-
-Videmus in quodam volucriumgenere non nulla indicia pietatis, cognitionem, memoriam, in multisetiam desideria videmus.
-ergo in bestiis erunt secreta e voluptatehumanarum quaedam simulacra virtutum, in ipsis hominibus virtusnisi voluptatis
-causa nulla erit? et homini, qui ceterisanimantibus plurimum praestat, praecipue a natura nihil datum essedicemus?
-
-Nos vero, siquidem in voluptatesunt omnia, longe multumque superamur a bestiis, quibus ipsa terrafundit ex sese pastus
-varios atque abundantes nihil laborantibus, nobis autem aut vix aut ne vix quidem suppetunt multo laborequaerentibus.
-nec tamen ullo modo summum pecudis bonum et hominisidem mihi videri potest. quid enim tanto opus est instrumento
-inoptimis artibus comparandis? quid tanto concursu honestissimorumstudiorum, tanto virtutum comitatu, si ea nullam ad
-aliam rem nisiad voluptatem conquiruntur?
-
-Ut, si Xerxes, cum tantisclassibus tantisque equestribus et pedestribus copiis Hellespontoiuncto Athone perfosso mari
-ambulavisset terra navigavisset, si, cum tanto impetu in Graeciam venisset, causam quis ex eo quaererettantarum copiarum
-tantique belli, mel se auferre ex Hymettovoluisse diceret, certe sine causa videretur tanta conatus, sic nossapientem
-plurimis et gravissimis artibus atque virtutibusinstructum et ornatum non, ut illum, maria pedibus peragrantem,
-classibus montes, sed omne caelum totamque cum universo mari terrammente complexum voluptatem petere si dicemus, mellis
-causa dicemustanta molitum.
-
-Ad altiora quaedam etmagnificentiora, mihi crede, Torquate, nati sumus, nec id ex animisolum partibus, in quibus inest
-memoria rerum innumerabilium, in tequidem infinita, inest coniectura consequentium non multum adivinatione differens,
-inest moderator cupiditatis pudor, inest adhumanam societatem iustitiae fida custodia, inest in perpetiendislaboribus
-adeundisque periculis firma et stabilis doloris mortisquecontemptio - ergo haec in animis, tu autem etiam membra
-ipsasensusque considera, qui tibi, ut reliquae corporis partes, noncomites solum virtutum, sed ministri etiam
-videbuntur.
-
-Quid? si in ipso corpore multavoluptati praeponenda sunt, ut vires, valitudo, velocitas, pulchritudo, quid tandem in
-animis censes? in quibus doctissimiilli veteres inesse quiddam caeleste et divinum putaverunt. Quodsiesset in voluptate
-summum bonum, ut dicitis, optabile esset maximain voluptate nullo intervallo interiecto dies noctesque versari, cum
-omnes sensus dulcedine omni quasi perfusi moverentur. quis estautem dignus nomine hominis, qui unum diem totum velit
-esse ingenere isto voluptatis? Cyrenaici quidem non recusant; vestri haecverecundius, illi fortasse constantius."
+talk_details: "Chris is a developer at Google in Seattle, WA, USA and works on the Google Cloud Platform Client Libraries team, focusing on dynamic languages and their users. Before joining Google, Chris spent 6 years working on compilers, cloud platforms, and developer tooling for Python, Node, and .NET developers. He brings a passion for enabling developers everywhere through better tools and libraries. In his spare time you can find Chris running or cycling nowhere in particular or riding his motorcycle."
