@@ -1,44 +1,59 @@
-<div class="container-fluid front-banner">
-    <div class="container-fluid front-banner-buttons">
-        <div class="row">
-            <div class="col">
-                <span class="front-banner-text">
-                    {{ messages("CONFERENCE") }}:
-                </span>
-                <span class="front-banner-text-data">
-                    {{conf_dates}}
-                </span>
+<div class="container-fluid front-banner-background">
+    <div class="container front-banner">
+        <div class="container front-banner-buttons">
+            <div class="row">
+                <div class="col">
+                    <span class="front-banner-text">
+                        {{ messages("CONFERENCE") }}:
+                    </span>
+                    <span class="front-banner-text-data">
+                        {{conf_dates}}
+                    </span>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                <span class="front-banner-text">
-                    {{ messages("SPRINTS") }}:
-                </span>
-                <span class="front-banner-text-data">
-                    {{sprint_dates}}
-                </span>
+            <div class="row">
+                <div class="col">
+                    <span class="front-banner-text">
+                        {{ messages("SPRINTS") }}:
+                    </span>
+                    <span class="front-banner-text-data">
+                        {{sprint_dates}}
+                    </span>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                <span class="front-banner-text">
-                    {{ messages("VENUE") }}:
-                </span>
-                <span class="front-banner-text-data">
-                    {{venue}}
-                </span>
+            <div class="row">
+                <div class="col">
+                    <span class="front-banner-text">
+                        {{ messages("VENUE") }}:
+                    </span>
+                    <span class="front-banner-text-data">
+                        {{venue}}
+                    </span>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col px-1">
-                <a class="btn btn-block front-banner-button-1" href="{{schedule_url}}" role="button">{{ messages("SCHEDULE") }}</a>
-            </div>
-            <div class="col px-1">
-                <a class="btn btn-block front-banner-button-1" href="{{sprints_url}}" role="button">{{ messages("SPRINTS") }}</a>
-            </div>
-            <div class="col px-1">
-                <a class="btn btn-block front-banner-button-2" href="{{register_url}}" role="button">{{ messages("REGISTER") }}</a>
+            <br />
+            <div class="row">
+                <div class="col px-1">
+                    {# <a class="btn btn-block front-banner-button-1" href="{{schedule_url}}" role="button">{{ messages("SCHEDULE") }}</a> #}
+                
+                    <a class="blue-button" href="{{schedule_url}}">
+                        <span>{{ messages("SCHEDULE") }}</span>
+                    </a>
+                </div>
+                <div class="col px-1">
+                    {# <a class="btn btn-block front-banner-button-1" href="{{sprints_url}}" role="button">{{ messages("SPRINTS") }}</a> #}
+                    
+                    <a class="blue-button" href="{{sprints_url}}">
+                        <span>{{ messages("SPRINTS") }}</span>
+                    </a>
+                </div>
+                <div class="col px-1">
+                    {# <a class="btn btn-block front-banner-button-2" href="{{register_url}}" role="button">{{ messages("REGISTER") }}</a> #}
+                
+                    <a class="red-button" href="{{register_url}}">
+                        <span>{{ messages("REGISTER") }}</span>
+                    </a>
+                </div>
             </div>
         </div>
     </div>

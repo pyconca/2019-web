@@ -1,6 +1,7 @@
 .doit.db
 
 .python-version
+.vscode
 .idea
 .venv
 .doit.db.*

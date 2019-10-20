@@ -11,14 +11,16 @@ Root SCSS file for this project
 
 // custom components
 @import "scss/components/breakpoint_debug_indicator";
+@import "scss/components/buttons";
+@import "scss/components/general_text";
 @import "scss/components/top_navigation";
 @import "scss/components/landing_page/the_front_banner";
 @import "scss/components/section_with_logo_right_side";
 @import "scss/components/landing_page/front_twitter_section";
-@import "scss/components/venue/the_front_banner_venue";
 @import "scss/components/footer_stuff";
 @import "scss/components/sponsors_page/sponsor_heading";
 @import "scss/components/sponsors_page/sponsor_cards";
 @import "scss/components/org_team";
 @import "scss/components/empty_paras";
 @import "scss/components/schedule_pages";
+@import "scss/components/speaker_cards";

@@ -1,0 +1,11 @@
+.h2 {
+    @extend .font-weight-bold;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+
+a {
+    @extend .font-weight-bold;
+    color: map-get($pycon-colours, 'links');
+}
