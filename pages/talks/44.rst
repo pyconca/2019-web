@@ -1,5 +1,5 @@
-.. title: 044
-.. slug: talk-044
+.. title: 44
+.. slug: talk-44
 .. date: 2018-10-08 19:09:13 UTC+04:00
 .. type: text
 .. template: talk.tmpl
@@ -7,5 +7,5 @@
 
 
 {{% talk_details
-    talk_number='044'
+    talk_number='44'
 %}}
