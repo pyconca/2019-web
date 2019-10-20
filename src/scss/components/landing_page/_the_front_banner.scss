@@ -1,3 +1,8 @@
+.front-banner-background {
+    background-color: map-get($pycon-colours, 'color-b');
+}
+
+
 .front-banner {
     background-image: url(/images/background_city.png);
     height: 415px;
@@ -15,7 +20,7 @@
 
 .front-banner-buttons {
     // Extra small devices
-    width: 350px;
+    width: 400px;
     height: 200px;
 
     padding-top: 40px;

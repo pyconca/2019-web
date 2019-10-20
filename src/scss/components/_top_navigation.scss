@@ -20,14 +20,14 @@
 
 .navbar {
     @include media-breakpoint-up(lg) {
-        padding-top: 40px;
+        padding-top: 20px;
     }
 }
 
 a.navmenu-item {
 
-    padding-top: 25px;
-    padding-left: 40px!important;
+    padding-top: 12px;
+    padding-left: 20px!important;
 
     span {
         @extend .font-weight-bold;
