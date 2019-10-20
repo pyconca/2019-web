@@ -2,16 +2,15 @@
     {
         "image": "/images/william_lachance.jpg",
         "website": "https://wlach.github.io/",
-        "github": "https://github.com/wlach",
         "en": {
             "name": "William Lachance",
             "title": "Staff Engineer, Mozilla",
-            "description": "William Lachance is a staff engineer in Mozilla's data group, focused on data visualization and representation. He is most interested in building tools that help people of all backgrounds understand the world around them. In past lives, he designed open source transit routing websites and built web browser performance measuring robots with cameras and lego. More recently, he has been helping build out <a href=\"https://iodide.io\">Iodide</a>, a literate scientific notebook environment that helps bridge the divide between the python data science stack and the open web."
+            "description": "William Lachance is a staff engineer in Mozilla's data group, focused on data visualization and representation. He is most interested in building tools that help people of all backgrounds understand the world around them. In past lives, he designed open source transit routing websites and built web browser performance measuring robots with cameras and lego. More recently, he has been helping build out <a href=\"https://iodide.io\">Iodide</a>, a literate scientific notebook environment that helpsbridge the divide between the python data science stack and the open web."
         },
         "fr": {
-          "name": "William Lachance",
-          "title": "Staff Engineer, Mozilla",
-          "description": "William Lachance is a staff engineer in Mozilla's data group, focused on data visualization and representation. He is most interested in building tools that help people of all backgrounds understand the world around them. In past lives, he designed open source transit routing websites and built web browser performance measuring robots with cameras and lego. More recently, he has been helping build out <a href=\"https://iodide.io\">Iodide</a>, a literate scientific notebook environment that helps bridge the divide between the python data science stack and the open web."
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
         }
     },
     {
@@ -23,9 +22,9 @@
             "description": "Ideshini Naidoo is the Senior Vice President of Engineering at Wave where she leads a team of over 70 engineers. Her background spans a wealth of experience at an executive level in banking and telecommunications. She brings a depth of experience in technology and information systems within the Fintech space, having led major development efforts at both startups and large corporates within the financial services sector. Ideshini has extensive expertise in large scale electronic banking with multi-country, multi-platform implementation and operating experience, having headed corporate electronic banking across Africa at Barclays Bank and as Chief Information Officer of Rand Merchant Bank (one of Africa’s largest Corporate and Investment banks)."
         },
         "fr": {
-          "name": "Ideshini Naidoo",
-          "title": "SVP, Engineering at Wave",
-          "description": "Ideshini Naidoo is the Senior Vice President of Engineering at Wave where she leads a team of over 70 engineers. Her background spans a wealth of experience at an executive level in banking and telecommunications. She brings a depth of experience in technology and information systems within the Fintech space, having led major development efforts at both startups and large corporates within the financial services sector. Ideshini has extensive expertise in large scale electronic banking with multi-country, multi-platform implementation and operating experience, having headed corporate electronic banking across Africa at Barclays Bank and as Chief Information Officer of Rand Merchant Bank (one of Africa’s largest Corporate and Investment banks)."
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
         }
     },
     {
@@ -39,9 +38,9 @@
             "description": "Huda is the Founder and CEO of Dot Health, a real-time personal health data platform. With a background in engineering from the University of Toronto and a prolific career at some of Toronto's best known startups including Wattpad, Wave, and Wealthsimple, her latest venture is transforming the way people access and control their own health information for good. Huda's work has been featured in The Globe and Mail, Toronto Star, Metro News, CNBC, and Metro Morning. She has been recognized amongst the Top 5 CEOs in Toronto Life, a Top 25 Women of Influence in 2017, and named Top 30 under 30 by the Bay Street Bull in 2018. Huda serves on the Business Innovation and Development committee at Sinai Health System and on the Canadian Federal Economic Strategy Table for Health and Biosciences."
         },
         "fr": {
-          "name": "Huda Idrees",
-          "title": "Founder and CEO of Dot Health",
-          "description": "Huda is the Founder and CEO of Dot Health, a real-time personal health data platform. With a background in engineering from the University of Toronto and a prolific career at some of Toronto's best known startups including Wattpad, Wave, and Wealthsimple, her latest venture is transforming the way people access and control their own health information for good. Huda's work has been featured in The Globe and Mail, Toronto Star, Metro News, CNBC, and Metro Morning. She has been recognized amongst the Top 5 CEOs in Toronto Life, a Top 25 Women of Influence in 2017, and named Top 30 under 30 by the Bay Street Bull in 2018. Huda serves on the Business Innovation and Development committee at Sinai Health System and on the Canadian Federal Economic Strategy Table for Health and Biosciences."
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
         }
     },
         {
@@ -52,9 +51,9 @@
             "description": "Françoise is a Staff Data Scientist at Shopify, an ecommerce SaaS company based in Canada. Her focus is to help product teams make good data-informed decisions. Before joining Shopify, she did a PhD in experimental physics and a post-doctoral fellowship in machine learning. Although she loves the switch to data science, she secretly misses shooting lasers on stuff."
         },
         "fr": {
-          "name": "Françoise Provencher",
-          "title": "Staff Data Scientist at Shopify",
-          "description": "Françoise est Staff Data Scientist chez Shopify, une compagnie de SaaS e-commerce basée au Canada. Son rôle est d’aider les équipes produit a prendre les bonnes décisions en fonction de leurs données. Avant de rejoindre Shopify, elle a obtenu un Doctorat en physique expérimentale et un post-doc en machine learning. Même si elle adore la direction qu’elle a prise vers les sciences des données, elle s’ennuie secrètement de viser tout et n’importe quoi avec des lasers."
+            "name": "To Be Announced",
+            "title": "TBD",
+            "description": ""
         }
     }
 ]
