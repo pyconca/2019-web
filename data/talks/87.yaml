@@ -15,8 +15,6 @@ talk_abstract: "Some languages (C++, Python) support operator overloading, and t
 
 I'll explore some of the uses and abuses of operator overloading, and suggest ways to use it appropriately."
 
-talk_details: ""
-
 about_author: "I've been programming since the 1980s, using and contributing to open source since the 1990s, and involved in the Python community since 1998. In that time, I've written a lot of code and read even more. I've learned a few good tricks and figured out some practices to avoid. I love to share this hard-earned knowledge with my fellow hackers."
 
 talk_metadata:

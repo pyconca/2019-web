@@ -14,8 +14,6 @@ talk_tags:
 
 talk_abstract: "Is your code running slower than you would like? If so, how do you even begin identifying performance bottlenecks? This talk will teach you how to profile your Python program and interpret flame graphs to find the best candidates for speedups. Through a real-life case study, we'll also see common performance anti-patterns, and simple remediation techniques. The case study will be a crypto-assets trading strategy backtesting program that was way too slow, and for which the techniques covered in this talk yielded amazing results, and even lead to improvements to third-party libraries!"
 
-talk_details: ""
-
 about_author: "Samuel is a software engineer at Delphia, with a background in Linguistics and Computer Science. Former startup founder, serial hackathon mentor and attendee, fervent autodidact, he has been developing and delivering natural language technology applications and web services for the last five years."
 
 talk_metadata:

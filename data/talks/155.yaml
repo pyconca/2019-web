@@ -13,8 +13,6 @@ talk_tags:
 
 talk_abstract: "Techniques for algorithmic content creation have found uses in industries like film, music, and most notably video games. More importantly than that, they are extremely fun to play with. In this talk I will share procedural generation methods I have encountered in both hobby and professional projects, and how they can be implemented in Python. We will look at several methods with their applications in the generation of textures, 3D models, music, and outfits."
 
-talk_details: ""
-
 about_author: "Luis is an engineer at Zalon by Zalando in Berlin. He has been using Python for over 10 years to make games, compilers, services, scripts, and data analyses."
 
 talk_metadata:

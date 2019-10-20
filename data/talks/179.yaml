@@ -13,8 +13,6 @@ talk_tags:
 
 talk_abstract: "What does a decade of news stories published on cbc.ca tell us about Canada? What words and ideas are associated with different cities and provinces? More telling, what does it say about unconscious biases in reporters and editors? Are certain words more associated with the word 'man' than the word 'woman'? With 'black' versus 'white', 'indigenous', or 'immigrant'? In this talk, I'll show how I trained a neural word embedding model with hundreds of thousands of news stories using the gensim library and explored the word associations through a Jupyter notebook."
 
-talk_details: ""
-
 about_author: "Roberto is an investigative data journalist at the CBC who traded Excel for Jupyter notebooks years ago and has never looked back. His goals are to master NLP and network graphs in the service of journalism."
 
 talk_metadata:

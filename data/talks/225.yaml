@@ -15,8 +15,6 @@ talk_abstract: "Do you hate losing at board games? Do you have too many friends 
 
 This talk will cover helpful newly-introduced Python features for rapid prototyping, using keras for games, and Monte Carlo Tree Search. You will see the effectiveness of these techniques on popular games such as Settlers of Catan and Machi Koro."
 
-talk_details: ""
-
 about_author: "I’m a rock climber, board game geek, and obsessive coffee drinker. I’m also a principal researcher at Symantec Research Labs. I attended the University of Toronto, interspersed with internships at Yelp and IBM. I graduated with a B.Sc., followed by an M.Sc. studying under Prof. Eyal de Lara. In my free time I read The Atlantic, go on anger-fueled morning jogs, and show up to events 5 minutes after doors close."
 
 talk_metadata:

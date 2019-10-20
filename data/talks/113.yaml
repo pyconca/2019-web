@@ -19,8 +19,6 @@ Anyhow, the talk will dig into the source code of the engine, https://github.com
 
 How it takes care of OS level stuff for game developers, memory optimization, cross platform game saves, and all that cool stuff."
 
-talk_details: ""
-
 about_author: "Susan Chang is a data scientist by day and game developer by night. Python for both!"
 
 talk_metadata:

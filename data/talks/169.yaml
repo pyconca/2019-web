@@ -16,8 +16,6 @@ talk_abstract: "For a Python developer, using PySpark can often feel foreign, li
 
 This talk is about battle stories using PySpark from development to production, and how my many errors can lead to better code on your end. In no particular order, I'll discuss about speeding up your development, avoiding 'friendly enemies' and testing your code. You'll see how to avoid embarrassing mistakes by seeing me making them, and you'll leave a more insightful PySpark developer."
 
-talk_details: ""
-
 about_author: "Jonathan is the data science practice lead for EPAM Canada, a global engineering consultancy. He worked in insurance, analytics and data science for a little over a decade. He is passionate about programming languages and how they allow to map more and more complex ideas. Jonathan is the author of _Data at scale with PySpark_ (Manning, scheduled for 2020)"
 
 talk_metadata:

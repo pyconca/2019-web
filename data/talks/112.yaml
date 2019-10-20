@@ -15,8 +15,6 @@ talk_abstract: "How many times has a library just handed you a big-ol' messy bag
 
 Python has great default data structures, but until recently it hasn't come with a lot of great support for *structuring data*; that is, the available options rarely encourage the right thing, which is often a custom made data structure, or *record* type. But there are libraries and modern features to help with this problem and allow you to export neatly organized types quickly and easily. These tools make it easier to box up your data and give it to consumers in a neat, friendly, and controlled way."
 
-talk_details: ""
-
 about_author: "Josh has been coding with Python for 8 years. He spent many years developing retail and hardware control software with Twisted, and now he works with DevOps, release engineering, and big data management for an imaging and computer vision company."
 
 talk_metadata:

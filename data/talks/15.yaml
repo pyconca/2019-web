@@ -15,8 +15,6 @@ talk_abstract: "We have always been taught that the future you book a flight, th
 
 The talk on the whole process, from the data, to a basic neural network on the data. With advancements in deep learning in these few years, it is very easy to train a simple statistical model to predict the prices."
 
-talk_details: ""
-
 about_author: "Graduated from the prestigious Indian Institute of Technology, Kharagpur(2017) and have spent over 5 years coding in Python. Worked with all styles of python from website development using Django and Flask to scientific computing using numpy and scikit-learn to web-scraping using Selenium. It's been a wonderful journey all along and I'm now looking forward to bring as many people on board as I can to experience what I've experienced. Speaker at Pycon India'17, Pycon France'18. Invited to Pycon Italy'18, PyData Delhi'18 and Pycon India'18."
 
 talk_metadata:

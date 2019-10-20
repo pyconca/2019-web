@@ -15,8 +15,6 @@ talk_abstract: "Today, we are moving towards machine learning. Making prediction
 
 To make the process efficient. The data pipeline can be automated. Scripts to extract data can be auto-scheduled using crontab. However, using crontab has its own drawbacks. One major challenge comes in monitoring. This is where an open-source tool built by Airbnb engineering team - Apache airflow helps. Airflow is a platform to programmatically author, schedule and monitor workflows."
 
-talk_details: ""
-
 about_author: "Mridu Bhatnagar is a software development engineer. Tech stack she is currently working on is Python and Django. When not coding she loves to experience outdoors, be part of community meetups to share her learnings and learn from other enthusiasts."
 
 talk_metadata:

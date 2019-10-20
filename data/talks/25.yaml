@@ -15,8 +15,6 @@ talk_abstract: "Since Python 3.5 and PEP 492, we have been able to write asynchr
 
 This talk will give you a gentle introduction to the world of asynchronous programming, focusing mostly on the core concept of async programming, how it works, and what its applications are, in order to provide a good foundation to Python developers on the topic. On top of that, we will explore a small code example (mostly involving the built-in `asyncio`) and briefly exam the source code of CPython to find out how it works. This talk will also give you some brief comparison of `threading.Thread` and `ThreadPoolExecutor`."
 
-talk_details: ""
-
 about_author: "Juti focuses on helping accelerating medical research at DNAstack. Juti received his BMath in Mathematics from the University of Waterloo. He has years of experience in full-stack software development, fault-resistant and scalable software design, consulting on software development projects for academic researches and contributing to open-source projects."
 
 talk_metadata:
