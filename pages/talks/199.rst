@@ -1,0 +1,13 @@
+.. title: 199
+.. slug: talk-199
+.. date: 2019-10-19 23:41:13 UTC+04:00
+.. type: text
+.. template: talk.tmpl
+
+
+
+{{% talk_details
+
+    talk_number='199'
+
+%}}

@@ -1,0 +1,17 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Stephen Childs"
+
+talk_title: "Data visualization with Altair: survey data case study"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Tools, Testing, and Practices"
+
+
+talk_abstract: "We've all seen beautiful data visualizations on the web and elsewhere. A good visualization can make a persuasive point or give new insights. How can you create beautiful and useful visualizations without too much effort? The secret behind each visualization is a set of well-organized data. In this case, we look at data from online surveys, which is not typically well-organized, and see how we can transform it and easily visualize it using the 'Grammer of Graphics' approach. The 'Grammer of Graphics' is a way of associating different data points and different aspects of a chart. You can provide the type of chart that you want, specify which data you want on the x and y axes and how you want to group you data and you will get a reasonable chart. As you do a data analysis, it is important to understand your data. A visualization tool that can quickly generate useful charts during analysis and also generate the finished charts for production is ideal. The `altair` package excels at both these jobs. The `altair` package allows you to create web ready visualizations using this approach using Python.
+This talk will demonstrate how `altair` can be used with survey data to get quick insights out of a survey,or any other data source. `Altair` is built upon Vega and Vega-Lite, which are JavaScript libraries. They work well with Jupyter notebooks and are useful for data exploration. The data behind the chart and the code for the chart itself is stored as JSON and can be included on any web page, so the visualizations are independent of Python."
+
+talk_details: "Stephen Childs is a Senior Institutional Analyst at York University, where he uses Python (among other tools) to analyze data to help promote data-based decision-making at the University. Stephen is a certified Software Carpentry Instructor, a Maintainer for the Python for Social Science Data Carpentry lesson and a co-organizer of PyData Toronto. Stephen holds a Master of Arts in Business Economics from Wilfrid Laurier University, and got his start by working with data as a researcher in Education policy. Stephen is a member of the board of the Canadian Institutional Research and Planning Association."

@@ -1,0 +1,28 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Seonaid Lee"
+
+talk_title: "Coding with an accent"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Community, Social, Ethics, and Education"
+
+
+talk_abstract: "There was a time that, no matter what language I was writing in, it always came out looking a little bit like FORTRAN. As I added on some OOP-ness and more modern languages, I eventually arrived at Python, a language which has a clear 'idiomatic' style, and its own adjective. 
+
+As it happens, I learned Python and Italian at the same time. 
+
+I came to Python already working with Ruby, and I came to Italian already speaking French. These languages that are superficially similar have led me to some strange accidents, like asking at the Vatican if the bathrooms were stopped, and never, ever being able to write a for-each loop without looking up the syntax.
+
+What I realized is that it is hard to learn to speak like a native (or really at all) when you have nobody to talk to. People care about PEP8... but a computer will keep merrily running along and not tell you that your code looks weird. Also, no matter how many times I say the same sentence to Duolingo, it's just not the same as finding myself making a mistake in the middle of, 'I went to Rome last year,' in my first conversation with an actual Italian.
+
+Touched on in this talk: 
+* The challenges of learning languages (spoken or programming) from an app
+* The (possible?) benefits of letting the other languages languish while you pick up a new one
+* The importance of community (Exercism, Meetup, and the kindness of strangers)
+* The excitement of being able to talk about the weather."
+
+talk_details: "Seonaid Lee is a lifelong learner who has been mucking about with computers since her father brought home a Commodore (Super!) PET from work in the early 80s. Python is the second-from-most-recent language that she has picked up, but is rapidly becoming a favourite. She mostly uses it to munge things, and occasionally model them."

@@ -1,0 +1,19 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Jonathan Rioux"
+
+talk_title: "PySpark: avoiding common pitfalls and keeping your sanity"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+- "Tools, Testing, and Practices"
+
+
+talk_abstract: "For a Python developer, using PySpark can often feel foreign, like driving a race car in sandals. You see the power, yet it feels like you're fighting against the machine.
+
+This talk is about battle stories using PySpark from development to production, and how my many errors can lead to better code on your end. In no particular order, I'll discuss about speeding up your development, avoiding 'friendly enemies' and testing your code. You'll see how to avoid embarrassing mistakes by seeing me making them, and you'll leave a more insightful PySpark developer."
+
+talk_details: "Jonathan is the data science practice lead for EPAM Canada, a global engineering consultancy. He worked in insurance, analytics and data science for a little over a decade. He is passionate about programming languages and how they allow to map more and more complex ideas. Jonathan is the author of _Data at scale with PySpark_ (Manning, scheduled for 2020)"

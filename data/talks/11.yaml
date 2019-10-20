@@ -1,0 +1,25 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Ian Whitestone"
+
+talk_title: "Gimme Shelter: Using Python to Find an Apartment in Toronto"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+- "Quite Different"
+
+
+talk_abstract: "Abstract
+=======
+
+With a continued shortage of rental units, finding the ideal apartment in Toronto, let alone one you can afford, is a daunting & time consuming task. But rest assured, Python plus a bit of webscraping can go a long way. This talk will highlight how I used Python, Slack, and some un-supervised clustering to find a place to live.
+
+Description
+===========
+
+In this talk, I will dive into how I used Python to continually scan apartment listings on Craigslist and Kijiji, filter them based on my preferences, and send them to slack where my girlfriend and I could discuss and upvote different options. I will talk about some unique features I built using the Google Maps API, like distance to the nearest subway station & commute time to work. We will then discuss how I utilized Word2Vec and a pre-trained image classifier for un-supervised clustering and price comparisons. I will finish off with what I learned and what I would have done differently."
+
+talk_details: "As a student of Chemical Engineering at Queen's University, Ian was pursuing a career back home in Calgary, Alberta in the Oil & Gas industry. During one summer, he was thrown into the world of data science when he started trying to make money by using Python to optimize daily fantasy sports lineups. After the oil price crashed, he realized he should probably look for work in another industry. With a new found passion for data science, Ian started his career working for Capital One in Toronto as a data scientist. For close to three years, Ian worked on operational monitoring across the business, credit risk analysis, data infrastructure & risk models. Looking to experience work in another indsutry, Ian started working as a product data scientist for Shopify where he currently spends his days doing analysis and building data products to help make commerce better for everyone. In his spare time, Ian likes to participate in hackathons, work on side projects and play [spikeball](https://spikeball.com/blogs/the-crop-circle/what-is-spikeball)."

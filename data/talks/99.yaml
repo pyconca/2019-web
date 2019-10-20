@@ -1,0 +1,17 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Derek Steinmoeller"
+
+talk_title: "pyblitzdg: the future of physical model development has arrived"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+- "Quite Different"
+
+
+talk_abstract: "In this talk, we introduce the [pyblitzdg](https://pypi.org/project/pyblitzdg/) module for physical model development and unveil some of the power that it puts into the hands of the scientific model developer. `pyblitzdg` is a new open-source Python 3 extension module that provides bindings to the C++ modelling library [blitzdg](https://github.com/WQCG/blitzdg) which incorporates the `blitz++` tensor arithmetic library. `Pyblitzdg` excels at carrying out fast simulations of wave dynamics in sophisticated geometries. With support for both Finite Volume (FV) and Discontinuous Galerkin (DG) numerical methodologies, a wide set of tools are made available to the model developer. Object-oriented programming is not required to use `pyblitzdg`, and simple procedural-style simulation programs can usually be written in a single ~100 line python 3 script. The syntax used relies on NumPy and would be familiar to users of wide-spread mathematical software like Matlab or GNU Octave. Worked examples that are relevant to real-world physical problems will be shown, and future application areas and potential extensions will be revealed."
+
+talk_details: "Derek Steinmoeller is an alumnus of the University of Waterloo Applied Mathematics Ph.D. program, specializing in numerical methods in fluid dynamics. He also has 5 years of experience in the software development industry. Derek holds interests and expertise in a range of areas including: numerical methods and their implementations, algorithms, scientific computing, software build and test automation, and cloud-based web services. He is the lead developer of the mathematical modelling library blitzdg and its python module pyblitzdg."

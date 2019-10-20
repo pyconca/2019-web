@@ -1,0 +1,16 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Luis E. Pérez Estrada"
+
+talk_title: "Procedural Generation for fun and profit"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Quite Different"
+
+
+talk_abstract: "Techniques for algorithmic content creation have found uses in industries like film, music, and most notably video games. More importantly than that, they are extremely fun to play with. In this talk I will share procedural generation methods I have encountered in both hobby and professional projects, and how they can be implemented in Python. We will look at several methods with their applications in the generation of textures, 3D models, music, and outfits."
+
+talk_details: "Luis is an engineer at Zalon by Zalando in Berlin. He has been using Python for over 10 years to make games, compilers, services, scripts, and data analyses."

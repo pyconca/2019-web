@@ -1,0 +1,18 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Greg Ward"
+
+talk_title: "Operator overloading: you're doing it wrong"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Language Features & Internals"
+
+
+talk_abstract: "Some languages (C++, Python) support operator overloading, and their communities are quite happy to use this nifty feature for more readable and expressive code. And some languages (Java, Go) are resolutely opposed to this terrible idea, and would sooner die than let you change the meaning of + or /. Why the divide?
+
+I'll explore some of the uses and abuses of operator overloading, and suggest ways to use it appropriately."
+
+talk_details: "I've been programming since the 1980s, using and contributing to open source since the 1990s, and involved in the Python community since 1998. In that time, I've written a lot of code and read even more. I've learned a few good tricks and figured out some practices to avoid. I love to share this hard-earned knowledge with my fellow hackers."

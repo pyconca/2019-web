@@ -1,0 +1,16 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Josh Weissbock"
+
+talk_title: "Iron Pythonista"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Quite Different"
+
+
+talk_abstract: "As a young teenager I was very much the stereotypical nerd. For the past 12 years I have been involved in sports at an elite level - now I am working to qualify for the Ironman 70.3 World Championships. In this talk I share how I use Python to manage data at all layers of my training."
+
+talk_details: "Josh works in cyber operations with the Canadian Federal government by day, and sports analytics by night. They are trying to qualify for the Ironman 70.3 World Championships and use data in every step along the way."

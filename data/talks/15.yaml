@@ -1,0 +1,18 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Anuj Menta"
+
+talk_title: "Forecasting and observing airfare trends using Python and neural networks"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+talk_abstract: "We have always been taught that the future you book a flight, the cheaper it is. What if I said it is not? You see it's a straight line and it has a minimum at some point (someday before the flight). We are going to see how historical Airfare data can help you get the best deals for you.
+
+The talk on the whole process, from the data, to a basic neural network on the data. With advancements in deep learning in these few years, it is very easy to train a simple statistical model to predict the prices."
+
+talk_details: "Graduated from the prestigious Indian Institute of Technology, Kharagpur(2017) and have spent over 5 years coding in Python. Worked with all styles of python from website development using Django and Flask to scientific computing using numpy and scikit-learn to web-scraping using Selenium. It's been a wonderful journey all along and I'm now looking forward to bring as many people on board as I can to experience what I've experienced. Speaker at Pycon India'17, Pycon France'18. Invited to Pycon Italy'18, PyData Delhi'18 and Pycon India'18."

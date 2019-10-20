@@ -1,0 +1,16 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Ashwin Srinath"
+
+talk_title: "RAPIDS and cuDF: accelerating DataFrames on GPUs"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+talk_abstract: "The Python data science stack is composed of a rich set of powerful libraries that work wonderfully well together, providing coherent, beautiful, Pythonic APIs that let the Data Scientist think less about programming and more about the data.  However, many of these libraries are largely single_threaded (e.g., Pandas, Scikit-Learn), and as data workflows grow larger, they quickly run up against this limitation. RAPIDS is a suite of open-source libraries that provide APIs nearly identical to existing popular Python libraries. By leveraging the massively parallel processing capabilities of GPUs, RAPIDS libraries can provide speedups of 50x or more over their purely-CPU counterparts. [cuDF](https://github.com/rapidsai/cudf) is a GPU DataFrame library following the Pandas API. [cuML](https://github.com/rapidsai/cuml) is a GPU Machine Learning library following the Scikit-Learn API. [cuGraph](https://github.com/rapidsai/cugraph) is a GPU Graph Analytics library with an API inspired by NetworkX. This talk will provide an overview of the RAPIDS ecosystem, with a focus on the cuDF library, its features and design. We'll show how cuDF combines the use of Numba, Cython, modern C++, CUDA, and Apache Arrow to build a highly performant DataFrame library that is also highly interoperable with other libraries in the PyData ecosystem. We'll show examples of workflows using cuDF both on a single GPU, and across multiple GPUs in conjunction with the Dask library. We'll also share some performance results, best practices, tips, and tricks."
+
+talk_details: "Ashwin Srinath is a Pythonista and Software Engineer at NVIDIA.  He is part of the RAPIDS team, developing Python libraries for GPU-accelerated data science. He is also an enthusiastic teacher of Python as part of communities such as Software Carpentry."
