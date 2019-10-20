@@ -11,45 +11,10 @@ talk_tags:
 - "Machine Learning & Data Science"
 
 
-talk_abstract: "Ever got excited about a piece of new machine learning research that you saw come out on arXiv or your favorite research lab’s blog hoping it will finally solve that last bit of optimization you need in your own work that will make you the ML superstar of your team? But after spending days trying to get the same results, you end up failing despite having tried everything in the paper including looking through their Github page, contacting the authors, etc. 
 
-If this sounds familiar, you’re not alone! Everyday researchers and practitioners alike spend countless hours trying to replicate results from new ML research coming out but inevitably lose precious time and compute resources failing to achieve the required results. We’re facing a massive reproducibility crisis in the field of machine learning. There has been a rise in the ease of use of tools to develop machine learning (ML) based solutions, e.g. AutoML (1) for those with limited ML experience, Keras (2) as a high level API to do more in depth ML work, etc. At the same time, there are a lot more public datasets (3) available, increasingly so to do socially oriented research, e.g. in bias detection, loan approvals, criminal risk score predictions, etc. With more people entering the field coming from diverse trainings (4), it is not necessary that all adhere to rigorous standards of scientific research. This is evidenced by recent calls by the technical research community at conferences like NeurIPS (5). 
+talk_abstract: "Ever got excited about a piece of new machine learning research that you saw come out on arXiv or your favorite research lab’s blog hoping it will finally solve that last bit of optimization you need in your own work that will make you the ML superstar of your team? But after spending days trying to get the same results, you end up failing despite having tried everything in the paper including looking through their Github page, contacting the authors, etc. If this sounds familiar, you’re not alone! Everyday researchers and practitioners alike spend countless hours trying to replicate results from new ML research coming out but inevitably lose precious time and compute resources failing to achieve the required results. We’re facing a massive reproducibility crisis in the field of machine learning. There has been a rise in the ease of use of tools to develop machine learning (ML) based solutions, e.g. AutoML and Keras are two of many.  At the same time, there are a lot more public datasets available, aimed at socially oriented research. With more people entering the field coming from diverse trainings, it is not necessary that all adhere to rigorous standards of scientific research. This is evidenced by recent calls by the technical research community at conferences like NeurIPS. We see that a lack of reproducibility in ML research will be a key hindrance in meaningful use of R&D resources. There is currently a lack of a comprehensive framework for doing reproducible machine learning. We, as Pythonistas, can do something to help this! Through my own work in this domain and the work of the intern cohort that worked on the Reproducibility in Machine Learning project this summer at the Montreal AI Ethics Institute, let’s talk through some of the social and technical aspects of this problem and how you can take these principles from the talk today and become the superhero of your ML team elevating the quality of the work coming from your team and helping others build on top of your work. We’ll walk through the following principles and apply them to a case study to understand how this simple yet effective mechanism can help address a ton of the issues that we face in the field. Our framework combines existing tooling with policy applied to solution design, data collection, model development, data and model legacy, and deployment performance tracking."
 
-We see that a lack of reproducibility in ML research will be a key hindrance in meaningful use of R&D resources. There is currently a lack of a comprehensive framework for doing reproducible machine learning. 
-
-We as Pythonistas who love to write well-maintained, up-to-date, Pythonic code can do something to help this! 
-
-Through my own work in this domain and the work of the intern cohort that worked on the Reproducibility in Machine Learning project this summer at the Montreal AI Ethics Institute, let’s talk through some of the social and technical aspects of this problem and how you can take these principles from the talk today and become the superhero of your ML team elevating the quality of the work coming from your team and helping others build on top of your work - which is something that we pride ourselves in the Python community!
-
-We’ll walk through the following principles and apply them to a case study to understand how this simple yet effective mechanism can help address a ton of the issues that we face in the field. 
-
-Our framework combines existing tooling with policy applied to the following areas: 
-
-1) solution design, 
-
-2) data collection, 
-
-3) model development, 
-
-4) data and model legacy,
-
-5) deployment performance tracking 
-
-Each section provides necessary and sufficient information to reproduce results and guide policy decisions and social changes that rely on such research. Each of these 5 parts comes with a checklist, suggested technical tools and metrics that aid in rigorous scientific development. 
-
-References:
-
-1) https://cloud.google.com/automl/ 
-
-2) https://keras.io 
-
-3) https://www.kaggle.com/datasets, https://github.com/awesomedata/awesome-public-datasets 
-
-4) https://jfgagne.ai/talent/ 
-
-5) “Call for Papers” by Neural Information Processing Systems Conference https://link.medium.com/ZXHwZFkQQV"
-
-about_author: "Abhishek Gupta is the founder of Montreal AI Ethics Institute (https://montrealethics.ai ) and a Machine Learning Engineer at Microsoft where he serves on the CSE AI Ethics Review Board. His research focuses on applied technical and policy methods to address ethical, safety and inclusivity concerns in using AI in different domains. He has built the largest community driven, public consultation group on AI Ethics in the world that has made significant contributions to the Montreal Declaration for Responsible AI, the G7 AI Summit, AHRC and WEF Responsible Innovation framework and the European Commission Trustworthy AI Guidelines. His work on public competence building in AI Ethics has been recognized by governments from North America, Europe, Asia and Oceania. Short selection of conferences where I’ve presented: G7 AI Summit - Future of Work Transatlantic ICT Forum at the European Parliament - AI and Social Inclusion AI Conference by the Canadian German Chamber of Industry and Commerce - AI automation and employee replacement – What precautions can be taken to avoid sector specific unemployment? International Network for Government Science Advice - AI Expert guiding discussions from a technical and policy perspective on the impact that AI will have on wellbeing Rightscon 2018 - Workers Data Rights - Making sure the human remains in human resources World Summit AI (April 2019) - How can we ensure algorithmic fairness and avoid bias, or do the proposed solutions themselves create inherent bias? (Please see my website for links and a more comprehensive list of presentations) Links to videos of some of my talks: Interview with BorealisAI that took a dive into the threat automation poses to job loss based on the current science, whether bias is the biggest problem we face in responsible AI, and what we should consider reasonable trade-offs for improving fairness. https://www.youtube.com/watch?v=Z3Tme0WU5D8 Presentation at the Montreal AI Symposium on a framework for ethical development of AI systems https://www.youtube.com/watch?v=cdcKwefTT6M&t=9737s Presentation at the Brookfield Institute for Entrepreneurship and Innovation on ethics in AI and the moral attributes of intelligent systems https://www.youtube.com/watch?v=XTdAjFCqnSg Interview from AI for Good Global Summit 2018 https://www.youtube.com/watch?v=LH5t_osKck4 More information on my work can be found at https://atg-abhishek.github.io and https://montrealethics.ai"
+about_author: "Abhishek Gupta is the founder of Montreal AI Ethics Institute (https://montrealethics.ai) and a Machine Learning Engineer at Microsoft where he serves on the CSE AI Ethics Review Board. His research focuses on applied technical and policy methods to address ethical, safety and inclusivity concerns in using AI in different domains. He has built the largest community driven, public consultation group on AI Ethics in the world that has made significant contributions to the Montreal Declaration for Responsible AI, the G7 AI Summit, AHRC and WEF Responsible Innovation framework and the European Commission Trustworthy AI Guidelines. His work on public competence building in AI Ethics has been recognized by governments from North America, Europe, Asia and Oceania."
 
 talk_metadata:
 

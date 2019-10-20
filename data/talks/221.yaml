@@ -11,7 +11,8 @@ talk_tags:
 - "Machine Learning & Data Science"
 
 
-talk_abstract: "Calculate Mel spectrograms from human voices using python and train an algorithm to compare human voices"
+
+talk_abstract: "Calculate mel spectrograms from human voices using python and train an algorithm to compare human voices"
 
 about_author: "Data Scientist - Machine Learning engineer using Python for the last 5 years in fraud detection and pattern recognition."
 

@@ -11,15 +11,10 @@ talk_tags:
 - "Quite Different"
 
 
-talk_abstract: "The game engine, Ren'Py, is an open source engine used to make countless interactive fiction games, also known as visual novels. These include commercial hits such as (visual novel name), to viral works such as (another visual novel name) (2mil+ downloads as of Jan 2018).
 
-I learned to program in Python using this engine, and have released my commercial game with it. I have also become a data scientist at (Canadian company) due to this skillset combined with my econometrics background. Talk about an ambitious crossover!
+talk_abstract: "The game engine, Ren'Py, is an open source engine used to make countless interactive fiction games, also known as visual novels. I learned to program in Python using this engine and have released a commercial game with it. The talk will dig into the source code of the engine, and explore topics such as how OS level stuff is handled for game developers, including memory optimization and cross platform game saves, plus more cool stuff."
 
-Anyhow, the talk will dig into the source code of the engine, https://github.com/renpy/renpy, such as:
-
-How it takes care of OS level stuff for game developers, memory optimization, cross platform game saves, and all that cool stuff."
-
-about_author: "Susan Chang is a data scientist by day and game developer by night. Python for both!"
+about_author: "Susan Chang is a data scientist at Bell Canada by day and game developer by night. Python for both!"
 
 talk_metadata:
 

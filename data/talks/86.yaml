@@ -12,6 +12,7 @@ talk_tags:
 - "Tools, Testing, and Practices"
 
 
+
 talk_abstract: "In today’s world of developing services we tend to move fast and with that comes mistakes. This talk will discuss using post-mortems to turn incidents into opportunities for improvement, instead of just an opportunity to assign blame.
 
 While developing software, bugs and mistakes are inevitable. Come to hear how we can improve the approaches we often take as software developers to work better with one another in heated moments of failure and the aftermath of incidents. Through better interactions we can build better teams and create better services.

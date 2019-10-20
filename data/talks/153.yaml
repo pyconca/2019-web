@@ -12,31 +12,8 @@ talk_tags:
 - "Tools, Testing, and Practices"
 
 
-talk_abstract: "Programming is not just about writing runnable codes but writing maintainable and extensible applications. Besides the general design issue, many code quality aspects need to take care, such as PEP 8, test coverage, security, etc. Manually checking them can be time-consuming and error-prone for both writers and reviewers. Thus, I'd like to introduce tools that can help us with each of these checkings.
-In this talk, you will hear a brief introduction of the following tools.
 
-* Dependency Management
-    * [pipenv](https://pipenv.readthedocs.io/en/latest/)
-    * [poetry](https://poetry.eustace.io)
-* Style Check
-    * [pylint](https://www.pylint.org)
-    * [flake8](http://flake8.pycqa.org)
-    * [mypy](https://mypy.readthedocs.io)
-    * [black](https://github.com/psf/black)
-* Testing
-    * [pytest](https://docs.pytest.org/en/latest/)
-    * [pytest-cov](https://github.com/pytest-dev/pytest-cov)
-    * [pytest-mock](https://github.com/pytest-dev/pytest-mock)
-    * [Hypothesis](https://hypothesis.works)
-* git commit and Change Log
-    * [Commitizen](https://github.com/commitizen)
-    * [conventional changelog](https://github.com/conventional-changelog/conventional-changelog)
-* Security
-    * [bandit](https://github.com/PyCQA/bandit)
-* Continuous Integration
-    * [drone](https://github.com/drone/drone)
-
-By leveraging these tools, we get rid of the repetitive and tedious tasks and focus on higher-level software design. In the end, I'll propose a workflow combining all these tools which can be quickly followed and adjusted to any software project."
+talk_abstract: "Programming is not just about writing runnable codes but writing maintainable and extensible applications. Besides the general design issue, many code quality aspects need to take care, such as PEP 8, test coverage, security, etc. Manually checking them can be time-consuming and error-prone for both writers and reviewers. Thus, I'd like to introduce tools that can help us with each of these checkings. In this talk, you will hear a brief introduction of over a dozen tools. By leveraging tools, we get rid of the repetitive and tedious tasks and focus on higher-level software design. In the end, I'll propose a workflow combining all these tools which can be quickly followed and adjusted to any software project."
 
 about_author: "Wei Lee is a software engineer at Rakuten Slice, and now also a volunteer of PyCon TW. Being a lazy engineer, he is passionate at automating everything. Mainly use Python for automating trivial stuff and backend development. Personal Website: [https://lee-w.github.io/](https://lee-w.github.io/)"
 
