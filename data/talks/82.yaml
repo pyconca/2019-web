@@ -19,4 +19,16 @@ talk_abstract: "Data on energy markets in Canada is abundant. Various datasets a
 
 Jupyter Notebooks to accompany each dashboard have also been created to provide a transparent data access methodology to allow reproducibility by others and clear the path for more advanced analytics related to Canada’s energy information."
 
-talk_details: "Margaret Skwara is a senior natural gas markets analyst at the National Energy Board in Calgary, Alberta."
+talk_details: ""
+
+about_author: "Margaret Skwara is a senior natural gas markets analyst at the National Energy Board in Calgary, Alberta."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 12:45"
+
+    - "**Duration:** 30 minutes"

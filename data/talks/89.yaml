@@ -13,4 +13,16 @@ talk_tags:
 
 talk_abstract: "Integrating with third-party services can be challenging. Network connections, API endpoints, and third-party Python client packages are often unreliable or poorly documented. Debugging production problems can be difficult because reproducing the issue is timeconsuming. In this presentation, I will share expertise learned from years of from building and maintaining integrations with 60+ services, including Salesforce, Intercom, HubSpot, Zendesk, Xero, NetSuite, and others."
 
-talk_details: "I’m a senior engineering manager that helps software companies build great teams and great software. I have 20 years of engineering and product management experience. I launched 2 SaaS products and managed an enterprise software product with annual revenue exceeding $100M. I hire and coach great people. I also write Python code."
+talk_details: ""
+
+about_author: "I’m a senior engineering manager that helps software companies build great teams and great software. I have 20 years of engineering and product management experience. I launched 2 SaaS products and managed an enterprise software product with annual revenue exceeding $100M. I hire and coach great people. I also write Python code."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 15:25"
+
+    - "**Duration:** 30 minutes"

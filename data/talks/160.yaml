@@ -13,4 +13,16 @@ talk_tags:
 
 talk_abstract: "Large projects often use Kafka to provide durable real time processing over huge amounts of data. But, Kafka is nothing like Redis, SQS, or any Celery backend. We’ll look at how Kafka’s design makes it amazing at some tasks (real time durable processing) and awful at others (this isn’t a Celery backend for a reason). How to avoid having your Kafka clients sitting idle and ensure your messages are actually recorded in order and in real time! Finally, we’ll look at how a Pythonista can take advantage of Java-only tech like Kafka Streams with KSQL."
 
-talk_details: "Tom Aratyn is the author of Building Django Web Applications (Packt 2018), former associate professor at Seneca College, and a software developer with a decade of Python software development experience."
+talk_details: ""
+
+about_author: "Tom Aratyn is the author of Building Django Web Applications (Packt 2018), former associate professor at Seneca College, and a software developer with a decade of Python software development experience."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 12:00"
+
+    - "**Duration:** 30 minutes"

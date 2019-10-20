@@ -14,14 +14,17 @@ jinja_env = Environment(
 )
 template = jinja_env.get_template('talk_skeleton.j2')
 
-FULL_TAG_LIST = []
-
-BANNED_TAGS = [
-    'fa'
-]
-
 # import talk data
 JSON_DATA = json.loads(open('../speakers-details.json').read())
+
+
+def talk_metadata(d):
+    return (
+        f"**Date:** {d.get('talk_date', '')}",
+        f"**Location:** {d.get('talk_room', '')}",
+        f"**Begin time:** {d.get('talk_time_start', '')}",
+        f"**Duration:** {d.get('length', '')} minutes"
+    )
 
 
 def to_yaml(needed_details):
@@ -34,8 +37,9 @@ def to_yaml(needed_details):
         'name': needed_details.get('speaker', '').replace('"', "'"),
         'title': needed_details.get('title', '').replace('"', "'"),
         'abstract': needed_details.get('talk_description', '').replace('"', "'"),
-        'details': needed_details.get('speaker_bio', '').replace('"', "'"),
-        'talk_tags': tags
+        'about_author': needed_details.get("speaker_bio", '').replace('"', "'"),
+        'talk_tags': tags,
+        'talk_metadata': talk_metadata(needed_details)
     }
 
 

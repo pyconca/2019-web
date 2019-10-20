@@ -38,4 +38,16 @@ In this talk, you will hear a brief introduction of the following tools.
 
 By leveraging these tools, we get rid of the repetitive and tedious tasks and focus on higher-level software design. In the end, I'll propose a workflow combining all these tools which can be quickly followed and adjusted to any software project."
 
-talk_details: "Wei Lee is a software engineer at Rakuten Slice, and now also a volunteer of PyCon TW. Being a lazy engineer, he is passionate at automating everything. Mainly use Python for automating trivial stuff and backend development. Personal Website: [https://lee-w.github.io/](https://lee-w.github.io/)"
+talk_details: ""
+
+about_author: "Wei Lee is a software engineer at Rakuten Slice, and now also a volunteer of PyCon TW. Being a lazy engineer, he is passionate at automating everything. Mainly use Python for automating trivial stuff and backend development. Personal Website: [https://lee-w.github.io/](https://lee-w.github.io/)"
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 16:05"
+
+    - "**Duration:** 30 minutes"

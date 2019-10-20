@@ -23,4 +23,16 @@ Particular examples will include:
 
 While none of these are meant to be particularly useful implementations, they make good use cases to show the machinery."
 
-talk_details: "Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data License group and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as PyCon, PyCascades, QCon, PyCaribbean, and EuroPython. In the past, Andy has worked on private equity and credit risk applications, web services, and virtual worlds. Andy holds a Masters of Engineering from Stevens Institute of Technology. In his spare time, Andy is a maker who works on Internet of Things (IoT) projects and teaches classes at MakerBar in Hoboken, NJ."
+talk_details: ""
+
+about_author: "Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data License group and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as PyCon, PyCascades, QCon, PyCaribbean, and EuroPython. In the past, Andy has worked on private equity and credit risk applications, web services, and virtual worlds. Andy holds a Masters of Engineering from Stevens Institute of Technology. In his spare time, Andy is a maker who works on Internet of Things (IoT) projects and teaches classes at MakerBar in Hoboken, NJ."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 12:05"
+
+    - "**Duration:** 30 minutes"

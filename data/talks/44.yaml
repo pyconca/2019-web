@@ -13,4 +13,16 @@ talk_tags:
 
 talk_abstract: "Writing code in a Jupyter Notebook is an interactive process involving a lot of trial and error. As your code evolves, errors and bugs inevitably start to creep in. A debugger can help track them down. In this talk, we’ll go through some reasons why you may want to debug your notebook. Then, we’ll explore how you can debug notebooks with the ipdb debugger. Finally, we’ll see how we can use an IDE to track down those pesky bugs.  Questions such as 'How do you debug code in a Jupyter Notebook?' and 'Can I edit and run the cells until I get what I intended?' will be explored."
 
-talk_details: "Maria is a Developer Advocate at JetBrains where she has been working since 2006. She is passionate about all things data and Python. She has a degree in Applied Informatics, but learning never stops. She keeps on advancing her knowledge in Data Science, Machine Learning, Data Engineering, and relevant technologies. She understands the challenges faced by newcomers to the field, and wants to to help learners overcome those challenges by sharing her knowledge and practical tips. She also blogs, presents at software development and data science conferences, and runs PyData Montreal."
+talk_details: ""
+
+about_author: "Maria is a Developer Advocate at JetBrains where she has been working since 2006. She is passionate about all things data and Python. She has a degree in Applied Informatics, but learning never stops. She keeps on advancing her knowledge in Data Science, Machine Learning, Data Engineering, and relevant technologies. She understands the challenges faced by newcomers to the field, and wants to to help learners overcome those challenges by sharing her knowledge and practical tips. She also blogs, presents at software development and data science conferences, and runs PyData Montreal."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 10:30"
+
+    - "**Duration:** 30 minutes"

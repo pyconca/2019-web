@@ -14,4 +14,16 @@ talk_tags:
 
 talk_abstract: "Machine learning algorithms are susceptible to both intentional and unintentional bias. Relying on biased algorithms to drive decisions can lead to unfair outcomes that have serious consequences affecting underrepresented groups of people. In this talk, we'll walk through examples of algorithmic bias in machine learning algorithms, explore tools (in Python) that can measure this bias, and discuss good ethics and software engineering strategies to mitigate bias in machine learning algorithms."
 
-talk_details: "Jill is a data scientist at BioSymetrics, where she applies machine learning techniques to messy and complex biomedical datasets. She is a member of PyLadies and lives in Toronto, Canada."
+talk_details: ""
+
+about_author: "Jill is a data scientist at BioSymetrics, where she applies machine learning techniques to messy and complex biomedical datasets. She is a member of PyLadies and lives in Toronto, Canada."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 16:10"
+
+    - "**Duration:** 10 minutes"

@@ -13,4 +13,16 @@ talk_tags:
 
 talk_abstract: "This talk presents a systematic approach to understand and implement Genetic Algorithms, with a hands-on experience of solving a real-world problem. The inspiration and methods behind GA will also be included with all the fundamental topics like fitness algorithms, mutation, crossover etc, with limitations and advantages of using it."
 
-talk_details: "I am an undergraduate student at SRM University, doing B Tech in Computer Science. My field of interest is Mathematics, Server-Side Technologies and Genetic Algorithms. I am currently a Software engineering intern at Timeless co, previously at Udacity and Knowalrity. I have created more than 20+ projects and love contributing to other open-source projects. I am also a core member of PyData Delhi and recently co-organized PyData Delhi Conference."
+talk_details: ""
+
+about_author: "I am an undergraduate student at SRM University, doing B Tech in Computer Science. My field of interest is Mathematics, Server-Side Technologies and Genetic Algorithms. I am currently a Software engineering intern at Timeless co, previously at Udacity and Knowalrity. I have created more than 20+ projects and love contributing to other open-source projects. I am also a core member of PyData Delhi and recently co-organized PyData Delhi Conference."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 15:25"
+
+    - "**Duration:**  minutes"
