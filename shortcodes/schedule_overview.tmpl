@@ -69,47 +69,15 @@
                                         <a href="#" class="btn">
                                             <p class="talk-title">
                                                 <i class="fa fa-bullhorn" aria-hidden="true"></i>
-                                                {#
-                                                {{ global_data['talks/' + room['ref']]['talk_title'] }}
-                                                #}
+                                                {{ room['talk_title'] }}
                                             </p>
-                                            {#
-                                            {% if global_data['talks/' + room['ref']]['speaker_name'] %}
+                                            {% if room['speaker_name'] %}
                                               <p class="talk-speaker">
-                                                  {{  global_data['talks/' + room['ref']]['speaker_name']  }}
+                                                  {{  room['speaker_name']  }}
                                               </p>
                                             {% endif %}
-                                            #}
                                         </a>
                                     </div>
-                                    <div class="schedule-talk-tags">
-                                        <p>
-                                          {#
-                                            {% for tag in global_data['talks/' + room['ref']]['talk_tags'] %}
-                                                <span>{{ tag }}</span>
-                                            {% endfor %}
-                                          #}
-                                        </p>
-                                    </div>
-                                    {#
-                                    {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
-                                    <div class="schedule-talk-abstract">
-                                        <p>
-                                            {{  global_data['talks/' + room['ref']]['talk_abstract']  }}
-                                        </p>
-                                    </div>
-                                    {% endif %}
-                                    #}
-
-                                    {#
-                                    {% if global_data['talks/' + room['ref']]['talk_details'] %}
-                                     <div class="schedule-talk-more">
-                                            <a class="btn btn-block" href="/talks/talk-{{ room }}/" role="button">{{ messages("More Details") }}</a>
-                                     </div>
-
-                                    {% endif %}
-                                    #}
-
                                 </div>
                         {% endfor %}
                     </div>
