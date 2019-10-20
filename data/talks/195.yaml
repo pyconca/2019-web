@@ -1,0 +1,48 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Patsy Sage"
+
+talk_title: "Nos commodius agimus. non enim solumTorquatus dixi!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "intermediate"
+
+
+talk_abstract: "Sed ex hoc primum error tollendus est, ne quis sequi existimet, ut duo sint ultima bonorum. Etenim, si cui propositumsit conliniare hastam aliquo aut sagittam, sicut nos ultimum in bonis dicimus, sic illi facere omnia, quae possit, utconliniet huic in eius modi similitudine omnia sint facienda, ut conliniet, et tamen, ut omnia faciat, quo propositumadsequatur, sit hoc quasi ultimum, quale nos summum in vita bonum dicimus, illud autem, ut feriat, quasi seligendum, nonexpetendum. Cum autem omnia officia a principiis naturae proficiscantur, ab isdem necesse est proficisci ipsam sapientiam. Sed quemad modum saepe fit, ut is, qui commendatus sit alicui, pluris eum faciat, cui commendatus sit, quam illum, a quo, sicminime mirum est primo nos sapientiae commendari ab initiis naturae, post autem ipsam sapientiam nobis cariorem fieri,quam illa sint, a quibus ad hanc venerimus."
+
+talk_details: "Atque haec quidem de rerum nominibus. de ipsis rebus autem saepenumero, Brute, vereor ne reprehendar, cum haec ad te
+scribam, qui cum in philosophia, tum in optimo genere philosophiae tantum processeris. quod si facerem quasi te
+erudiens, iure reprehenderer. sed ab eo plurimum absum neque, ut ea cognoscas, quae tibi notissima sunt, ad te mitto,
+sed quia facillime in nomine tuo adquiesco, et quia te habeo aequissimum eorum studiorum, quae mihi communia tecum sunt,
+existimatorem et iudicem. attendes igitur, ut soles, diligenter eamque controversiam diiudicabis, quae mihi fuit cum
+avunculo tuo, divino ac singulari viro. nam in Tusculano cum essem vellemque e bibliotheca pueri Luculli quibusdam
+libris uti, veni in eius villam, ut eos ipse, ut solebam, depromerem. quo cum venissem, M. Catonem, quem ibi esse
+nescieram, vidi in bibliotheca sedentem multis circumfusum Stoicorum libris. erat enim, ut scis, in eo aviditas legendi,
+nec satiari poterat, quippe qui ne reprehensionem quidem vulgi inanem reformidans in ipsa curia soleret legere saepe,
+dum senatus cogeretur, nihil operae rei publicae detrahens. quo magis tum in summo otio maximaque copia quasi helluari
+libris, si hoc verbo in tam clara re utendum est, videbatur. quod cum accidisset ut alter alterum necopinato
+videremus, surrexit statim. deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc? a villa enim, credo, et:
+Si ibi te esse scissem, ad te ipse venissem.
+
+Heri, inquam, ludis commissis ex urbe profectus veni ad vesperum. causa autem fuit huc veniendi ut quosdam hinc libros
+promerem. et quidem, Cato, hanc totam copiam iam Lucullo nostro notam esse oportebit; nam his libris eum malo quam
+reliquo ornatu villae delectari. est enim mihi magnae curae - quamquam hoc quidem proprium tuum munus est - ut ita
+erudiatur, ut et patri et Caepioni nostro et tibi tam propinquo respondeat. laboro autem non sine causa; nam et avi eius
+memoria moveor - nec enim ignoras, quanti fecerim Caepionem, qui, ut opinio mea fert, in principibus iam esset, si
+viveret - et Lucullus mihi versatur ante oculos, vir cum virtutibus omnibus excellens, tum mecum et amicitia et omni
+voluntate sententiaque coniunctus.
+
+Praeclare, inquit, facis, cum et eorum memoriam tenes, quorum uterque tibi testamento liberos suos commendavit, et
+puerum diligis. quod autem meum munus dicis non equidem recuso, sed te adiungo socium. addo etiam illud, multa iam mihi
+dare signa puerum et pudoris et ingenii, sed aetatem vides.
+
+Video equidem, inquam, sed tamen iam infici debet iis artibus, quas si, dum est tener, conbiberit, ad maiora veniet
+paratior.
+
+Sic, et quidem diligentius saepiusque ista loquemur inter nos agemusque communiter. sed residamus, inquit, si placet.
+Itaque fecimus.
+
+Tum ille: Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris?"

@@ -2,18 +2,46 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Elizabeth Robinson"
+speaker_name: "Richard Robinson"
 
-talk_title: "Eademque ratione ne temperantia!"
+talk_title: "Iam in altera philosophiae parte. quae est quaerendi ac disserendi, qua!"
 
 # At least 1 tag is necessary!!
 talk_tags:
 - "beginner"
+- "python"
 
 
-talk_abstract: "Aut haec tibi, Torquate, suntvituperanda aut patrocinium voluptatis repudiandum. Quod autempatrocinium aut quae istacausa est voluptatis, quae nec testesullos e claris viris nec laudatores poterit adhibere? Ut enim nosex annaliummonimentis testes excitamus eos, quorum omnis vitaconsumpta est in laboribus gloriosis, qui voluptatis nomen audirenonpossent, sic in vestris disputationibus historia muta est."
+talk_abstract: "Huius ego nunc auctoritatemsequens idem faciam. Quantum enim potero, minuam contentionesomnesque simplices sententiaseorum, in quibus nulla inest virtutisadiunctio, omnino a philosophia semovendas putabo, primum AristippiCyrenaicorumqueomnium, quos non est veritum in ea voluptate, quaemaxima dulcedine sensum moveret, summum bonum ponere contemnentisistamvacuitatem doloris. Hi non viderunt, ut ad cursumequum, ad arandum bovem, ad indagandum canem, sic hominem ad duasres, ut ait Aristoteles,ad intellegendum et agendum, esse natumquasi mortalem deum, contraque ut tardam aliquam et languidampecudem ad pastum etad procreandi voluptatem hoc divinum animalortum esse voluerunt, quo nihil mihi videtur absurdius. Atque haec contra Aristippum, quieam voluptatem non modo summam, sed solam etiam ducit, quam omnesunam appellamusvoluptatem. Aliter autem vobis placet."
 
-talk_details: "Nec vero ignoro varias philosophorum fuisse sententias, eorum dico, qui summum bonum, quod ultimum appello, in animo
+talk_details: "Videamus nunc, quam sint praeclare illa his, quae iam posui, consequentia. cum enim hoc sit extremum - sentis enim,
+credo, me iam diu, quod talow Graeci dicant, id dicere tum extremum, tum ultimum, tum summum; licebit etiam finem pro
+extremo aut ultimo dicere - cum igitur hoc sit extremum, congruenter naturae convenienterque vivere, necessario
+sequitur omnes sapientes semper feliciter, absolute, fortunate vivere, nulla re impediri, nulla prohiberi, nulla egere.
+quod autem continet non magis eam disciplinam, de qua loquor, quam vitam fortunasque nostras, id est ut, quod honestum
+sit, id solum bonum iudicemus, potest id quidem fuse et copiose et omnibus electissimis verbis gravissimisque sententiis
+rhetorice et augeri et ornari, sed consectaria me Stoicorum brevia et acuta delectant. concluduntur igitur eorum
+argumenta sic: Quod est bonum, omne laudabile est; quod autem laudabile est, omne est honestum; bonum igitur quod
+est, honestum est. satisne hoc conclusum videtur? certe; quod enim efficiebatur ex iis duobus, quae erant sumpta, in eo
+vides esse conclusum. duorum autem, e quibus effecta conclusio est, contra superius dici solet non omne bonum esse
+laudabile. nam quod laudabile sit honestum esse conceditur. illud autem perabsurdum, bonum esse aliquid, quod non
+expetendum sit, aut expetendum, quod non placens, aut, si id, non etiam diligendum; ergo et probandum; ita etiam
+laudabile; id autem honestum. ita fit, ut, quod bonum sit, id etiam honestum sit. Deinde quaero, quis aut de misera
+vita possit gloriari aut de non beata. de sola igitur beata. ex quo efficitur gloriatione, ut ita dicam, dignam esse
+beatam vitam, quod non possit nisi honestae vitae iure contingere. ita fit, ut honesta vita beata vita sit. Et quoniam
+is, cui contingit ut iure laudetur, habet insigne quiddam ad decus et ad gloriam, ut ob ea, quae tanta sint, beatus dici
+iure possit, idem de vita talis viri rectissime dicetur. ita, si beata vita honestate cernitur, quod honestum est, id
+bonum solum habendum est. Quid vero? negarine ullo modo possit quemquam stabili et firmo et magno animo,
+quem fortem virum dicimus, effici posse, nisi constitutum sit non esse malum dolorem? ut enim qui mortem in malis ponit
+non potest eam non timere, sic nemo ulla in re potest id, quod malum esse decreverit, non curare idque contemnere. quo
+posito et omnium adsensu adprobato illud adsumitur, eum, qui magno sit animo atque forti, omnia, quae cadere in hominem
+possint, despicere ac pro nihilo putare. quae cum ita sint, effectum est nihil esse malum, quod turpe non sit. Atque
+iste vir altus et excellens, magno animo, vere fortis, infra se omnia humana ducens, is, inquam, quem efficere volumus,
+quem quaerimus, certe et confidere sibi debet ac suae vitae et actae et consequenti et bene de sese iudicare statuens
+nihil posse mali incidere sapienti. ex quo intellegitur idem illud, solum bonum esse, quod honestum sit, idque esse
+beate vivere: honeste, id est cum virtute, vivere.
+
+Nec vero ignoro varias philosophorum fuisse sententias, eorum dico, qui summum bonum, quod ultimum appello, in animo
 ponerent. quae quamquam vitiose quidam secuti sunt, tamen non modo iis tribus, qui virtutem a summo bono segregaverunt,
 cum aut voluptatem aut vacuitatem doloris aut prima naturae in summis bonis ponerent, sed etiam alteris tribus, qui
 mancam fore putaverunt sine aliqua accessione virtutem ob eamque rem trium earum rerum, quas supra dixi, singuli
@@ -98,19 +126,4 @@ quaestione, quae de bonis et malis appelletur, non esse rerum Stoicis cum Peripa
 autem nihil tam perspicuum videtur, quam has sententias eorum philosophorum re inter se magis quam verbis dissidere;
 maiorem multo inter Stoicos et Peripateticos rerum esse aio discrepantiam quam verborum, quippe cum Peripatetici omnia,
 quae ipsi bona appellant, pertinere dicant ad beate vivendum, nostri non ex omni, quod aestimatione aliqua dignum sit,
-compleri vitam beatam putent.
-
-An vero certius quicquam potest esse quam illorum ratione, qui dolorem in malis ponunt, non posse sapientem beatum esse,
-cum eculeo torqueatur? eorum autem, qui dolorem in malis non habent, ratio certe cogit ut in omnibus tormentis
-conservetur beata vita sapienti. etenim si dolores eosdem tolerabilius patiuntur qui excipiunt eos pro patria quam qui
-leviore de causa, opinio facit, non natura, vim doloris aut maiorem aut minorem. Ne illud quidem est consentaneum,
-ut, si, cum tria genera bonorum sint, quae sententia est Peripateticorum, eo beatior quisque sit, quo sit corporis aut
-externis bonis plenior, ut hoc idem adprobandum sit nobis, ut, qui plura habeat ea, quae in corpore magni aestimantur,
-sit beatior. illi enim corporis commodis compleri vitam beatam putant, nostri nihil minus. nam cum ita placeat, ne eorum
-quidem bonorum, quae nos bona vere appellemus, frequentia beatiorem vitam fieri aut magis expetendam aut pluris
-aestimandam, certe minus ad beatam vitam pertinet multitudo corporis commodorum. etenim, si et sapere expetendum
-sit et valere, coniunctum utrumque magis expetendum sit quam sapere solum, neque tamen, si utrumque sit aestimatione
-dignum, pluris sit coniunctum quam sapere ipsum separatim. nam qui valitudinem aestimatione aliqua dignam iudicamus
-neque eam tamen in bonis ponimus, idem censemus nullam esse tantam aestimationem, ut ea virtuti anteponatur. quod idem
-Peripatetici non tenent, quibus dicendum est, quae et honesta actio sit et sine dolore, eam magis esse expetendam, quam
-si esset eadem actio cum dolore. nobis aliter videtur, recte secusne, postea; sed potestne rerum maior esse dissensio?"
+compleri vitam beatam putent."

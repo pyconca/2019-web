@@ -1,0 +1,44 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Christine Watson"
+
+talk_title: "Videmus in quodam volucriumgenere non nulla indicia pietatis, cognitionem, memoriam."
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "intermediate"
+- "talk"
+- "python"
+
+
+talk_abstract: "Hanc ego cum teneam sententiam, quid est cur verear, ne ad eam non possim accommodare Torquatos nostros? Quos tu pauloante cum memoriter, tum etiam erga nos amice et benivole collegisti, nec me tamen laudandis maioribus meis corrupistinec segniorem ad respondendum reddidisti. Quorum facta quem ad modum, quaeso, interpretaris? Sicine eos censes aut inarmatum hostem impetum fecisse aut in liberos atque in sanguinem suum tam crudelis fuisse, nihil ut de utilitatibus,nihil ut de commodis suis cogitarent? At id ne ferae quidem faciunt, ut ita ruant itaque turbent, ut earum motus etimpetus quo pertineant non intellegamus, tu tam egregios viros censes tantas res gessisse sine causa? Quae fuerit causa,mox videro; interea hoc tenebo, si ob aliquam causam ista, quae sine dubio praeclara sunt, fecerint, virtutem iis per seipsam causam non fuisse."
+
+talk_details: "Sunt autem quidam Epicurei timidiores paulo contra vestra convicia, sed tamen satis acuti, qui verentur ne, si amicitiam
+propter nostram voluptatem expetendam putemus, tota amicitia quasi claudicare videatur. itaque primos congressus
+copulationesque et consuetudinum instituendarum voluntates fieri propter voluptatem; cum autem usus progrediens
+familiaritatem effecerit, tum amorem efflorescere tantum, ut, etiamsi nulla sit utilitas ex amicitia, tamen ipsi amici
+propter se ipsos amentur. etenim si loca, si fana, si urbes, si gymnasia, si campum, si canes, si equos, si ludicra
+exercendi aut venandi consuetudine adamare solemus, quanto id in hominum consuetudine facilius fieri poterit et iustius?
+
+Sunt autem, qui dicant foedus esse quoddam sapientium, ut ne minus amicos quam se ipsos diligant. quod et posse fieri
+intellegimus et saepe etiam videmus, et perspicuum est nihil ad iucunde vivendum reperiri posse, quod coniunctione tali
+sit aptius. Quibus ex omnibus iudicari potest non modo non impediri rationem amicitiae, si summum bonum in voluptate
+ponatur, sed sine hoc institutionem omnino amicitiae non posse reperiri.
+
+Quapropter si ea, quae dixi, sole ipso illustriora et clariora sunt, si omnia dixi hausta e fonte naturae, si tota
+oratio nostra omnem sibi fidem sensibus confirmat, id est incorruptis atque integris testibus, si infantes pueri, mutae
+etiam bestiae paene loquuntur magistra ac duce natura nihil esse prosperum nisi voluptatem, nihil asperum nisi dolorem,
+de quibus neque depravate iudicant neque corrupte, nonne ei maximam gratiam habere debemus, qui hac exaudita quasi voce
+naturae sic eam firme graviterque comprehenderit, ut omnes bene sanos in viam placatae, tranquillae, quietae, beatae
+vitae deduceret? Qui quod tibi parum videtur eruditus, ea causa est, quod nullam eruditionem esse duxit, nisi quae
+beatae vitae disciplinam iuvaret. An ille tempus aut in poetis evolvendis, ut ego et Triarius te hortatore facimus,
+consumeret, in quibus nulla solida utilitas omnisque puerilis est delectatio, aut se, ut Plato, in musicis, geometria,
+numeris, astris contereret, quae et a falsis initiis profecta vera esse non possunt et, si essent vera, nihil afferrent,
+quo iucundius, id est quo melius viveremus, eas ergo artes persequeretur, vivendi artem tantam tamque et operosam et
+perinde fructuosam relinqueret? non ergo Epicurus ineruditus, sed ii indocti, qui, quae pueros non didicisse turpe est,
+ea putant usque ad senectutem esse discenda.
+
+Quae cum dixisset, Explicavi, inquit, sententiam meam, et eo quidem consilio, tuum iudicium ut cognoscerem, quoniam mihi
+ea facultas, ut id meo arbitratu facerem, ante hoc tempus numquam est data."

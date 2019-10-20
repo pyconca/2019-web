@@ -1,0 +1,90 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Agnes Russell"
+
+talk_title: "Qua igitur re ab deo vincitur, siaeternitate non vincitur?"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "intermediate"
+- "python"
+- "talk"
+
+
+talk_abstract: "Bene facis, inquit, quod me adiuvas, et istis quidem, quae modo dixisti, utar potius Latinis, in ceteris subvenies, sime haerentem videbis. Sedulo, inquam, faciam. Sed 'fortuna fortis'; quare conare, quaeso. Quid enim possumus hoc agere divinius? Placet his, inquit, quorum ratio mihi probatur, simulatque natum sit animal - hinc enim est ordiendum - ipsum sibiconciliari et commendari ad se conservandum et ad suum statum eaque, quae conservantia sint eius status, diligenda,alienari autem ab interitu iisque rebus, quae interitum videantur adferre."
+
+talk_details: "Audio equidem philosophi vocem, Epicure, sed quid tibi dicendum sit oblitus es. primum enim, sivera sunt ea, quorum
+recordatione te gaudere dicis, hoc est, sivera sunt tua scripta et inventa, gaudere non potes. nihil enim iamhabes, quod
+ad corpus referas; est autem a te semper dictum necgaudere quemquam nisi propter corpus nec dolere. 'Praeteritis',
+inquit, 'gaudeo.' Quibusnam praeteritis? si ad corpuspertinentibus, rationes tuas te video compensare cum
+istisdoloribus, non memoriam corpore perceptarum voluptatum; sin autemad animum, falsum est, quod negas animi ullum esse
+gaudium, quodnon referatur ad corpus. cur deinde Metrodori liberos commendas?quid isto egregio tuo officio et tanta
+fide - sic enimexistimo - ad corpus refers?
+
+Huc et illuc, Torquate, vosversetis licet, nihil in hac praeclara epistula scriptum ab Epicurocongruens et conveniens
+decretis eius reperietis. ita redarguituripse a sese, convincunturque scripta eius probitate ipsius acmoribus. nam ista
+commendatio puerorum, memoria et caritasamicitiae, summorum officiorum in extremo spiritu conservatioindicat innatam
+esse homini probitatem gratuitam, non invitatamvoluptatibus nec praemiorum mercedibus evocatam. quod enimtestimonium
+maius quaerimus, quae honesta et recta sint, ipsa esseoptabilia per sese, cum videamus tanta officia morientis?
+
+Sed ut epistulam laudandamarbitror eam, quam modo totidem fere verbis interpretatus sum, quamquam ea cum summa eius
+philosophia nullo modo congruebat, siceiusdem testamentum non solum philosophi gravitate, sedetiam ab ipsius
+sententia iudico discrepare. scripsit enim etmultis saepe verbis et breviter arteque in eo libro, quem modonominavi,
+mortem nihil ad nos pertinere. quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad
+nospertinere omnino. hoc ipsum elegantius poni meliusque potuit. namquod ita positum est, quod dissolutum sit, id esse
+sine sensu, ideius modi est, ut non satis plane dicat quid sit dissolutum.
+
+Sed tamen intellego quid velit.quaero autem quid sit, quod, cum dissolutione, id est morte, sensusomnis extinguatur, et
+cum reliqui nihil sit omnino, quod pertineatad nos, tam accurate tamque diligenter caveat et sanciat utAmynomachus et
+Timocrates, heredes sui, de Hermarchi sententia dentquod satis sit ad diem agendum natalem suum quotannis menseGamelione
+itemque omnibus mensibus vicesimo die lunae dent ad eorumepulas, qui una secum philosophati sint, ut et sui et
+Metrodorimemoria colatur.
+
+Haec ego non possum dicere nonesse hominis quamvis et belli et humani, sapientis vero nullo modo, physici praesertim,
+quem se ille esse vult, putare ullum essecuiusquam diem natalem. quid? idemne potest esse dies saepius, quisemel fuit?
+certe non potest. an eiusdem modi? ne id quidem, nisimulta annorum intercesserint milia, ut omnium siderum eodem,
+undeprofecta sint, fiat ad unum tempus reversio. nullus est igiturcuiusquam dies natalis. 'At habetur!' Et ego id
+scilicet nesciebam!Sed ut sit, etiamne post mortem coletur? idque testamento cavebitis, qui nobis quasi oraculum
+ediderit nihil post mortem ad nospertinere? haec non erant eius, qui innumerabilis mundosinfinitasque regiones, quarum
+nulla esset ora, nulla extremitas, mente peragravisset. num quid tale Democritus? ut alios omittam, hunc appello, quem
+ille unum secutus est.
+
+Isto modo, ne si avia quidem eius nata non esset. res tota, Torquate, nondoctorum hominum, velle post mortem epulis
+celebrari memoriam suinominis. quos quidem dies quem ad modum agatis et in quantamhominum facetorum urbanitatem
+incurratis, non dico - nihil opus estlitibus - ; tantum dico, magis fuisse vestrum agere Epicuri diemnatalem, quam
+illius testamento cavere ut ageretur.
+
+Sed ut ad propositum - de doloreenim cum diceremus, ad istam epistulam delati sumus - nunc totumillud concludi sic
+licet: qui in summo malo est, is tum, cum in eoest, non est beatus; sapiens autem semper beatus est et estaliquando in
+dolore; non est igitur summum malum dolor. Iam illudquale tandem est, bona praeterita non effluere sapienti,
+malameminisse non oportere? primum in nostrane potestate est, quidmeminerimus? Themistocles quidem, cum ei Simonides an
+quis aliusartem memoriae polliceretur, 'Oblivionis', inquit, 'mallem. Nammemini etiam quae nolo, oblivisci non possum
+quae volo.!
+
+Magno hic ingenio, sed res setamen sic habet, ut nimis imperiosi philosophi sit vetarememinisse. vide ne ista sint
+Manliana vestra aut maiora etiam, siimperes quod facere non possim. quid, si etiam iucunda memoria estpraeteritorum
+malorum? ut proverbia non nulla veriora sint quamvestra dogmata. vulgo enim dicitur: 'Iucundi acti labores', necmale
+Euripides - concludam, si potero, Latine; Graecum enim huncversum nostis omnes - : 'Suavis laborum est praeteritorum
+memoria.'Sed ad bona praeterita redeamus. quae si a vobis talia dicerentur, qualibus Caius Marius uti poterat, ut
+expulsus, egens, in paludedemersus tropaeorum recordatione levaret dolorem suum, audirem etplane probarem. nec enim
+absolvi beata vita sapientis neque adexitum perduci poterit, si prima quaeque bene ab eo consulta atquefacta ipsius
+oblivione obruentur.
+
+Sed vobis voluptatumperceptarum recordatio vitam beatam facit, et quidem corporeperceptarum. nam si quae sunt aliae,
+falsum est omnis animivoluptates esse e corporis societate. corporis autem voluptas sietiam praeterita delectat, non
+intellego, cur AristotelesSardanapalli epigramma tantopere derideat, in quo ille rex Syriaeglorietur se omnis secum
+libidinum voluptates abstulisse. Quod enimne vivus quidem, inquit, diutius sentire poterat, quam dumfruebatur, quo modo
+id potuit mortuo permanere? effluit igiturvoluptas corporis et prima quaeque avolat saepiusque relinquitcausam
+paenitendi quam recordandi. itaque beatior Africanus cumpatria illo modo loquens: 'Desine, Roma, tuos hostes'
+reliquaquepraeclare: 'Nam tibi moenimenta mei peperere labores.' Laboribushic praeteritis gaudet, tu iubes voluptatibus,
+et hic se ad earevocat, e quibus nihil umquam rettulerit ad corpus, tu totushaeres in corpore.
+
+Illud autem ipsum qui optineripotest, quod dicitis, omnis animi et voluptates et dolores adcorporis voluptates ac
+dolores pertinere? nihilne te delectatumquam - video, quicum loquar - te igitur, Torquate, ipsum per senihil delectat?
+omitto dignitatem, honestatem, speciem ipsamvirtutum, de quibus ante dictum est, haec leviora ponam: poema, orationem
+cum aut scribis aut legis, cum omnium factorum, cumregionum conquiris historiam, signum, tabula, locus amoenus, ludi,
+venatio, villa Luculli - nam si 'tuam' dicerem, latebram haberes; adcorpus diceres pertinere - sed ea, quae dixi, ad
+corpusne refers?an est aliquid, quod te sua sponte delectet? aut pertinacissimusfueris, si in eo perstiteris ad corpus
+ea, quae dixi, referri, autdeserueris totam Epicuri voluptatem, si negaveris."

@@ -1,0 +1,60 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Garland Horan"
+
+talk_title: "Extremum autem esse bonorum voluptatem ex hoc facillim!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "beginner"
+
+
+talk_abstract: "Confirmat autem illud vel maxime, quod ipsa natura, ut ait ille, sciscat et probet, id est voluptatem et dolorem. Adhaec et quae sequamur et quae fugiamus refert omnia. Quod quamquam Aristippi est a Cyrenaicisque melius liberiusquedefenditur, tamen eius modi esse iudico, ut nihil homine videatur indignius. Ad maiora enim quaedam nos natura genuit etconformavit, ut mihi quidem videtur."
+
+talk_details: "Magno hic ingenio, sed res setamen sic habet, ut nimis imperiosi philosophi sit vetarememinisse. vide ne ista sint
+Manliana vestra aut maiora etiam, siimperes quod facere non possim. quid, si etiam iucunda memoria estpraeteritorum
+malorum? ut proverbia non nulla veriora sint quamvestra dogmata. vulgo enim dicitur: 'Iucundi acti labores', necmale
+Euripides - concludam, si potero, Latine; Graecum enim huncversum nostis omnes - : 'Suavis laborum est praeteritorum
+memoria.'Sed ad bona praeterita redeamus. quae si a vobis talia dicerentur, qualibus Caius Marius uti poterat, ut
+expulsus, egens, in paludedemersus tropaeorum recordatione levaret dolorem suum, audirem etplane probarem. nec enim
+absolvi beata vita sapientis neque adexitum perduci poterit, si prima quaeque bene ab eo consulta atquefacta ipsius
+oblivione obruentur.
+
+Sed vobis voluptatumperceptarum recordatio vitam beatam facit, et quidem corporeperceptarum. nam si quae sunt aliae,
+falsum est omnis animivoluptates esse e corporis societate. corporis autem voluptas sietiam praeterita delectat, non
+intellego, cur AristotelesSardanapalli epigramma tantopere derideat, in quo ille rex Syriaeglorietur se omnis secum
+libidinum voluptates abstulisse. Quod enimne vivus quidem, inquit, diutius sentire poterat, quam dumfruebatur, quo modo
+id potuit mortuo permanere? effluit igiturvoluptas corporis et prima quaeque avolat saepiusque relinquitcausam
+paenitendi quam recordandi. itaque beatior Africanus cumpatria illo modo loquens: 'Desine, Roma, tuos hostes'
+reliquaquepraeclare: 'Nam tibi moenimenta mei peperere labores.' Laboribushic praeteritis gaudet, tu iubes voluptatibus,
+et hic se ad earevocat, e quibus nihil umquam rettulerit ad corpus, tu totushaeres in corpore.
+
+Illud autem ipsum qui optineripotest, quod dicitis, omnis animi et voluptates et dolores adcorporis voluptates ac
+dolores pertinere? nihilne te delectatumquam - video, quicum loquar - te igitur, Torquate, ipsum per senihil delectat?
+omitto dignitatem, honestatem, speciem ipsamvirtutum, de quibus ante dictum est, haec leviora ponam: poema, orationem
+cum aut scribis aut legis, cum omnium factorum, cumregionum conquiris historiam, signum, tabula, locus amoenus, ludi,
+venatio, villa Luculli - nam si 'tuam' dicerem, latebram haberes; adcorpus diceres pertinere - sed ea, quae dixi, ad
+corpusne refers?an est aliquid, quod te sua sponte delectet? aut pertinacissimusfueris, si in eo perstiteris ad corpus
+ea, quae dixi, referri, autdeserueris totam Epicuri voluptatem, si negaveris.
+
+Sed dumefficere vultis beatum sapientem, cum maximas animo voluptatespercipiat omnibusque partibus maiores quam corpore,
+quid occurratnon videtis. animi enim quoque dolores percipiet omnibus partibusmaiores quam corporis. ita miser sit
+aliquando necesse est is, quemvos beatum semper vultis esse, nec vero id, dum omnia ad voluptatemdoloremque referetis,
+efficietis umquam.
+
+Quare aliud aliquod, Torquate, hominis summum bonum reperiendum est, voluptatem bestiisconcedamus, quibus vos de summo
+bono testibus uti soletis. quid, sietiam bestiae multa faciunt duce sua quaeque natura partimindulgenter vel cum labore,
+ut in gignendo, in educando, perfacileappareat aliud quiddam iis propositum, non voluptatem?partim cursu et
+peragratione laetantur, congregatione aliae coetumquodam modo civitatis imitantur?
+
+Videmus in quodam volucriumgenere non nulla indicia pietatis, cognitionem, memoriam, in multisetiam desideria videmus.
+ergo in bestiis erunt secreta e voluptatehumanarum quaedam simulacra virtutum, in ipsis hominibus virtusnisi voluptatis
+causa nulla erit? et homini, qui ceterisanimantibus plurimum praestat, praecipue a natura nihil datum essedicemus?
+
+Nos vero, siquidem in voluptatesunt omnia, longe multumque superamur a bestiis, quibus ipsa terrafundit ex sese pastus
+varios atque abundantes nihil laborantibus, nobis autem aut vix aut ne vix quidem suppetunt multo laborequaerentibus.
+nec tamen ullo modo summum pecudis bonum et hominisidem mihi videri potest. quid enim tanto opus est instrumento
+inoptimis artibus comparandis? quid tanto concursu honestissimorumstudiorum, tanto virtutum comitatu, si ea nullam ad
+aliam rem nisiad voluptatem conquiruntur?"

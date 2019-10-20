@@ -1,0 +1,56 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Louis Cassity"
+
+talk_title: "Verum esto; consequatur summasvoluptates non modo parvo, sed pe!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "beginner"
+
+
+talk_abstract: "Quodsi corporis gravioribus morbis vitae iucunditas impeditur, quanto magis animi morbis impediri necesse est! Animiautem morbi sunt cupiditates inmensae et inanes divitiarum, gloriae, dominationis, libidinosarum etiam voluptatum."
+
+talk_details: "Sed tamen nonne reprehenderes, Epicure, luxuriosos ob eam ipsam causam, quod ita viverent, utpersequerentur cuiusque
+modi voluptates, cum esset praesertim, utais tu, summa voluptas nihil dolere? atqui reperiemus asotos primumita non
+religiosos, ut edint de patella, deinde ita mortem nontimentes, ut illud in ore habeant ex Hymnide: 'Mihi sex
+mensessatis sunt vitae, septimum Orco spondeo'. iam doloris medicamentailla Epicurea tamquam de narthecio proment: 'Si
+gravis, brevis; silongus, levis.' Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere.
+
+Quid ergo attinet dicere: 'Nihilhaberem, quod reprehenderem, si finitas cupiditates haberent'? hocest dicere: 'Non
+reprehenderem asotos, si non essent asoti.' istomodo ne improbos quidem, si essent boni viri. hic homo severusluxuriam
+ipsam per se reprehendendam non putat, et hercule, Torquate, ut verum loquamur, si summum bonum voluptas est, rectissime
+non putat. Noli enim mihi fingere asotos, ut soletis, qui in mensam vomant, et qui de conviviis auferantur
+crudiquepostridie se rursus ingurgitent, qui solem, ut aiunt, necoccidentem umquam viderint nec orientem, qui consumptis
+patrimoniisegeant. nemo nostrum istius generis asotos iucunde putat vivere.mundos, elegantis, optimis cocis, pistoribus,
+piscatu, aucupio, venatione, his omnibus exquisitis, vitantes cruditatem, quibusvinum defusum e pleno sit chrysizon, ut
+ait Lucilius, cui nihildumsitulus et sacculus abstulerit, adhibentis ludos et quae sequuntur, illa, quibus detractis
+clamat Epicurus se nescire quid sit bonum;adsint etiam formosi pueri, qui ministrent, respondeat his vestis, argentum,
+Corinthium, locus ipse, aedificium - hos ergo asotos benequidem vivere aut beate numquam dixerim.
+
+Laelius clamoressofw ille so lebat Edere compellans gumias ex ordinenostros. praeclare Laelius, et recte sofw,
+illudque vere: OPubli, o gurges, Galloni! es homo miser, inquit. Cenasti in vitanumquam bene, cum omnia in ista Consumis
+squilla atque acupenserecum decimano. is haec loquitur, qui in voluptate nihil ponens negateum bene cenare, qui omnia
+ponat in voluptate, et tamen non negatlibenter cenasse umquam Gallonium - mentiretur enim - sed bene.ita graviter et
+severe voluptatem secrevit a bono. ex quo illudefficitur, qui bene cenent omnis libenter cenare, qui libenter,
+noncontinuo bene.
+
+Prave, nequiter, turpiter cenabat; non igitur. nec lapathi suavitatem acupenseri Galloni Laeliusanteponebat, sed
+suavitatem ipsam neglegebat; quod non faceret, siin voluptate summum bonum poneret.
+
+Semovenda est igitur voluptas, nonsolum ut recta sequamini, sed etiam ut loqui deceat frugaliter. possumusne ergo in
+vita summum bonum dicere, cum id ne in cenaquidem posse videamur? Quo modo autem philosophus loquitur? 'Triagenera
+cupiditatum, naturales et necessariae, naturales et nonnecessariae, nec naturales nec necessariae.' primum
+divisitineleganter; duo enim genera quae erant, fecit tria. hoc est nondividere, sed frangere. qui haec didicerunt, quae
+ille contemnit, sic solent: 'Duo genera cupiditatum, naturales et inanes, naturalium duo, necessariae et non
+necessariae.' confecta resesset. vitiosum est enim in dividendo partem in generenumerare.
+
+Sed hoc sane concedamus. contemnitenim disserendi elegantiam, confuse loquitur. gerendus est mos, modo recte sentiat. et
+quidem illud ipsum non nimium probo ettantum patior, philosophum loqui de cupiditatibus finiendis. anpotest cupiditas
+finiri? tollenda est atque extrahenda radicitus.quis est enim, in quo sit cupiditas, quin recte cupidus dicipossit? ergo
+et avarus erit, sed finite, et adulter, verum habebitmodum, et luxuriosus eodem modo. qualis ista philosophia est,
+quaenon interitum afferat pravitatis, sed sit contenta mediocritatevitiorum? quamquam in hac divisione rem ipsam prorsus
+probo, elegantiam desidero. appellet haec desideria naturae, cupiditatisnomen servet alio, ut eam, cum de avaritia, cum
+de intemperantia, cum de maximis vitiis loquetur, tamquam capitis accuset."

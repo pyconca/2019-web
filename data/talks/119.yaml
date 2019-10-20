@@ -1,0 +1,53 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Thersa Savitts"
+
+talk_title: "Invitat igitur vera ratio bene sanos ad iustitiam, aequitatem, fidem, neque homin!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "beginner"
+- "python"
+
+
+talk_abstract: "Dic in quovis conventu te omniafacere, ne doleas. Si ne hoc quidem satis ample, satis honeste diciputas, dic te omnia etin isto magistratu et in omni vitautilitatis tuae causa facturum, nihil nisi quod expediat, nihildenique nisi tua causa:quem clamorem contionis aut quam spemconsulatus eius, qui tibi paratissimus est, futuram putas? Eamnerationem igitursequere, qua tecum ipse et cum tuis utare, profiteri et in medium proferre non audeas? At vero illa, quaePeripatetici,quae Stoici dicunt, semper tibi in ore sunt iniudiciis, in senatu."
+
+talk_details: "Tam magna neque tam praeclara ducebat quam illum ultimumcasum, quem propter fidem constantiamque susceperat, qui
+nobismiserabilis videtur audientibus, illi perpetienti erat voluptarius.non enim hilaritate nec lascivia nec risu aut
+ioco, comitelevitatis, saepe etiam tristes firmitate et constantia suntbeati.
+
+Stuprata per vim Lucretia a regisfilio testata civis se ipsa interemit. hic dolor populi Romani duceet auctore Bruto
+causa civitati libertatis fuit, ob eiusquemulieris memoriam primo anno et vir et pater eius consul estfactus. tenuis
+Lucius Verginius unusque de multis sexagesimo annopost libertatem receptam virginem filiam sua manu occidit potius, quam
+ea Ap. Claudii libidini, qui tum erat summo imperio, dederetur.
+
+Aut haec tibi, Torquate, suntvituperanda aut patrocinium voluptatis repudiandum. quod autempatrocinium aut quae ista
+causa est voluptatis, quae nec testesullos e claris viris nec laudatores poterit adhibere? ut enim nosex annalium
+monimentis testes excitamus eos, quorum omnis vitaconsumpta est in laboribus gloriosis, qui voluptatis nomen audirenon
+possent, sic in vestris disputationibus historia muta est.numquam audivi in Epicuri schola Lycurgum, Solonem, Miltiadem,
+Themistoclem, Epaminondam nominari, qui in ore sunt ceterorumomnium philosophorum. nunc vero, quoniam haec nos etiam
+tractarecoepimus, suppeditabit nobis Atticus noster e thesauris suis quoset quantos viros!
+
+Nonne melius est de his aliquidquam tantis voluminibus de Themista loqui? sint ista Graecorum;quamquam ab iis
+philosophiam et omnes ingenuas disciplinas habemus;sed tamen est aliquid, quod nobis non liceat, liceat illis.
+PugnantStoici cum Peripateticis. alteri negant quicquam esse bonum, nisiquod honestum sit, alteri plurimum se et longe
+longeque plurimumtribuere honestati, sed tamen et in corpore et extra esse quaedambona. et certamen honestum et
+disputatio splendida! omnis est enimde virtutis dignitate contentio. at cum tuis cum disseras, multasunt audienda etiam
+de obscenis voluptatibus, de quibus ab Epicurosaepissime dicitur.
+
+Non potes ergo ista tueri, Torquate, mihi crede, si te ipse et tuas cogitationes et studiaperspexeris; pudebit te,
+inquam, illius tabulae, quam Cleanthessane commode verbis depingere solebat. iubebat eos, qui audiebant, secum ipsos
+cogitare pictam in tabula Voluptatem pulcherrimovestitu et ornatu regali in solio sedentem, praesto esse Virtutesut
+ancillulas, quae nihil aliud agerent, nullum suum officiumducerent, nisi ut Voluptati ministrarent et eam tantum ad
+auremadmonerent, si modo id pictura intellegi posset, ut caveret ne quidfaceret inprudens, quod offenderet animos
+hominum, aut quicquam, equo oriretur aliquis dolor. 'Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud
+negotii nihil habemus..
+
+At negat Epicurus - hoc enimvestrum lumen est - quemquam, qui honeste non vivat, iucunde possevivere. quasi ego id
+curem, quid ille aiat aut neget. illud quaero, quid ei, qui in voluptate summum bonum ponat, consentaneum sitdicere.
+quid affers, cur Thorius, cur Caius Postumius, cur omniumhorum magister, Orata, non iucundissime vixerit? ipse negat,
+utante dixi, luxuriosorum vitam reprehendendam, nisi plane fatuisint, id est nisi aut cupiant aut metuant. quarum
+ambarum rerum cummedicinam pollicetur, luxuriae licentiam pollicetur. his enim rebusdetractis negat se reperire in
+asotorum vita quod reprehendat."

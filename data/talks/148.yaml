@@ -1,0 +1,63 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Vanessa Kelson"
+
+talk_title: "Ad altiora quaedam etmagnificentiora, mihi crede, Torquate, nati sumus, nec i!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "intermediate"
+
+
+talk_abstract: "Verum esto: verbum ipsumvoluptatis non habet dignitatem, nec nos fortasse intellegimus. Hocenim identidem dicitis, nonintellegere nos quam dicatisvoluptatem. Rem videlicet difficilem et obscuram! Individua cumdicitis et intermundia, quaenec sunt ulla nec possunt esse, intellegimus, voluptas, quae passeribus omnibus nota est, a nobisintellegi non potest? Quid, si efficio ut fateare me non modo quidsit voluptas scire - est enim iucundus motus in sensu - sed etiamquid eamtu velis esse? Tum enim eam ipsam vis, quam modo ego dixi, et nomen inponis, in motu ut sit et faciat aliquamvarietatem, tumaliam quandam summam voluptatem, quo addi nihil possit; eam tumadesse, cum dolor omnis absit; eamstabilem appellas."
+
+talk_details: "Sunt autem, qui dicant foedus esse quoddam sapientium, ut ne minus amicos quam se ipsos diligant. quod et posse fieri
+intellegimus et saepe etiam videmus, et perspicuum est nihil ad iucunde vivendum reperiri posse, quod coniunctione tali
+sit aptius. Quibus ex omnibus iudicari potest non modo non impediri rationem amicitiae, si summum bonum in voluptate
+ponatur, sed sine hoc institutionem omnino amicitiae non posse reperiri.
+
+Quapropter si ea, quae dixi, sole ipso illustriora et clariora sunt, si omnia dixi hausta e fonte naturae, si tota
+oratio nostra omnem sibi fidem sensibus confirmat, id est incorruptis atque integris testibus, si infantes pueri, mutae
+etiam bestiae paene loquuntur magistra ac duce natura nihil esse prosperum nisi voluptatem, nihil asperum nisi dolorem,
+de quibus neque depravate iudicant neque corrupte, nonne ei maximam gratiam habere debemus, qui hac exaudita quasi voce
+naturae sic eam firme graviterque comprehenderit, ut omnes bene sanos in viam placatae, tranquillae, quietae, beatae
+vitae deduceret? Qui quod tibi parum videtur eruditus, ea causa est, quod nullam eruditionem esse duxit, nisi quae
+beatae vitae disciplinam iuvaret. An ille tempus aut in poetis evolvendis, ut ego et Triarius te hortatore facimus,
+consumeret, in quibus nulla solida utilitas omnisque puerilis est delectatio, aut se, ut Plato, in musicis, geometria,
+numeris, astris contereret, quae et a falsis initiis profecta vera esse non possunt et, si essent vera, nihil afferrent,
+quo iucundius, id est quo melius viveremus, eas ergo artes persequeretur, vivendi artem tantam tamque et operosam et
+perinde fructuosam relinqueret? non ergo Epicurus ineruditus, sed ii indocti, qui, quae pueros non didicisse turpe est,
+ea putant usque ad senectutem esse discenda.
+
+Quae cum dixisset, Explicavi, inquit, sententiam meam, et eo quidem consilio, tuum iudicium ut cognoscerem, quoniam mihi
+ea facultas, ut id meo arbitratu facerem, ante hoc tempus numquam est data.
+
+Hic cum uterque me intueretur sesequead audiendum significarent paratos, Primum, inquam, deprecor, ne metamquam
+philosophum putetis scholam vobis aliquam explicaturum, quod ne in ipsis quidem philosophis magnopere umquam
+probavi.quando enim Socrates, qui parens philosophiae iure dici potest, quicquam tale fecit? eorum erat iste mos qui tum
+sophistaenominabantur, quorum e numero primus est ausus Leontinus Gorgias inconventu poscere quaestionem, id est iubere
+dicere, qua de re quisvellet audire. audax negotium, dicerem impudens, nisi hocinstitutum postea translatum ad
+philosophos nostros esset.
+
+Sed et illum, quem nominavi, etceteros sophistas, ut e Platone intellegi potest, lusos videmus aSocrate. is enim
+percontando atque interrogando elicere solebateorum opiniones, quibuscum disserebat, ut ad ea, quae iirespondissent, si
+quid videretur, diceret. qui mos cum aposterioribus non esset retentus, Arcesilas eum revocavitinstituitque ut ii, qui
+se audire vellent, non de se quaererent, sed ipsi dicerent, quid sentirent; quod cum dixissent, ille contra.sed eum qui
+audiebant, quoad poterant, defendebant sententiam suam.apud ceteros autem philosophos, qui quaesivit aliquid, tacet;
+quodquidem iam fit etiam in Academia. ubi enim is, qui audire vult, itadixit: 'Voluptas mihi videtur esse summum bonum',
+perpetua orationecontra disputatur, ut facile intellegi possit eos, qui aliquid sibivideri dicant, non ipsos in ea
+sententia esse, sed audire vellecontraria.
+
+Nos commodius agimus. non enim solumTorquatus dixit quid sentiret, sed etiam cur. ego autem arbitror, quamquam admodum
+delectatus sum eius oratione perpetua, tamencommodius, cum in rebus singulis insistas et intellegas quidquisque
+concedat, quid abnuat, ex rebus concessis concludi quodvelis et ad exitum perveniri. cum enim fertur quasi torrens
+oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihilapprehendas, nusquam orationem rapidam coerceas.
+Omnis autem inquaerendo, quae via quadam et ratione habetur, oratio praescribereprimum debet ut quibusdam in formulis ea
+res agetur, ut, inter quosdisseritur, conveniat quid sit id, de quo disseratur.
+
+Hoc positum in Phaedro a Platoneprobavit Epicurus sensitque in omni disputatione id fieri oportere.sed quod proximum
+fuit non vidit. negat enim definiri rem placere, sine quo fieri interdum non potest, ut inter eos, qui ambigunt, conveniat
+quid sit id, de quo agatur, velut in hoc ipso, de quonunc disputamus. quaerimus enim finem bonorum. possumusne hic
+scirequalis sit, nisi contulerimus inter nos, cum finem bonorumdixerimus, quid finis, quid etiam sit ipsum bonum?"

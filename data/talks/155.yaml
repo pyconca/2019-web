@@ -1,0 +1,104 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Charles Pipkins"
+
+talk_title: "Hi non viderunt, ut ad cursumequum, ad arandum bovem, ad indagandu!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "intermediate"
+
+
+talk_abstract: "Iam in altera philosophiae parte. Quae est quaerendi ac disserendi, quae logikh dicitur, iste vester plane, ut mihiquidem videtur, inermis ac nudus est. Tollit definitiones, nihil de dividendo ac partiendo docet, non quo modoefficiatur concludaturque ratio tradit, non qua via captiosa solvantur ambigua distinguantur ostendit; iudicia rerum insensibus ponit, quibus si semel aliquid falsi pro vero probatum sit, sublatum esse omne iudicium veri et falsi putat. Confirmat autem illud vel maxime, quod ipsa natura, ut ait ille, sciscat et probet, id est voluptatem et dolorem."
+
+talk_details: "Ut autem a facillimis ordiamur, prima veniat in medium Epicuri ratio, quae plerisque notissima est. quam a nobis sic
+intelleges eitam, ut ab ipsis, qui eam disciplinam probant, non soleat accuratius explicari; verum enim invenire
+volumus, non tamquam adversarium aliquem convincere. accurate autem quondam a L. Torquato, homine omni doctrina erudito,
+defensa est Epicuri sententia de voluptate, a meque ei responsum, cum C. Triarius, in primis gravis et doctus
+adolescens, ei disputationi interesset. Nam cum ad me in Cumanum salutandi causa uterque venisset, pauca primo inter nos
+de litteris, quarum summum erat in utroque studium, deinde Torquatus: Quoniam nacti te, inquit, sumus aliquando otiosum,
+certe audiam, quid sit, quod Epicurum nostrum non tu quidem oderis, ut fere faciunt, qui ab eo dissentiunt, sed certe
+non probes, eum quem ego arbitror unum vidisse verum maximisque erroribus animos hominum liberavisse et omnia
+tradidisse, quae pertinerent ad bene beateque vivendum. sed existimo te, sicut nostrum Triarium, minus ab eo delectari,
+quod ista Platonis, Aristoteli, Theophrasti orationis ornamenta neglexerit. nam illud quidem adduci vix possum, ut ea,
+quae senserit ille, tibi non vera videantur.
+
+Vide, quantum, inquam, fallare, Torquate. oratio me istius philosophi non offendit; nam et complectitur verbis, quod
+vult, et dicit plane, quod intellegam; et tamen ego a philosopho, si afferat eloquentiam, non asperner, si non habeat,
+non admodum flagitem. re mihi non aeque satisfacit, et quidem locis pluribus. sed quot homines, tot sententiae; falli
+igitur possumus.
+
+Quam ob rem tandem, inquit, non satisfacit? te enim iudicem aequum puto, modo quae dicat ille bene noris.
+
+Nisi mihi Phaedrum, inquam, tu mentitum aut Zenonem putas, quorum utrumque audivi, cum mihi nihil sane praeter
+sedulitatem probarent, omnes mihi Epicuri sententiae satis notae sunt. atque eos, quos nominavi, cum Attico nostro
+frequenter audivi, cum miraretur ille quidem utrumque, Phaedrum autem etiam amaret, cotidieque inter nos ea, quae
+audiebamus, conferebamus, neque erat umquam controversia, quid ego intellegerem, sed quid probarem.
+
+Quid igitur est? inquit; audire enim cupio, quid non probes. Principio, inquam, in physicis, quibus maxime gloriatur,
+primum totus est alienus. Democritea dicit perpauca mutans, sed ita, ut ea, quae corrigere vult, mihi quidem depravare
+videatur. ille atomos quas appellat, id est corpora individua propter soliditatem, censet in infinito inani, in quo
+nihil nec summum nec infimum nec medium nec ultimum nec extremum sit, ita ferri, ut concursionibus inter se
+cohaerescant, ex quo efficiantur ea, quae sint quaeque cernantur, omnia, eumque motum atomorum nullo a principio, sed ex
+aeterno tempore intellegi convenire. Epicurus autem, in quibus sequitur Democritum, non fere labitur. quamquam utriusque
+cum multa non probo, tum illud in primis, quod, cum in rerum natura duo quaerenda sint, unum, quae materia sit, ex qua
+quaeque res efficiatur, alterum, quae vis sit, quae quidque efficiat, de materia disseruerunt, vim et causam efficiendi
+reliquerunt. sed hoc commune vitium, illae Epicuri propriae ruinae: censet enim eadem illa individua et solida corpora
+ferri deorsum suo pondere ad lineam, hunc naturalem esse omnium corporum motum. Deinde ibidem homo acutus, cum
+illud ocurreret, si omnia deorsus e regione ferrentur et, ut dixi, ad lineam, numquam fore ut atomus altera alteram
+posset attingere itaque ** attulit rem commenticiam: declinare dixit atomum perpaulum, quo nihil posset fieri minus; ita
+effici complexiones et copulationes et adhaesiones atomorum inter se, ex quo efficeretur mundus omnesque partes mundi,
+quaeque in eo essent. Quae cum tota res (est) ficta pueriliter, tum ne efficit , quod vult. nam et ipsa
+declinatio ad libidinem fingitur - ait enim declinare atomum sine causa; quo nihil turpius physico, quam fieri quicquam
+sine causa dicere, - et illum motum naturalem omnium ponderum, ut ipse constituit, e regione inferiorem locum petentium
+sine causa eripuit atomis nec tamen id, cuius causa haec finxerat, assecutus est. Nam si omnes atomi declinabunt, nullae
+umquam cohaerescent, sive aliae declinabunt, aliae suo nutu recte ferentur, primum erit hoc quasi, provincias atomis
+dare, quae recte, quae oblique ferantur, deinde eadem illa atomorum, in quo etiam Democritus haeret, turbulenta
+concursio hunc mundi ornatum efficere non poterit. ne illud quidem physici, credere aliquid esse minimum, quod profecto
+numquam putavisset, si a Polyaeno, familiari suo, geometrica discere maluisset quam illum etiam ipsum dedocere. Sol
+Democrito magnus videtur, quippe homini erudito in geometriaque perfecto, huic pedalis fortasse; tantum enim esse
+censet, quantus videtur, vel paulo aut maiorem aut minorem. Ita, quae mutat, ea corrumpit, quae sequitur sunt tota
+Democriti, atomi, inane, imagines, quae eidola nominant, quorum incursione non solum videamus, sed etiam cogitemus;
+infinitio ipsa, quam apeirian vocant, tota ab illo est, tum innumerabiles mundi, qui et oriantur et intereant cotidie.
+Quae etsi mihi nullo modo probantur, tamen Democritum laudatum a ceteris ab hoc, qui eum unum secutus esset, nollem
+vituperatum.
+
+Iam in altera philosophiae parte. quae est quaerendi ac disserendi, quae logikh dicitur, iste vester plane, ut mihi
+quidem videtur, inermis ac nudus est. tollit definitiones, nihil de dividendo ac partiendo docet, non quo modo
+efficiatur concludaturque ratio tradit, non qua via captiosa solvantur ambigua distinguantur ostendit; iudicia rerum in
+sensibus ponit, quibus si semel aliquid falsi pro vero probatum sit, sublatum esse omne iudicium veri et falsi putat.
+
+Confirmat autem illud vel maxime, quod ipsa natura, ut ait ille, sciscat et probet, id est voluptatem et dolorem. ad
+haec et quae sequamur et quae fugiamus refert omnia. quod quamquam Aristippi est a Cyrenaicisque melius liberiusque
+defenditur, tamen eius modi esse iudico, ut nihil homine videatur indignius. ad maiora enim quaedam nos natura genuit et
+conformavit, ut mihi quidem videtur. ac fieri potest, ut errem, sed ita prorsus existimo, neque eum Torquatum, qui hoc
+primus cognomen invenerit, aut torquem illum hosti detraxisse, ut aliquam ex eo perciperet corpore voluptatem, aut cum
+Latinis tertio consulatu conflixisse apud Veserim propter voluptatem; quod vero securi percussit filium, privavisse se
+etiam videtur multis voluptatibus, cum ipsi naturae patrioque amori praetulerit ius maiestatis atque imperii. quid? T.
+Torquatus, is qui consul cum Cn. Octavio fuit, cum illam severitatem in eo filio adhibuit, quem in adoptionem D. Silano
+emancipaverat, ut eum Macedonum legatis accusantibus, quod pecunias praetorem in provincia cepisse arguerent, causam
+apud se dicere iuberet reque ex utraque parte audita pronuntiaret eum non talem videri fuisse in imperio, quales eius
+maiores fuissent, et in conspectum suum venire vetuit, numquid tibi videtur de voluptatibus suis cogitavisse?
+
+Sed ut omittam pericula, labores, dolorem etiam, quem optimus quisque pro patria et pro suis suscipit, ut non modo
+nullam captet, sed etiam praetereat omnes voluptates, dolores denique quosvis suscipere malit quam deserere ullam
+officii partem, ad ea, quae hoc non minus declarant, sed videntur leviora, veniamus. Quid tibi, Torquate, quid huic
+Triario litterae, quid historiae cognitioque rerum, quid poetarum evolutio, quid tanta tot versuum memoria voluptatis
+affert? nec mihi illud dixeris: 'Haec enim ipsa mihi sunt voluptati, et erant illa Torquatis.' Numquam hoc ita defendit
+Epicurus neque Metrodorus aut quisquam eorum, qui aut saperet aliquid aut ista didicisset. et quod quaeritur saepe, cur
+tam multi sint Epicurei, sunt aliae quoque causae, sed multitudinem haec maxime allicit, quod ita putant dici ab illo,
+recta et honesta quae sint, ea facere ipsa per se laetitiam, id est voluptatem. homines optimi non intellegunt totam
+rationem everti, si ita res se habeat. nam si concederetur, etiamsi ad corpus nihil referatur, ista sua sponte et per se
+esse iucunda, per se esset et virtus et cognitio rerum, quod minime ille vult expetenda.
+
+Haec igitur Epicuri non probo, inquam. De cetero vellem equidem aut ipse doctrinis fuisset instructior - est enim, quod
+tibi ita videri necesse est, non satis politus iis artibus, quas qui tenent, eruditi appellantur - aut ne deterruisset
+alios a studiis. quamquam te quidem video minime esse deterritum.
+
+Quae cum dixissem, magis ut illum provocarem quam ut ipse loquerer, tum Triarius leniter arridens: Tu quidem, inquit,
+totum Epicurum paene e philosophorum choro sustulisti. Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere,
+quid diceret? Aliena dixit in physicis nec ea ipsa, quae tibi probarentur; si qua in iis corrigere voluit, deteriora
+fecit. disserendi artem nullam habuit. voluptatem cum summum bonum diceret, primum in eo ipso parum vidit, deinde hoc
+quoque alienum; nam ante Aristippus, et ille melius. addidisti ad extremum etiam indoctum fuisse."

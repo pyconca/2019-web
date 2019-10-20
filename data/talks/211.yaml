@@ -1,0 +1,61 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Joseph Sutton"
+
+talk_title: "Ut enim, inquit, nemo dici!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "expert"
+- "talk"
+- "python"
+
+
+talk_abstract: "Est, ut dicis, inquam. Sed tamen omne, quod de re bona dilucide dicitur, mihi praeclare dici videtur."
+
+talk_details: "Hoc vero non videre, maximoargumento esse voluptatem illam, qua sublata neget se intellegereomnino quid sit bonum - eam
+autem ita persequitur: quae palatopercipiatur, quae auribus; cetera addit, quae si appelles, honospraefandus sit - hoc
+igitur, quod solum bonum severus et gravisphilosophus novit, idem non videt ne expetendum quidem esse, quodeam
+voluptatem hoc eodem auctore non desideremus, cum dolorecareamus.
+
+Quam haec sunt contraria! hic sidefinire, si dividere didicisset, si loquendi vim, si deniqueconsuetudinem verborum
+teneret, numquam in tantas salebrasincidisset. nunc vides, quid faciat. quam nemo umquam voluptatemappellavit, appellat;
+quae duo sunt, unum facit. hanc in motuvoluptatem - sic enim has suaves et quasi dulces voluptatesappellat - interdum
+ita extenuat, ut M'. Curium putes loqui, interdum ita laudat, ut quid praeterea sit bonum neget se posse nesuspicari
+quidem. quae iam oratio non a philosopho aliquo, sed acensore opprimenda est. non est enim vitium in oratione solum,
+sedetiam in moribus. luxuriam non reprehendit, modo sit vacua infinitacupiditate et timore. hoc loco discipulos quaerere
+videtur, ut, quiasoti esse velint, philosophi ante fiant.
+
+A primo, ut opinor, animantiumortu petitur origo summi boni. 'Simul atque natum animal est, gaudet voluptate et eam
+appetit ut bonum, aspernatur dolorem utmalum.' De malis autem et bonis ab iis animalibus, quae nondumdepravata sint, ait
+optime iudicari. haec et tu ita posuisti, etverba vestra sunt. quam multa vitiosa! summum enim bonum et malumvagiens
+puer utra voluptate diiudicabit, stante an movente?quoniam, si dis placet, ab Epicuro loqui discimus. si stante,
+hocnatura videlicet vult, salvam esse se, quod concedimus; si movente, quod tamen dicitis, nulla turpis voluptas erit,
+quaepraetermittenda sit, et simul non proficiscitur animal illud modonatum a summa voluptate, quae est a te posita in
+non dolendo.
+
+Nec tamen argumentum hoc Epicurusa parvis petivit aut etiam a bestiis, quae putat esse speculanaturae, ut diceret ab iis
+duce natura hanc voluptatem expeti nihildolendi. nec enim haec movere potest appetitum animi, nec ullumhabet ictum, quo
+pellat animum, status hic non dolendi, itaque inhoc eodem peccat Hieronymus. at ille pellit, qui permulcet
+sensumvoluptate. itaque Epicurus semper hoc utitur, ut probet voluptatemnatura expeti, quod ea voluptas, quae in motu
+sit, et parvos ad sealliciat et bestias, non illa stabilis, in qua tantum inest nihildolere. qui igitur convenit ab alia
+voluptate dicere naturamproficisci, in alia summum bonum ponere?
+
+Bestiarum vero nullum iudiciumputo. quamvis enim depravatae non sint, pravae tamen esse possunt.ut bacillum aliud est
+inflexum et incurvatum de industria, aliudita natum, sic ferarum natura non est illa quidem depravata maladisciplina,
+sed natura sua. nec vero ut voluptatem expetat, naturamovet infantem, sed tantum ut se ipse diligat, ut integrum
+sesalvumque velit. omne enim animal, simul et ortum est, se ipsum etomnes partes suas diligit duasque, quae maximae
+sunt, in primisamplectitur, animum et corpus, deinde utriusque partes. nam sunt etin animo praecipua quaedam et in
+corpore, quae cum leviter agnovit, tum discernere incipit, ut ea, quae prima data sunt natura, appetatasperneturque
+contraria.
+
+In his primis naturalibus voluptasinsit necne, magna quaestio est. nihil vero putare esse praetervoluptatem, non membra,
+non sensus, non ingenii motum, nonintegritatem corporis, non valitudinem , summae mihividetur inscitiae. Atque ab isto
+capite fluere necesse est omnemrationem bonorum et malorum. Polemoni et iam ante Aristoteli eaprima visa sunt, quae
+paulo ante dixi. ergo nata est sententiaveterum Academicorum et Peripateticorum, ut finem bonorum dicerentsecundum
+naturam vivere, id est virtute adhibita frui primis anatura datis. Callipho ad virtutem nihil adiunxit nisi
+voluptatem, Diodorus vacuitatem doloris. * * his omnibus, quos dixi, consequentes fines sunt bonorum, Aristippo simplex
+voluptas, Stoicis consentire naturae, quod esse volunt e virtute, id esthoneste, vivere, quod ita interpretantur: vivere
+cum intellegentiarerum earum, quae natura evenirent, eligentem ea, quae essentsecundum naturam, reicientemque contraria."

@@ -2,30 +2,18 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Elizabeth Robinson"
+speaker_name: "Gloria Briscoe"
 
-talk_title: "Eademque ratione ne temperantia!"
+talk_title: "Sed iam sentio m!"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "beginner"
+- "intermediate"
 
 
-talk_abstract: "Aut haec tibi, Torquate, suntvituperanda aut patrocinium voluptatis repudiandum. Quod autempatrocinium aut quae istacausa est voluptatis, quae nec testesullos e claris viris nec laudatores poterit adhibere? Ut enim nosex annaliummonimentis testes excitamus eos, quorum omnis vitaconsumpta est in laboribus gloriosis, qui voluptatis nomen audirenonpossent, sic in vestris disputationibus historia muta est."
+talk_abstract: "O praeclaram beate vivendi et apertam et simplicem et directam viam! Eum enim certe nihil homini possit melius esse quamvacare omni dolore et molestia perfruique maximis et animi et corporis voluptatibus, videtisne quam nihilpraetermittatur quod vitam adiuvet, quo facilius id, quod propositum est, summum bonum consequamur? Clamat Epicurus, isquem vos nimis voluptatibus esse deditum dicitis; non posse iucunde vivi, nisi sapienter, honeste iusteque vivatur, necsapienter, honeste, iuste, nisi iucunde. Neque enim civitas in seditione beata esse potest nec in discordia dominorumdomus; quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberaepotest."
 
-talk_details: "Nec vero ignoro varias philosophorum fuisse sententias, eorum dico, qui summum bonum, quod ultimum appello, in animo
-ponerent. quae quamquam vitiose quidam secuti sunt, tamen non modo iis tribus, qui virtutem a summo bono segregaverunt,
-cum aut voluptatem aut vacuitatem doloris aut prima naturae in summis bonis ponerent, sed etiam alteris tribus, qui
-mancam fore putaverunt sine aliqua accessione virtutem ob eamque rem trium earum rerum, quas supra dixi, singuli
-singulas addiderunt, - his tamen omnibus eos antepono, cuicuimodi sunt, qui summum bonum in animo atque in virtute
-posuerunt. sed sunt tamen perabsurdi et ii, qui cum scientia vivere ultimum bonorum, et qui nullam rerum
-differentiam esse dixerunt, atque ita sapientem beatum fore, nihil aliud alii momento ullo anteponentem, , ut
-quidam Academici constituisse dicuntur, extremum bonorum et summum munus esse sapientis obsistere visis adsensusque suos
-firme sustinere. his singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent. quid autem
-apertius quam, si selectio nulla sit ab iis rebus, quae contra naturam sint, earum rerum, quae sint secundum naturam,
-tollatur omnis ea, quae quaeratur laudeturque, prudentia?
-
-Circumscriptis igitur iis sententiis, quas posui, et iis, si quae similes earum sunt, relinquitur ut summum bonum sit
+talk_details: "Circumscriptis igitur iis sententiis, quas posui, et iis, si quae similes earum sunt, relinquitur ut summum bonum sit
 vivere scientiam adhibentem earum rerum, quae natura eveniant, seligentem quae secundum naturam et quae contra naturam
 sint reicientem, id est convenienter congruenterque naturae vivere.
 
@@ -113,4 +101,29 @@ sit et valere, coniunctum utrumque magis expetendum sit quam sapere solum, neque
 dignum, pluris sit coniunctum quam sapere ipsum separatim. nam qui valitudinem aestimatione aliqua dignam iudicamus
 neque eam tamen in bonis ponimus, idem censemus nullam esse tantam aestimationem, ut ea virtuti anteponatur. quod idem
 Peripatetici non tenent, quibus dicendum est, quae et honesta actio sit et sine dolore, eam magis esse expetendam, quam
-si esset eadem actio cum dolore. nobis aliter videtur, recte secusne, postea; sed potestne rerum maior esse dissensio?"
+si esset eadem actio cum dolore. nobis aliter videtur, recte secusne, postea; sed potestne rerum maior esse dissensio?
+
+Ut enim obscuratur et offunditur luce solis lumen lucernae, et ut interit magnitudine maris Aegaei stilla mellis,
+et ut in divitiis Croesi teruncii accessio et gradus unus in ea via, quae est hinc in Indiam, sic, cum sit is bonorum
+finis, quem Stoici dicunt, omnis ista rerum corporearum aestimatio splendore virtutis et magnitudine obscuretur et
+obruatur atque intereat necesse est. et quem ad modum oportunitas - sic enim appellemus elairsn - non fit maior
+productione temporis - habent enim suum modum, quae oportuna dicuntur - sic recta effectio - katyvsin enim ita appello,
+quoniam rectum factum katyvma - recta igitur effectio, item convenientia, denique ipsum bonum, quod in eo positum est,
+ut naturae consentiat, crescendi accessionem nullam habet. ut enim oportunitas illa, sic haec, de quibus dixi, non
+fiunt temporis productione maiora, ob eamque causam Stoicis non videtur optabilior nec magis expetenda beata vita, si
+sit longa, quam si brevis, utunturque simili: ut, si cothurni laus illa esset, ad pedem apte convenire, neque multi
+cothurni paucis anteponerentur nec maiores minoribus, sic, quorum omne bonum convenientia atque oportunitate finitur,
+nec plura paucioribus nec longinquiora brevioribus anteponent. Nec vero satis acute dicunt: si bona valitudo pluris
+aestimanda sit longa quam brevis, sapientiae quoque usus longissimus quisque sit plurimi. non intellegunt valitudinis
+aestimationem spatio iudicari, virtutis oportunitate, ut videantur qui illud dicant idem hoc esse dicturi, bonam mortem
+et bonum partum meliorem longum esse quam brevem. non vident alia brevitate pluris aestimari, alia diuturnitate. 
+itaque consentaneum est his, quae dicta sunt, ratione illorum, qui illum bonorum finem, quod appellamus extremum, quod
+ultimum, crescere putent posse - isdem placere esse alium alio et sapientiorem itemque alium magis alio vel peccare vel
+recte facere, quod nobis non licet dicere, qui crescere bonorum finem non putamus. ut enim qui demersi sunt in aqua
+nihilo magis respirare possunt, si non longe absunt a summo, ut iam iamque possint emergere, quam si etiam tum essent in
+profundo, nec catulus ille, qui iam adpropinquat ut videat, plus cernit quam is, qui modo est natus, item qui processit
+aliquantum ad virtutis habitum nihilo minus in miseria est quam ille, qui nihil processit.
+
+Haec mirabilia videri intellego, sed cum certe superiora firma ac vera sint, his autem ea consentanea et consequentia,
+ne de horum quidem est veritate dubitandum. sed quamquam negant nec virtutes nec vitia crescere, tamen utrumque eorum
+fundi quodam modo et quasi dilatari putant."

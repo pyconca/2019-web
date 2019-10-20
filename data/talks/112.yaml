@@ -1,0 +1,105 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "John Ebersole"
+
+talk_title: "At multis se probavit. Et quidemiure fortasse, sed tamen no?"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "expert"
+
+
+talk_abstract: "Eademque ratione ne temperantiam quidem propter se expetendam esse dicemus, sed quia pacem animis afferat et eos quasiconcordia quadam placet ac leniat. Temperantia est enim, quae in rebus aut expetendis aut fugiendis ut rationem sequamurmonet. Nec enim satis est iudicare quid faciendum non faciendumve sit, sed stare etiam oportet in eo, quod sitiudicatum. Plerique autem, quod tenere atque servare id, quod ipsi statuerunt, non possunt, victi et debilitati obiectaspecie voluptatis tradunt se libidinibus constringendos nec quid eventurum sit provident ob eamque causam proptervoluptatem et parvam et non necessariam et quae vel aliter pararetur et qua etiam carere possent sine dolore tum inmorbos gravis, tum in damna, tum in dedecora incurrunt, saepe etiam legum iudiciorumque poenis obligantur."
+
+talk_details: "Quid enim necesse est, tamquammeretricem in matronarum coetum, sic voluptatem in virtutumconcilium adducere? invidiosum
+nomen est, infame, suspectum. itaquehoc frequenter dici solet a vobis, non intellegere nos, quam dicatEpicurus
+voluptatem. quod quidem mihi si quando dictum est - estautem dictum non parum saepe - etsi satis clemens sum
+indisputando, tamen interdum soleo subirasci. egone non intellego, quid sit *don Graece, Latine voluptas? utram tandem
+linguamnescio? deinde qui fit, ut ego nesciam, sciant omnes, quicumqueEpicurei esse voluerunt? quod vestri quidem vel
+optime disputant, nihil opus esse eum, qui philosophus futurus sit, scire litteras.itaque ut maiores nostri ab aratro
+adduxerunt Cincinnatum illum, utdictator esset, sic vos de pagis omnibus colligitis bonos illosquidem viros, sed certe
+non pereruditos.
+
+Ergo illi intellegunt quidEpicurus dicat, ego non intellego? ut scias me intellegere, primumidem esse dico voluptatem,
+quod ille *donn. et quidem saepequaerimus verbum Latinum par Graeco et quod idem valeat; hic nihilfuit, quod
+quaereremus. nullum inveniri verbum potest quod magisidem declaret Latine, quod Graece, quam declarat voluptas.
+huicverbo omnes, qui ubique sunt, qui Latine sciunt, duas ressubiciunt, laetitiam in animo, commotionem suavem
+iucunditatis incorpore. nam et ille apud Trabeam 'voluptatem animi nimiam'laetitiam dicit eandem, quam ille Caecilianus,
+qui 'omnibuslaetitiis laetum' esse se narrat. sed hoc interest, quod voluptasdicitur etiam in animo - vitiosa res, ut
+Stoici putant, qui eam sicdefiniunt: sublationem animi sine ratione opinantis se magno bonofrui - non dicitur laetitia
+nec gaudium in corpore.
+
+In eo autem voluptas omnium Latineloquentium more ponitur, cum percipitur ea, quae sensum aliquemmoveat, iucunditas.
+hanc quoque iucunditatem, si vis, transfer inanimum; iuvare enim in utroque dicitur, ex eoque iucundum, modointellegas
+inter illum, qui dicat: 'Tanta laetitia auctus sum, utnihil constet', et eum, qui: 'Nunc demum mihi animus ardet',
+quorumalter laetitia gestiat, alter dolore crucietur, esse illum medium:'Quamquam haec inter nos nuper notitia admodum
+est', qui neclaetetur nec angatur, itemque inter eum, qui potiatur corporisexpetitis voluptatibus, et eum, qui crucietur
+summis doloribus, esse eum, qui utroque careat.
+
+Satisne igitur videor vim verborumtenere, an sum etiam nunc vel Graece loqui vel Latine docendus? ettamen vide, ne, si
+ego non intellegam quid Epicurus loquatur, cumGraece, ut videor, luculenter sciam, sit aliqua culpa eius, qui
+italoquatur, ut non intellegatur. quod duobus modis sine reprehensionefit, si aut de industria facias, ut Heraclitus,
+'cognomento quiskoteinw perhibetur, quia de natura nimis obscurememoravit', aut cum rerum obscuritas, non verborum,
+facit ut nonintellegatur oratio, qualis est in Timaeo Platonis. Epicurus autem, ut opinor, nec non vult, si possit,
+plane et aperte loqui, nec dere obscura, ut physici, aut artificiosa, ut mathematici, sed deillustri et facili et iam in
+vulgus pervagata loquitur. Quamquamnon negatis nos intellegere quid sit voluptas, sed quid ille dicat.e quo efficitur,
+non ut nos non intellegamus quae vis sit istiusverbi, sed ut ille suo more loquatur, nostrum neglegat.
+
+Si enim idem dicit, quodHieronymus, qui censet summum bonum esse sine ulla molestia vivere, cur mavult dicere voluptatem
+quam vacuitatem doloris, ut illefacit, qui quid dicat intellegit? sin autem voluptatem putatadiungendam eam, quae sit in
+motu - sic enim appellat hanc dulcem:'in motu', illam nihil dolentis 'in stabilitate'-, quid tendit?cum efficere non
+possit ut cuiquam, qui ipse sibi notus sit, hocest qui suam naturam sensumque perspexerit, vacuitas doloris etvoluptas
+idem esse videatur. hoc est vim afferre, Torquate, sensibus, extorquere ex animis cognitiones verborum, quibus
+inbutisumus. quis enim est, qui non videat haec esse in natura rerumtria? unum, cum in voluptate sumus, alterum, cum in
+dolore, tertiumhoc, in quo nunc equidem sum, credo item vos, nec in dolore nec involuptate; ut in voluptate sit, qui
+epuletur, in dolore, quitorqueatur. tu autem inter haec tantam multitudinem hominuminteriectam non vides nec laetantium
+nec dolentium?
+
+Non prorsus, inquit, omnisque, quisine dolore sint, in voluptate, et ea quidem summa, esse dico. Ergoin eadem voluptate
+eum, qui alteri misceat mulsum ipse non sitiens, et eum, qui illud sitiens bibat? Tum ille: Finem, inquit, interrogandi,
+si videtur, quod quidem ego a principio ita me malledixeram hoc ipsum providens, dialecticas captiones. Rhetoriceigitur,
+inquam, nos mavis quam dialectice disputare? Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam
+philosophorumsit. Zenonis est, inquam, hoc Stoici. omnem vim loquendi, ut iamante Aristoteles, in duas tributam esse
+partes, rhetoricam palmae, dialecticam pugni similem esse dicebat, quod latius loquerenturrhetores, dialectici autem
+compressius. obsequar igitur voluntatituae dicamque, si potero, rhetorice, sed hac rhetoricaphilosophorum, non nostra
+illa forensi, quam necesse est, cumpopulariter loquatur, esse interdum paulo hebetiorem.
+
+Sed dum dialecticam, Torquate, contemnit Epicurus, quae una continet omnem et perspiciendi quid inquaque re sit
+scientiam et iudicandi quale quidque sit et rationeac via disputandi, ruit in dicendo, ut mihi quidem videtur, nec ea,
+quae docere vult, ulla arte distinguit, ut haec ipsa, quae modoloquebamur. summum a vobis bonum voluptas dicitur.
+aperiendum estigitur, quid sit voluptas; aliter enim explicari, quod quaeritur, non potest. quam si explicavisset, non
+tam haesitaret. aut enim eamvoluptatem tueretur, quam Aristippus, id est, qua sensus dulciterac iucunde movetur, quam
+etiam pecudes, si loqui possent, appellarent voluptatem, aut, si magis placeret suo more loqui, quamut Omnes Danai atque
+Mycenenses. Attica pubes reliquique Graeci, qui hoc anapaesto citantur, hoc non dolere solum voluptatis
+nomineappellaret, illud Aristippeum contemneret, aut, si utrumqueprobaret, ut probat, coniungeret doloris vacuitatem cum
+voluptateet duobus ultimis uteretur.
+
+Multi enim et magni philosophihaec ultima bonorum iuncta fecerunt, ut Aristoteles virtutis usumcum vitae perfectae
+prosperitate coniunxit, Callipho adiunxit adhonestatem voluptatem, Diodorus ad eandem honestatem addiditvacuitatem
+doloris. idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi
+veteresententia. illi enim inter se dissentiunt. propterea singulisfinibus utuntur et, cum uterque Graece egregie
+loquatur, necAristippus, qui voluptatem summum bonum dicit, in voluptate ponitnon dolere, neque Hieronymus, qui summum
+bonum statuit non dolere, voluptatis nomine umquam utitur pro illa indolentia, quippe qui nein expetendis quidem rebus
+numeret voluptatem.
+
+Duae sunt enim res quoque, ne tuverba solum putes. unum est sine dolore esse, alterum cumvoluptate. vos ex his tam
+dissimilibus rebus non modo nomen unum - nam id facilius paterer - sed etiam rem unam ex duabus facereconamini, quod
+fieri nullo modo potest. hic, qui utrumque probat, ambobus debuit uti, sicut facit re, neque tamen dividit verbis.
+cumenim eam ipsam voluptatem, quam eodem nomine omnes appellamus, laudat locis plurimis, audet dicere ne suspicari
+quidem se ullumbonum seiunctum ab illo Aristippeo genere voluptatis, atque ibi hocdicit, ubi omnis eius est oratio de
+summo bono. in alio vero libro, in quo breviter comprehensis gravissimis sententiis quasi oraculaedidisse sapientiae
+dicitur, scribit his verbis, quae nota tibiprofecto, Torquate, sunt - quis enim vestrum non edidicit Epicurikuraw
+djaw, id est quasi maxime ratas, quiagravissimae sint ad beate vivendum breviter enuntiataesententiae?-animadverte
+igitur rectene hanc sententiaminterpreter: !
+
+Si ea, quae sunt luxuriosisefficientia voluptatum, liberarent eos deorum et mortis et dolorismetu docerentque qui essent
+fines cupiditatum, nihil haberemus, cum undique complerentur voluptatibusnec haberent ulla ex
+parte aliquid aut dolens aut aegrum, id estautem malum.' Hoc loco tenere se Triarius non potuit. Obsecro, inquit,
+Torquate, haec dicit Epicurus? quod mihi quidem visus est, cum sciret, velle tamen confitentem audire Torquatum. At ille
+nonpertimuit saneque fidenter: Istis quidem ipsis verbis, inquit; sedquid sentiat, non videtis. Si alia sentit, inquam,
+alia loquitur, numquam intellegam quid sentiat; sed plane dicit quod intellegit.idque si ita dicit, non esse
+reprehendendos luxuriosos, sisapientes sint, dicit absurde, similiter et si dicat nonreprehendendos parricidas, si nec
+cupidi sint nec deos metuant necmortem nec dolorem. et tamen quid attinet luxuriosis ullamexceptionem dari aut fingere
+aliquos, qui, cum luxuriose viverent, a summo philosopho non reprehenderentur eo nomine dumtaxat, ceteracaverent?"

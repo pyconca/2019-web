@@ -1,0 +1,73 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Dorothy Anderson"
+
+talk_title: "Haec igitur Epicuri non probo, inquam. De cetero velle?"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "expert"
+
+
+talk_abstract: "Sed haec quidem liberius ab eodicuntur et saepius. Quod equidem non reprehendo; est enim tantiphilosophi tamque nobilisaudacter sua decreta defendere. Sed tamenex eo, quod eam voluptatem, quam omnes gentes hoc nomine appellant, videturamplexari saepe vehementius, in magnis interdum versaturangustiis, ut hominum conscientia remota nihil tam turpe sit,quodvoluptatis causa non videatur esse facturus. Deinde, ubierubuit - vis enim est permagna naturae - confugit illuc,ut negetaccedere quicquam posse ad voluptatem nihil dolentis. At iste nondolendi status non vocatur voluptas. 'Nonlaboro', inquit, 'denomine'."
+
+talk_details: "Occultum facinus esse potuerit, gaudebit; deprehensus omnem poenam contemnet. erit enim instructusad mortem
+contemnendam, ad exilium, ad ipsum etiam dolorem. quemquidem vos, cum improbis poenam proponitis, inpetibilem facitis,
+cum sapientem semper boni plus habere vultis, tolerabilem. Sedfinge non solum callidum eum, qui aliquid improbe faciat,
+verumetiam praepotentem, ut M. Crassus fuit, qui tamen solebat uti suobono, ut hodie est noster Pompeius, cui recte
+facienti gratia esthabenda; esse enim quam vellet iniquus iustus poterat inpune. quammulta vero iniuste fieri possunt,
+quae nemo possitreprehendere!
+
+Si te amicus tuus moriensrogaverit, ut hereditatem reddas suae filiae, nec usquam idscripserit, ut scripsit Fadius, nec
+cuiquam dixerit, quid facies?tu quidem reddes; ipse Epicurus fortasse redderet, ut SextusPeducaeus, Sex. F., is qui hunc
+nostrum reliquit effigiem ethumanitatis et probitatis suae filium, cum doctus, tum omnium viroptimus et iustissimus, cum
+sciret nemo eum rogatum a Caio Plotio, equite Romano splendido, Nursino, ultro ad mulierem venit eiquenihil opinanti
+viri mandatum euit hereditatemque reddidit. sed egoex te quaero, quoniam idem tu certe fecisses, nonne intellegas
+eomaiorem vim esse naturae, quod ipsi vos, qui omnia ad vestrumcommodum et, ut ipsi dicitis, ad voluptatem referatis,
+tamen eafaciatis, e quibus appareat non voluptatem vos, sed officium sequi, plusque rectam naturam quam rationem pravam
+valere.
+
+Si scieris, inquit Carneades, aspidem occulte latere uspiam, et velle aliquem inprudentem supeream assidere, cuius mors
+tibi emolumentum futura sit, improbefeceris, nisi monueris ne assidat, sed inpunite tamen; scisse enimte quis coarguere
+possit? Sed nimis multa. perspicuum est enim, nisi aequitas, fides, iustitia proficiscantur a natura, et si omniahaec ad
+utilitatem referantur, virum bonum non posse reperiri;deque his rebus satis multa in nostris de re publica libris
+suntdicta a Laelio.
+
+Transfer idem ad modestiam veltemperantiam, quae est moderatio cupiditatum rationi oboediens. satisne ergo pudori
+consulat, si quis sine teste libidini pareat?an est aliquid per se ipsum flagitiosum, etiamsi nulla comiteturinfamia?
+Quid? fortes viri voluptatumne calculis subductis proeliumineunt, sanguinem pro patria profundunt, an quodam animi
+ardoreatque impetu concitati? utrum tandem censes, Torquate, Imperiosumillum, si nostra verba audiret, tuamne de se
+orationem libentiusauditurum fuisse an meam, cum ego dicerem nihil eum fecisse suacausa omniaque rei publicae, tu contra
+nihil nisi sua? si vero idetiam explanare velles apertiusque diceres nihil eum fecisse nisivoluptatis causa, quo modo
+eum tandem laturum fuisse existimas?
+
+Esto, fecerit, si ita vis, Torquatus propter suas utilitates - malo enim dicere quamvoluptates, in tanto praesertim viro
+- num etiam eius collega P.Decius, princeps in ea familia consulatus, cum se devoverat et equoadmisso in mediam aciem
+Latinorum irruebat, aliquid de voluptatibussuis cogitabat? ubi ut eam caperet aut quando? cum sciret confestimesse
+moriendum eamque mortem ardentiore studio peteret, quamEpicurus voluptatem petendam putat. quod quidem eius factum
+nisiesset iure laudatum, non esset imitatus quarto consulatu suofilius, neque porro ex eo natus cum Pyrrho bellum gerens
+consulcecidisset in proelio seque e continenti genere tertiam victimamrei publicae praebuisset.
+
+Contineo me ab exemplis. Graecishoc modicum est: Leonidas, Epaminondas, tres aliqui aut quattuor;ego si nostros
+colligere coepero, perficiam illud quidem, ut sevirtuti tradat constringendam voluptas, sed dies me deficiet, et, ut
+Aulus Varius, qui est habitus iudex durior, dicere consessorisolebat, cum datis testibus alii tamen citarentur: 'Aut hoc
+testiumsatis est, aut nescio, quid satis sit,' sic a me satis datum esttestium. Quid enim? te ipsum, dignissimum
+maioribus tuis, voluptasne induxit, ut adolescentulus eriperes P. Sullaeconsulatum? quem cum ad patrem tuum rettulisses,
+fortissimum virum, qualis ille vel consul vel civis cum semper, tum post consulatumfuit! quo quidem auctore nos ipsi ea
+gessimus, ut omnibus potiusquam ipsis nobis consuluerimus.
+
+At quam pulchre dicere videbare, cum ex altera parte ponebas cumulatum aliquem plurimis et maximisvoluptatibus nullo nec
+praesenti nec futuro dolore, ex altera autemcruciatibus maximis toto corpore nulla nec adiuncta nec speratavoluptate, et
+quaerebas, quis aut hoc miserior aut superiore illobeatior; deinde concludebas summum malum esse dolorem, summum
+bonumvoluptatem! Lucius Thorius Balbus fuit, Lanuvinus, quem meminissetu non potes. is ita vivebat, ut nulla tam
+exquisita possetinveniri voluptas, qua non abundaret. erat et cupidus voluptatum eteius generis intellegens et copiosus,
+ita non superstitiosus, utilla plurima in sua patria sacrificia et fana contemneret, ita nontimidus ad mortem, ut in
+acie sit ob rem publicam interfectus.
+
+Cupiditates non Epicuri divisionefiniebat, sed sua satietate. habebat tamen rationem valitudinis:utebatur iis
+exercitationibus, ut ad cenam et sitiens et esuriensveniret, eo cibo, qui et suavissimus esset et idem facillimus
+adconcoquendum, vino et ad voluptatem et ne noceret. cetera illaadhibebat, quibus demptis negat se Epicurus intellegere
+quid sitbonum. aberat omnis dolor, qui si adesset, nec molliter ferret ettamen medicis plus quam philosophis uteretur.
+color egregius, integra valitudo, summa gratia, vita denique conferta voluptatumomnium varietate."

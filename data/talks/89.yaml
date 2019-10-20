@@ -1,0 +1,42 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Martha Delarosa"
+
+talk_title: "Sed tamen intellego quid velit.quaero autem quid sit, quod, cu."
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "intermediate"
+
+
+talk_abstract: "Id qui in una virtute ponunt et splendore nominis capti quid natura postulet non intellegunt, errore maximo, si Epicurumaudire voluerint, liberabuntur: istae enim vestrae eximiae pulchraeque virtutes nisi voluptatem efficerent, quis eas autlaudabilis aut expetendas arbitraretur? Ut enim medicorum scientiam non ipsius artis, sed bonae valetudinis causaprobamus, et gubernatoris ars, quia bene navigandi rationem habet, utilitate, non arte laudatur, sic sapientia, quae arsvivendi putanda est, non expeteretur, si nihil efficeret; nunc expetitur, quod est tamquam artifex conquirendae etcomparandae voluptatis - Quam autem ego dicam voluptatem, iam videtis, ne invidia verbi labefactetur oratio mea-. Nam cum ignoratione rerum bonarum et malarum maxime hominum vita vexetur, ob eumque errorem et voluptatibus maximissaepe priventur et durissimis animi doloribus torqueantur, sapientia est adhibenda, quae et terroribus cupiditatibusquedetractis et omnium falsarum opinionum temeritate derepta certissimam se nobis ducem praebeat ad voluptatem. Sapientiaenim est una, quae maestitiam pellat ex animis, quae nos exhorrescere metu non sinat. Qua praeceptrice in tranquillitatevivi potest omnium cupiditatum ardore restincto."
+
+talk_details: "At negat Epicurus - hoc enimvestrum lumen est - quemquam, qui honeste non vivat, iucunde possevivere. quasi ego id
+curem, quid ille aiat aut neget. illud quaero, quid ei, qui in voluptate summum bonum ponat, consentaneum sitdicere.
+quid affers, cur Thorius, cur Caius Postumius, cur omniumhorum magister, Orata, non iucundissime vixerit? ipse negat,
+utante dixi, luxuriosorum vitam reprehendendam, nisi plane fatuisint, id est nisi aut cupiant aut metuant. quarum
+ambarum rerum cummedicinam pollicetur, luxuriae licentiam pollicetur. his enim rebusdetractis negat se reperire in
+asotorum vita quod reprehendat.
+
+Non igitur potestis voluptateomnia dirigentes aut tueri aut retinere virtutem. nam nec vir bonusac iustus haberi debet
+qui, ne malum habeat, abstinet se abiniuria. nosti, credo, illud: 'Nemo pius est, qui pietatem - '; caveputes quicquam
+esse verius. nec enim, dum metuit, iustus est, etcerte, si metuere destiterit, non erit; non metuet autem, sivecelare
+poterit, sive opibus magnis quicquid fecerit optinere, certeque malet existimari bonus vir, ut non sit, quam esse, ut
+nonputetur. ita, quod certissimum est, pro vera certaque iustitiasimulationem nobis iustitiae traditis praecipitisque
+quodam modo utnostram stabilem conscientiam contemnamus, aliorum errantemopinionem aucupemur.
+
+Quae dici eadem de ceterisvirtutibus possunt, quarum omnium fundamenta vos in voluptatetamquam in aqua ponitis. quid
+enim? fortemne possumus dicere eundemillum Torquatum?-delector enim, quamquam te non possum, ut ais, corrumpere,
+delector, inquam, et familia vestra et nomine. ethercule mihi vir optimus nostrique amantissimus, Aulus Torquatus,
+versatur ante oculos, cuius quantum studium et quam insigne fueriterga me temporibus illis, quae nota sunt omnibus,
+scire necesse estutrumque vestrum. quae mihi ipsi, qui volo et esse et haberigratus, grata non essent, nisi eum
+perspicerem mea causa mihiamicum fuisse, non sua, nisi hoc dicis sua, quod interest omniumrecte facere. si id dicis,
+vicimus. id enim volumus, idcontendimus, ut officii fructus sit ipsum officium.
+
+Hoc ille tuus non vult omnibusqueex rebus voluptatem quasi mercedem exigit. sed ad illum redeo. sivoluptatis causa cum
+Gallo apud Anienem depugnavit provocatus et exeius spoliis sibi et torquem et cognomen induit ullam aliam obcausam, nisi
+quod ei talia facta digna viro videbantur, fortem nonputo. iam si pudor, si modestia, si pudicitia, si uno
+verbotemperantia poenae aut infamiae metu coercebuntur, non sanctitatesua se tuebuntur, quod adulterium, quod stuprum,
+quae libido non seproripiet ac proiciet aut occultatione proposita aut inpunitate autlicentia? Quid?"

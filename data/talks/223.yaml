@@ -1,0 +1,83 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Jessica Gilbert"
+
+talk_title: "Si quidem, inquit, tollerem, sed relinquo. Quona!"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "expert"
+
+
+talk_abstract: "Non potes ergo ista tueri, Torquate, mihi crede, si te ipse et tuas cogitationes et studiaperspexeris; pudebit te,inquam, illius tabulae, quam Cleanthessane commode verbis depingere solebat. Iubebat eos, qui audiebant, secum ipsoscogitare pictam in tabula Voluptatem pulcherrimovestitu et ornatu regali in solio sedentem, praesto esse Virtutesutancillulas, quae nihil aliud agerent, nullum suum officiumducerent, nisi ut Voluptati ministrarent et eam tantum adauremadmonerent, si modo id pictura intellegi posset, ut caveret ne quidfaceret inprudens, quod offenderet animoshominum, aut quicquam, equo oriretur aliquis dolor. 'Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliudnegotii nihil habemus."
+
+talk_details: "Quae cum dixisset, Explicavi, inquit, sententiam meam, et eo quidem consilio, tuum iudicium ut cognoscerem, quoniam mihi
+ea facultas, ut id meo arbitratu facerem, ante hoc tempus numquam est data.
+
+Hic cum uterque me intueretur sesequead audiendum significarent paratos, Primum, inquam, deprecor, ne metamquam
+philosophum putetis scholam vobis aliquam explicaturum, quod ne in ipsis quidem philosophis magnopere umquam
+probavi.quando enim Socrates, qui parens philosophiae iure dici potest, quicquam tale fecit? eorum erat iste mos qui tum
+sophistaenominabantur, quorum e numero primus est ausus Leontinus Gorgias inconventu poscere quaestionem, id est iubere
+dicere, qua de re quisvellet audire. audax negotium, dicerem impudens, nisi hocinstitutum postea translatum ad
+philosophos nostros esset.
+
+Sed et illum, quem nominavi, etceteros sophistas, ut e Platone intellegi potest, lusos videmus aSocrate. is enim
+percontando atque interrogando elicere solebateorum opiniones, quibuscum disserebat, ut ad ea, quae iirespondissent, si
+quid videretur, diceret. qui mos cum aposterioribus non esset retentus, Arcesilas eum revocavitinstituitque ut ii, qui
+se audire vellent, non de se quaererent, sed ipsi dicerent, quid sentirent; quod cum dixissent, ille contra.sed eum qui
+audiebant, quoad poterant, defendebant sententiam suam.apud ceteros autem philosophos, qui quaesivit aliquid, tacet;
+quodquidem iam fit etiam in Academia. ubi enim is, qui audire vult, itadixit: 'Voluptas mihi videtur esse summum bonum',
+perpetua orationecontra disputatur, ut facile intellegi possit eos, qui aliquid sibivideri dicant, non ipsos in ea
+sententia esse, sed audire vellecontraria.
+
+Nos commodius agimus. non enim solumTorquatus dixit quid sentiret, sed etiam cur. ego autem arbitror, quamquam admodum
+delectatus sum eius oratione perpetua, tamencommodius, cum in rebus singulis insistas et intellegas quidquisque
+concedat, quid abnuat, ex rebus concessis concludi quodvelis et ad exitum perveniri. cum enim fertur quasi torrens
+oratio, quamvis multa cuiusque modi rapiat, nihil tamen teneas, nihilapprehendas, nusquam orationem rapidam coerceas.
+Omnis autem inquaerendo, quae via quadam et ratione habetur, oratio praescribereprimum debet ut quibusdam in formulis ea
+res agetur, ut, inter quosdisseritur, conveniat quid sit id, de quo disseratur.
+
+Hoc positum in Phaedro a Platoneprobavit Epicurus sensitque in omni disputatione id fieri oportere.sed quod proximum
+fuit non vidit. negat enim definiri rem placere, sine quo fieri interdum non potest, ut inter eos, qui ambigunt, conveniat
+quid sit id, de quo agatur, velut in hoc ipso, de quonunc disputamus. quaerimus enim finem bonorum. possumusne hic
+scirequalis sit, nisi contulerimus inter nos, cum finem bonorumdixerimus, quid finis, quid etiam sit ipsum bonum?
+
+Atqui haec patefactio quasi rerumopertarum, cum quid quidque sit aperitur, definitio est. qua tuetiam inprudens utebare
+non numquam. nam hunc ipsum sive finem siveextremum sive ultimum definiebas id esse, quo omnia, quae rectefierent,
+referrentur neque id ipsum usquam referretur. praeclarehoc quidem. bonum ipsum etiam quid esset, fortasse, si
+opusfuisset, definisses aut quod esset natura adpetendum aut quodprodesset aut quod iuvaret aut quod liberet modo. nunc
+idem, nisimolestum est, quoniam tibi non omnino displicet definire et idfacis, cum vis, velim definias quid sit
+voluptas, de quo omnis haecquaestio est.
+
+Quis, quaeso, inquit, est, qui quidsit voluptas nesciat, aut qui, quo magis id intellegat, definitionem aliquam
+desideret? Me ipsum esse dicerem, inquam, nisimihi viderer habere bene cognitam voluptatem et satis firmeconceptam animo
+atque comprehensam. Nunc autem dico ipsum Epicurumnescire et in eo nutare eumque, qui crebro dicat diligenteroportere
+exprimi quae vis subiecta sit vocibus, non intellegereinterdum, quid sonet haec vox voluptatis, id est quae res huic
+vocisubiciatur. Tum ille ridens: Hoc vero, inquit, optimum, ut is, quifinem rerum expetendarum voluptatem esse dicat, id
+extremum, idultimum bonorum, id ipsum quid et quale sit, nesciat! Atqui, inquam, aut Epicurus quid sit voluptas aut omnes
+mortales, quiubique sunt, nesciunt. Quonam, inquit, modo? Quia voluptatem hancesse sentiunt omnes, quam sensus accipiens
+movetur et iucunditatequadam perfunditur.
+
+Quid ergo? istam voluptatem, inquit, Epicurus ignorat? Non semper, inquam; nam interdum nimis etiamnovit, quippe qui
+testificetur ne intellegere quidem se posse ubisit aut quod sit ullum bonum praeter illud, quod cibo et potione etaurium
+delectatione et obscena voluptate capiatur. an haec ab eonon dicuntur? Quasi vero me pudeat, inquit, istorum, aut non
+possimquem ad modum ea dicantur ostendere! Ego vero non dubito, inquam, quin facile possis, nec est quod te pudeat
+sapienti adsentiri, quise unus, quod sciam, sapientem profiteri sit ausus. nam Metrodorumnon puto ipsum professum, sed,
+cum appellaretur ab Epicuro, repudiare tantum beneficium noluisse; septem autem illi non suo, sed populorum suffragio
+omnium nominati sunt.
+
+Verum hoc loco sumo verbis his eandemcerte vim voluptatis Epicurum nosse quam ceteros. omnes enimiucundum motum, quo
+sensus hilaretur. Graece *donn, Latinevoluptatem vocant. Quid est igitur, inquit, quod requiras? Dicam, inquam, et
+quidem discendi causa magis, quam quo te aut Epicurumreprehensum velim. Ego quoque, inquit, didicerim libentius si
+quidattuleris, quam te reprehenderim. Tenesne igitur, inquam, Hieronymus Rhodius quid dicat esse summum bonum, quo putet
+omniareferri oportere? Teneo, inquit, finem illi videri nihil dolere.Quid? idem iste, inquam, de voluptate quid sentit?
+
+Negat esse eam, inquit, propter seexpetendam. Aliud igitur esse censet gaudere, aliud non dolere. Etquidem, inquit,
+vehementer errat; nam, ut paulo ante docui, augendae voluptatis finis est doloris omnis amotio. Non dolere, inquam,
+istud quam vim habeat postea videro; aliam vero vimvoluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris,
+concedas necesse est. Atqui reperies, inquit, in hoc quidempertinacem; dici enim nihil potest verius. Estne, quaeso,
+inquam, sitienti in bibendo voluptas? Quis istud possit, inquit, negare?Eademne, quae restincta siti? Immo alio genere;
+restincta enimsitis stabilitatem voluptatis habet, inquit, illa autem voluptasipsius restinctionis in motu est. Cur
+igitur, inquam, res tamdissimiles eodem nomine appellas?"
