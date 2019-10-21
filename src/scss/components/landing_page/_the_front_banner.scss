@@ -54,6 +54,12 @@
 
 }
 
+.carlu-travel-image {
+    color: map-get($pycon-colours, 'color-b');
+    // ref: https://stackoverflow.com/a/50942954
+    filter: invert(14%) sepia(83%) saturate(600%) hue-rotate(177deg) brightness(95%) contrast(98%);
+}
+
 .front-banner-carlu-address {
     padding-top: 300px;
     font-size: 0.9rem;
