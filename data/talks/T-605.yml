@@ -1,0 +1,23 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "??"
+
+talk_title: "A need for speed: accelerating your math with vectorization and Numpy"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "numpy"
+
+
+
+talk_abstract: |
+
+  time update; Tutorial starts at 16:05 !!!
+
+
+about_author: ""
+
+talk_metadata: ""
+

@@ -41,6 +41,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "169"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "T-603"
                 }
             ]
         },
@@ -60,6 +64,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "23"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "T-603"
                 }
             ]
         },
@@ -79,6 +87,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "82"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "T-603"
                 }
             ]
         },
@@ -115,6 +127,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "11"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "T-604"
                 }
             ]
         },
@@ -134,6 +150,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "147"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "T-604"
                 }
             ]
         },
@@ -153,6 +173,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "33"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "T-605"
                 }
             ]
         },
