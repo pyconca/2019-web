@@ -41,32 +41,36 @@
       <div class="collapse navbar-collapse flex-lg-column" id="navbarSupportedContent">
         <!-- Navigation top row -->
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item m-1">
-            <a class="nav-link text-center nav-button-schedule" href="/schedule-day-1/">
-              <span class="nav-color-select font-weight-bold">{{ messages("SCHEDULE") }}</span>
-            </a>
-          </li>
-          <li class="nav-item m-1">
-            <a class="nav-link text-center nav-button-register" href="https://shop.pycon.ca">
-              <span class="nav-color-select font-weight-bold">{{ messages("REGISTER") }}</span>
-            </a>
-          </li>
+          <!-- we need first item to be language selection -->
+
           <!-- Language selection -->
           {% if permalink.startswith('/fr') %}
-            <li class="nav-item m-1">
-              <a class="nav-link text-center nav-top-text font-weight-bold" href="{{ permalink[3:] }}">
-                <span class="font-weight-bold">EN</span>
-                <span class="font-weight-bold"><i class="fa fa-refresh" aria-hidden="true"></i></span>
+            <li class="nav-item nav-top-button">
+              <a class="nav-link invisible-button" href="{{ permalink[3:] }}">
+                <span>EN <i class="fa fa-refresh" aria-hidden="true"></i></span>
               </a>
             </li>
           {% else %}
-            <li class="nav-item m-1">
-              <a class="nav-link text-center nav-top-text font-weight-bold" href="/fr{{ permalink }}">
-                <span class="font-weight-bold">FR</span>
-                <span class="font-weight-bold"><i class="fa fa-refresh" aria-hidden="true"></i></span>
+            <li class="nav-item nav-top-button">
+              <a class="nav-link invisible-button" href="/fr{{ permalink }}">
+                <span>FR <i class="fa fa-refresh" aria-hidden="true"></i></span>
               </a>
             </li>
           {% endif %}
+
+          <!-- the 2 buttons -->
+
+          <li class="nav-item nav-top-button">
+            <a class="nav-link blue-button" href="/schedule-day-1/">
+              <span>{{ messages("SCHEDULE") }}</span>
+            </a>
+          </li>
+          <li class="nav-item nav-top-button">
+            <a class="nav-link red-button" href="https://shop.pycon.ca">
+              <span>{{ messages("REGISTER") }}</span>
+            </a>
+          </li>
+          
         </ul>
         <!-- Navigation links -->
         <ul class="navbar-nav ml-auto">
@@ -74,10 +78,9 @@
           {% for text, url in navigation_links[lang] %}
             <!-- Does current selection have sub-menus? -->
             {% if isinstance(url, tuple) %}
-              <li class="nav-item text-center dropdown">
-                <a class="nav-link" href="#" id="menu-parent-{{ loop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
-                  <span class=""><i class="fa fa-level-down" aria-hidden="true"></i></span>
+              <li class="nav-item dropdown">
+                <a class="nav-link navmenu-item" href="#" id="menu-parent-{{ loop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span>{{ text|e }} <i class="fa fa-caret-down" aria-hidden="true"></i></span>
                 </a>
                 <div class="dropdown-menu nav-mobile-submenu text-center text-lg-left" aria-labelledby="menu-parent-{{ loop.index }}">
                   {% for text, suburl in url %}
@@ -91,16 +94,16 @@
               <!-- nav menus with no sub-menus -->
               {% if rel_link(permalink, url) == "#" %}
                 {# active navigation links #}
-                <li class="nav-item text-center nav-active-text">
-                  <a class="nav-link" href="{{ permalink }}">
-                    <span class="nav-top-text font-weight-bold">{{ text|e }}<span class="sr-only">(current)</span></span>
+                <li class="nav-item">
+                  <a class="nav-link navmenu-item-selected" href="{{ permalink }}">
+                    <span>{{ text|e }}</span>
                   </a>
                 </li>
               {% else %}
                 {# inactive links #}
                 <li class="nav-item">
-                  <a class="nav-link text-center" href="{{ url }}">
-                    <span class="nav-top-text font-weight-bold">{{ text|e }}</span>
+                  <a class="nav-link navmenu-item" href="{{ url }}">
+                    <span>{{ text|e }}</span>
                   </a>
                 </li>
               {% endif %}

@@ -1,6 +1,6 @@
 [
     {
-        "image": "/images/william_lachance.jpg",
+        "image": "/images/william_lachance.png",
         "website": "https://wlach.github.io/",
         "en": {
             "name": "William Lachance",
@@ -14,7 +14,7 @@
         }
     },
     {
-        "image": "/images/ideshini_naidoo.jpg",
+        "image": "/images/ideshini_naidoo.png",
         "twitter": "https://twitter.com/ideshinini",
         "en": {
             "name": "Ideshini Naidoo",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "image": "/images/huda_idrees.jpg",
+        "image": "/images/huda_idrees.png",
         "website": "https://www.hudaidrees.com/",
         "twitter": "https://twitter.com/hidrees",
         "github": "http://github.com/hidrees",
@@ -44,7 +44,7 @@
         }
     },
         {
-        "image": "/images/francoise_provencher.jpg",
+        "image": "/images/francoise_provencher.png",
         "en": {
             "name": "Françoise Provencher",
             "title": "Staff Data Scientist at Shopify",

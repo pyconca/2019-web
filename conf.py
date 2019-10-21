@@ -156,10 +156,11 @@ NAVIGATION_LINKS = {
     # There are 2 parts to the navigation links,
     # <TEXT> , <LINK>
     DEFAULT_LANG: (
+        ('About', '/'),
         ('Sponsors', '/sponsors/'),
         # ('Speakers', '/under-construction/'),
         ('Event',  (
-            ('About',  '/about/'),
+            # ('About',  '/about/'),
             ('Organizers',  '/organizers/'),
             ('Venue',  '/venue/'),
              ('Schedule Day-1',  '/schedule-day-1/'),
@@ -179,10 +180,11 @@ NAVIGATION_LINKS = {
     ),
 
     "fr": (
+        ('À propos',  '/fr/'),
         ('Sponsors', '/fr/sponsors/'),
         # ('Speakers', '/fr/under-construction/'),
         ('L\'événement', (
-            ('À propos',  '/fr/about/'),
+            # ('À propos',  '/fr/about/'),
             ('Organizers',  '/fr/organizers/'),
             ('Venue', '/fr/venue/'),
             # ('Schedule Day-1',  '/fr/schedule-day-1/'),

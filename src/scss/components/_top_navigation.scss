@@ -13,32 +13,33 @@
     }
 }
 
-.nav-button-schedule {
-    background-color: #66CCCC;
-    border-radius: 0.25rem;
-    color: black;
+.nav-top-button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
-    &:hover {
-        background-color: #66FFCC;
-        color: black;
-    }
-
-    .nav-color-select {
-        color: black;
+.navbar {
+    @include media-breakpoint-up(lg) {
+        padding-top: 20px;
     }
 }
 
-.nav-button-register {
-    background-color: #CC3333;
-    border-radius: 0.25rem;
-    color: white;
+a.navmenu-item {
 
-    &:hover {
-        background-color: #CC3366;
-        color: white;
-    }
+    padding-top: 12px;
+    padding-left: 20px!important;
 
-    .nav-color-select {
-        color: white;
+    span {
+        @extend .font-weight-bold;
+        color: map-get($pycon-colours, 'button-text');
+        font-size: 18px;
     }
 }
+
+a.navmenu-item-selected {
+    @extend a.navmenu-item;
+    span {
+        color: map-get($pycon-colours, 'links');
+    }
+}
+

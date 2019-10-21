@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Mridu Bhatnagar"
+
+talk_title: "Automating data pipeline using Apache Airflow"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "Today, we are moving towards machine learning. Making predictions, finding out insights based on data. For the same purpose, the initial step is to have efficient processes in place which help us in collecting data from various different data sources. Using traditional ways to collect data is tedious and cumbersome. Manually running scripts to extract, transform and load data is a trade-off with time. To make the process efficient. The data pipeline can be automated. Scripts to extract data can be auto-scheduled using crontab. However, using crontab has its own drawbacks. One major challenge comes in monitoring. This is where an open-source tool built by Airbnb engineering team, Apache airflow, can help. Airflow is a platform to programmatically author, schedule and monitor workflows."
+
+about_author: "Mridu Bhatnagar is a software development engineer. Tech stack she is currently working on is Python and Django. When not coding she loves to experience outdoors, be part of community meetups to share her learnings and learn from other enthusiasts."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 12:45"
+
+    - "**Duration:** 30 minutes"

@@ -1,0 +1,28 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Margaret Skwara and Janna Rodeokova"
+
+talk_title: "Energy indicators and Jupyter Notebooks at the Canada Energy Regulator"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+- "Quite Different"
+
+
+
+talk_abstract: "Data on energy markets in Canada is abundant. Various datasets are produced by different levels of governments, private companies and industry associations, international organizations and academia. However, this data is not always standardized and is not centralized. Often, data is not comparable because units are not uniform (ex. imperial, metric) and temporal periods are variable (annual, monthly, daily). Formats range from csv, excel, html or PDF. Before any analytics can commence, data needs to be extensively cleaned up. The Canadian Energy Regulator (CER), in cooperation with three other federal agencies, recently launched the [Energy Indicators](https://www.neb-one.gc.ca/nrg/tl/nrgcmmdt/index-eng.html).  The indicators are a series of interactive dashboards that display most recently available public information related to energy commodity markets in Canada (crude oil, natural gas, electricity and Canada’s energy transition). Jupyter Notebooks to accompany each dashboard have also been created to provide a transparent data access methodology to allow reproducibility by others and clear the path for more advanced analytics related to Canada’s energy information."
+
+about_author: "Margaret Skwara is a senior natural gas markets analyst at the National Energy Board in Calgary, Alberta."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 12:45"
+
+    - "**Duration:** 30 minutes"

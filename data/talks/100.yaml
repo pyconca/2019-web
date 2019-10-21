@@ -1,0 +1,28 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Luca Bezerra"
+
+talk_title: "Pull requests: merging good practices into your project"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Community, Social, Ethics, and Education"
+- "Tools, Testing, and Practices"
+
+
+
+talk_abstract: "Although known by most, pull requests are often not dealt with in the most effective way. Believe it or not, there are teams that don’t review code at all! People may assume that a senior developer is experienced enough to not make any mistakes, or that merely changing those 3 lines of code couldn’t possibly do any harm to the system. In these cases, it’s not uncommon to skip the code review in order to cut some time. Unreviewed (or badly reviewed) code can be extremely dangerous, resulting in huge risks and unpredictable behavior. A survey says that, on average, developers spend 45% of their time fixing bugs and technical debt, when they could be developing new features instead. Defining simple guideline files, adopting certain behaviors and setting up repository configurations are steps that can increase manyfold the code review performance (in both time and quality). Using review tools both on server (e.g. Heroku Review Apps) and locally (e.g. linters) can also greatly increase the process’ speed. Creating templates and checklists ensures no step is overlooked or forgotten. The list goes on, but enough spoilers for now. The attendees will learn specific tips, tools, processes and recommended practices that were compiled from research and real-life use cases (both from my experience and from big players like Django, Facebook, Mozilla, etc), along with some survey data that demonstrates why reviewing code is important."
+
+about_author: "I have a Masters degree in Computer Science and over 7 years of professional experience (plus a few more as a hobbyist). I’ve worked with several technologies, Python/Django/React being the one(s) I spent the most time with. I’m a full stack developer (Flask/React) at Points International, based in Toronto. I also like to work on side-projects, although my last big ones took place a while ago. I got the 4th Place in the World at Microsoft's Imagine Cup in 2011, in the Game Design Category with a [puzzle-like computer game](https://www.youtube.com/watch?v=U_pq3fBnH8I) made by my team and competed again with [another game](https://www.youtube.com/watch?v=8QqGDRLUbfI) in 2012. I've also won the 1st National Place in the same competition in 2015, in the Citizenship category, where my team and I developed an app for helping with the treatment for Autism."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 16:45"
+
+    - "**Duration:** 30 minutes"

@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Jennifer Nguyen"
+
+talk_title: "Modelling user journeys with Keras and neural networks"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "Regardless of your business, being able to anticipate your users’ next action is a valuable advantage, whether that be a purchase, a view, or even a cancellation. Typical modelling approaches to predict users’ actions have focused on one specific action, e.g., conversion or churn. Here, we take a more holistic approach and don’t limit ourselves to one action. We model a users’ journey, so that we can not only anticipate a user’s action but also the one after that."
+
+about_author: "Jennifer is the Lead Data Scientist at Sun Life Financial’s Analytics Centre of Excellence, helping the company to build intelligent data solutions to better serve their clients. Her past experience in the field includes the Globe and Mail, Scribd and Slyce. She holds a Master’s in Machine Learning from University College London and a B. Math from the University of Waterloo. Jennifer is a strong proponent of gender diversity in her field and partners with the University of Waterloo to support young females pursuing careers in STEM."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 13:30"
+
+    - "**Duration:** 30 minutes"

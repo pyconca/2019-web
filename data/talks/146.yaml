@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Tim Hahn"
+
+talk_title: "Anomaly detection in the wild"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "How can you use machine learning with python to detect situations that are weird, abnormal, or different? Anomaly detection may be your answer! In this talk, we’ll review some interesting anomaly detection applications across multiple domains (from healthcare to finance, to name a couple). Finally, we’ll walk through a practical example of anomaly detection, for use in an industrial setting, using deep-learning and TensorFlow 2.0."
+
+about_author: "Tim is passionate about using python, combined with machine learning, to help Canadian manufacturers thrive. Currently, he is harnessing his passion and years of experience in heavy industry, while at Queen’s University, where he does research in the field of machinery health monitoring. Tim also dabbles in natural language processing, data visualization, and public speaking."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 14:40"
+
+    - "**Duration:** 30 minutes"
