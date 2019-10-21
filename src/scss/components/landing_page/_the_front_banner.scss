@@ -18,6 +18,22 @@
 
 }
 
+.front-banner-carlu {
+    background-image: url(/images/the_carlu.jpg);
+    height: 415px;
+
+    // Extra small devices
+    background-size: cover;
+    background-position: top left 25%;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        background-position: center;
+        height: 500px;
+    }
+
+}
+
+
 .front-banner-buttons {
     // Extra small devices
     width: 400px;
@@ -36,6 +52,25 @@
         margin-left: 200px;
     }
 
+}
+
+.carlu-travel-image {
+    color: map-get($pycon-colours, 'color-b');
+    // ref: https://stackoverflow.com/a/50942954
+    filter: invert(14%) sepia(83%) saturate(600%) hue-rotate(177deg) brightness(95%) contrast(98%);
+}
+
+.front-banner-carlu-address {
+    padding-top: 300px;
+    font-size: 0.9rem;
+    color: white;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        font-size: 1.2rem;
+    }
+}
+.front-banner-address {
+    padding-top: 400px;
 }
 
 .front-banner-text {

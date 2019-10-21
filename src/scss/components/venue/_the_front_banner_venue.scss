@@ -1,0 +1,14 @@
+.front-banner-venue {
+    background-image: url(/images/The_Carlu_sign.png);
+    height: 415px;
+
+    // Extra small devices
+    background-size: cover;
+    background-position: top left 25%;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        background-position: center;
+        height: 500px;
+    }
+
+}

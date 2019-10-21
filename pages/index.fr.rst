@@ -79,18 +79,18 @@
 
 {{% general_paragraph
     paragraph='
-    PyCon Canada is a community conference intended for networking and 
+    PyCon Canada is a community conference intended for networking and
     collaboration in the developer community.
     <br /><br />
-    We value the participation of each member of the Python community and want 
-    all attendees to have an enjoyable and fulfilling experience. Accordingly, 
-    all attendees are expected to show respect and courtesy to other attendees 
-    throughout the conference and at all conference events, whether officially 
+    We value the participation of each member of the Python community and want
+    all attendees to have an enjoyable and fulfilling experience. Accordingly,
+    all attendees are expected to show respect and courtesy to other attendees
+    throughout the conference and at all conference events, whether officially
     sponsored by PyCon Canada or not.
     <br /><br />
-    To make clear what is expected, all delegates, speakers, exhibitors and 
-    volunteers at any PyCon Canada event are required to conform to the 
-    following Code of Conduct. Organizers will enforce this code throughout 
+    To make clear what is expected, all delegates, speakers, exhibitors and
+    volunteers at any PyCon Canada event are required to conform to the
+    following Code of Conduct. Organizers will enforce this code throughout
     the event.
     '
 %}}
