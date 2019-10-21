@@ -18,6 +18,22 @@
 
 }
 
+.front-banner-carlu {
+    background-image: url(/images/the_carlu.jpg);
+    height: 415px;
+
+    // Extra small devices
+    background-size: cover;
+    background-position: top left 25%;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        background-position: center;
+        height: 500px;
+    }
+
+}
+
+
 .front-banner-buttons {
     // Extra small devices
     width: 400px;
@@ -36,6 +52,19 @@
         margin-left: 200px;
     }
 
+}
+
+.front-banner-carlu-address {
+    padding-top: 300px;
+    font-size: 0.9rem;
+    color: white;
+
+    @include media-breakpoint-up(lg) {  // large devices
+        font-size: 1.2rem;
+    }
+}
+.front-banner-address {
+    padding-top: 400px;
 }
 
 .front-banner-text {

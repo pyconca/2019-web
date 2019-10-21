@@ -158,13 +158,13 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('About', '/'),
         ('Sponsors', '/sponsors/'),
+        ('Venue',  '/venue/'),
         # ('Speakers', '/under-construction/'),
         ('Event',  (
             # ('About',  '/about/'),
             ('Organizers',  '/organizers/'),
-            ('Venue',  '/venue/'),
-             ('Schedule Day-1',  '/schedule-day-1/'),
-             ('Schedule Day-2',  '/schedule-day-2/'),
+            ('Schedule Day-1',  '/schedule-day-1/'),
+            ('Schedule Day-2',  '/schedule-day-2/'),
         )),
 
         ('Participate',  (
@@ -182,13 +182,13 @@ NAVIGATION_LINKS = {
     "fr": (
         ('À propos',  '/fr/'),
         ('Sponsors', '/fr/sponsors/'),
+        ('Venue', '/fr/venue/'),
         # ('Speakers', '/fr/under-construction/'),
         ('L\'événement', (
             # ('À propos',  '/fr/about/'),
             ('Organizers',  '/fr/organizers/'),
-            ('Venue', '/fr/venue/'),
-            # ('Schedule Day-1',  '/fr/schedule-day-1/'),
-            # ('Schedule Day-2',  '/fr/schedule-day-2/'),
+            ('Schedule Day-1',  '/fr/schedule-day-1/'),
+            ('Schedule Day-2',  '/fr/schedule-day-2/'),
         )),
         ('Participer',  (
             ('Enregistrement',  '/fr/registration/'),
