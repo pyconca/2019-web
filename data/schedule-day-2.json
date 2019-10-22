@@ -130,7 +130,7 @@
                 },
                 {
                     "location": "Tutorial Room",
-                    "ref": "T-604"
+                    "ref": "114"
                 }
             ]
         },
@@ -153,7 +153,7 @@
                 },
                 {
                     "location": "Tutorial Room",
-                    "ref": "T-604"
+                    "ref": "114"
                 }
             ]
         },
@@ -173,10 +173,6 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "33"
-                },
-                {
-                    "location": "Tutorial (Clipper Room)",
-                    "ref": "114"
                 }
             ]
         },
