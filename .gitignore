@@ -1,6 +1,7 @@
 .doit.db
 
 .python-version
+.vscode
 .idea
 .venv
 .doit.db.*
@@ -83,3 +84,4 @@ typings/
 
 # Serverless directories
 .serverless
+build

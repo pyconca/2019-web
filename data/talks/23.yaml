@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Deborah Diller Harris"
+
+talk_title: "Feature engineering: an apprentice’s guide to the dark art” of machine learning"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "Why is feature engineering considered the ‘dark art’ of machine learning? Transforming raw data into a form that your machine learning algorithm can utilize seems mysterious and downright frightening! Bring your wizard hat and join me as this machine learning apprentice shares her personal book of feature engineering incantations."
+
+about_author: "Deborah Diller Harris is a graduate student in Data Science at Elmhurst College (IL). Harris is a serial entrepreneur who wanted to augment her business knowledge with technology skills. A career in data science enables her to meld her business experience with a career in technology. She is also Founder of FemDataScience whose mission is to educate, encourage and elevate women in Big Data. She is the Organizer of the TampaBay PyLadies chapter, a former Assistant Organizer of Chicago PyLadies and in 2018 started Python Club at Elmhurst College. In addition, she volunteers her time to the Python Software Foundation by serving on several committees."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 12:05"
+
+    - "**Duration:** 30 minutes"

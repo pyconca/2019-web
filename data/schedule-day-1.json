@@ -26,18 +26,20 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Procedural Generation for Fun and Profit",
-                    "speaker_name": "Luis E. Pérez Estrada"
+                    "ref": "155"
+
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Debugging Jupyter Notebooks",
-                    "speaker_name": "Maria Khalusova"
+                    "ref": "44"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Using word2vec to see what CBC 'knows' about Canada",
-                    "speaker_name": "Roberto Rocha"
+                    "ref": "179"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "122"
                 }
             ]
         },
@@ -48,18 +50,19 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Move Fast, and Break things, Deploying the Largest Python Site in the World",
-                    "speaker_name": "Alvaro Leiva"
+                    "ref": "195"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "RAPIDS and cuDF: Accelerating DataFrames on GPUs",
-                    "speaker_name": "Ashwin Trikuta Srinath"
+                    "ref": "144"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Understanding Autistic Children using BioSensors and Python!",
-                    "speaker_name": "Niharika Krishnan"
+                    "ref": "201"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "122"
                 }
             ]
         },
@@ -70,18 +73,16 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Handling datetimes without losing your head",
-                    "speaker_name": "Valery Calderon"
+                    "ref": "209"
+
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "A Pythonista’s Intro to Kafka: No, it’s not like Celery",
-                    "speaker_name": "Tom Aratyn"
+                    "ref": "160"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Data Visualization with Altair - Survey Data Case Study",
-                    "speaker_name": " Stephen Childs"
+                    "ref": "203"
                 }
             ]
         },
@@ -97,18 +98,19 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Fantastic anti-patterns and where to find them: pinpointing performance bottlenecks",
-                    "speaker_name": "Samuel Dion-Girardeau"
+                    "ref": "143"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Building a CMS in Python with Django+Wagtail",
-                    "speaker_name": "Tyler Savery"
+                    "ref": "96"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Modelling user journeys with Keras and neural networks",
-                    "speaker_name": "Jennifer Nguyen"
+                    "ref": "154"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-601"
                 }
             ]
         },
@@ -119,18 +121,19 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "The Zen of Python Teams",
-                    "speaker_name": "Adrienne Lowe"
+                    "ref": "109"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Rust Accelerated Pythons",
-                    "speaker_name": "Dorian Pula"
+                    "ref": "199"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Anomaly Detection in the Wild",
-                    "speaker_name": "Tim Hahn"
+                    "ref": "146"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-601"
                 }
             ]
         },
@@ -141,18 +144,15 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "How to Build Bulletproof Integrations",
-                    "speaker_name": "John P. Kennedy"
+                    "ref": "89"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "From hot mess to information, or why you should spend more time processing your data",
-                    "speaker_name": "Serena Peruzzo"
+                    "ref": "129"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Genetic algorithms: Making errors do all the work",
-                    "speaker_name": "Raman Tehlan"
+                    "ref": "157"
                 }
             ]
         },
@@ -169,18 +169,19 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "pyblitzdg: The future of physical model development has arrived",
-                    "speaker_name": "Derek Steinmoeller"
+                    "ref": "99"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Building Municipal Web Apps with Python",
-                    "speaker_name": "Cody Brown"
+                    "ref": "119"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Algorithmic Bias in Machine Learning",
-                    "speaker_name": "Jill Cates"
+                    "ref": "215"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "148"
                 }
             ]
         },
@@ -191,18 +192,19 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Growing Plants without soil using Python!",
-                    "speaker_name": "Manav Mehra"
+                    "ref": "223"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Coding with An Accent",
-                    "speaker_name": "Seonaid Lee"
+                    "ref": "95"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Forecasting and observing Airfare trends using Python and Neural Networks",
-                    "speaker_name": "Anuj Menta"
+                    "ref": "15"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "148"
                 }
             ]
         },
@@ -213,18 +215,19 @@
             "rooms": [
                 {
                     "location": "Talk room #1",
-                    "talk_title": "Narrative-focused video games development with Ren'Py",
-                    "speaker_name": "Susan Chang"
+                    "ref": "113"
                 },
                 {
                     "location": "Talk room #2",
-                    "talk_title": "Iron Pythonista",
-                    "speaker_name": "Josh Weissbock"
+                    "ref": "172"
                 },
                 {
                     "location": "PyData Track (Round Room)",
-                    "talk_title": "Voice recognition using python and deep learning",
-                    "speaker_name": "Cesar Osorio"
+                    "ref": "221"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "148"
                 }
             ]
         },

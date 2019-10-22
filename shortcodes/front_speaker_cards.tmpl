@@ -1,12 +1,12 @@
 <div class="container">
     <div class="row justify-content-center">
         {% for speaker in global_data['keynotes'] %}
-            <div class="col-xs-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-xs-12 col-md-6 col-lg-3 pb-4">
                 <div class="card">
-                    <img src="{{speaker['image']}}" class="card-img-top" alt="{{speaker[lang]['name']}} picture">
+                    <img src="{{speaker['image']}}" class="card-img-top speaker-image" alt="{{speaker[lang]['name']}} picture">
                     <div class="card-body">
                         <h5 class="card-title">{{speaker[lang]['name']}}</h5>
-                        <h6 class="card-title">{{speaker[lang]['title']}}</h6>
+                        <h6 class="card-subtitle">{{speaker[lang]['title']}}</h6>
                         <p class="card-text">{{speaker[lang]['description']}}</p>
                     </div>
                     <div class="card-footer">

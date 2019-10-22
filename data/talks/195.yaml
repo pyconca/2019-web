@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Alvaro Leiva"
+
+talk_title: "Move Fast, and Break things, Deploying the Largest Python Site in the World."
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Web & Databases"
+
+
+
+talk_abstract: "Have you ever wanted to move fast, but are too afraid to break too many things? Learn from the experience of deploying the largest python site in the world! It is deployed every every 7 minutes! This talk details the practical steps that we took to build our continuous deployment pipeline. We will highlight the technical challenges, discuss the tools, and share the cultural philosophy necessary. Plus, we'll explain how to recover when things break. The steps can be used by any development and infra team as a blueprint towards a continuous deployment system. Development and infra teams that already do some form of continuous deployment will identify with the problems and hear how we solved them. Others, will hopefully be inspired when they learn that they can start with the simple thing and progress step by step."
+
+about_author: "I love Python, I grew up in a small town in Chile and one weekend, 20 years ago, I had the flu and could not go out. I decided to learn how to code in Python and that was the beginning of the road that would moved us all to the Northern California so that I could join the Production Engineering team at Instagram. Also like eating, drinking and cooking (in that order)."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 11:15"
+
+    - "**Duration:** 30 minutes"

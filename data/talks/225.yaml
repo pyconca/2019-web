@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Daniel Kats"
+
+talk_title: "Beating your friends at board games using Python and machine learning"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "Do you hate losing at board games? Do you have too many friends and too few enemies? Then this talk is for you! I will demonstrate rapid prototyping of board games in Python, training simple yet powerful game AI, and extracting their strategies in a human-understandable way to ultimately defeat all your board game foes. This talk will cover helpful newly-introduced Python features for rapid prototyping, using keras for games, and Monte Carlo Tree Search. You will see the effectiveness of these techniques on popular games such as Settlers of Catan and Machi Koro."
+
+about_author: "I’m a rock climber, board game geek, and obsessive coffee drinker. I’m also a principal researcher at Symantec Research Labs. I attended the University of Toronto, interspersed with internships at Yelp and IBM. I graduated with a B.Sc., followed by an M.Sc. studying under Prof. Eyal de Lara. In my free time I read The Atlantic, go on anger-fueled morning jogs, and show up to events 5 minutes after doors close."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Concert Hall"
+
+    - "**Begin time:** 12:45"
+
+    - "**Duration:** 30 minutes"

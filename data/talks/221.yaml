@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Cesar Osorio"
+
+talk_title: "Voice recognition using python and deep learning"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "Calculate mel spectrograms from human voices using python and train an algorithm to compare human voices"
+
+about_author: "Data Scientist - Machine Learning engineer using Python for the last 5 years in fraud detection and pattern recognition."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Round Room (PyData Track)"
+
+    - "**Begin time:** 16:50"
+
+    - "**Duration:** 10 minutes"

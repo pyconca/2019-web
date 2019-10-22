@@ -26,7 +26,19 @@ $colour-red: rgb(220, 72, 73);
 $pycon-colours: (
   'dark-cyan': $colour-dark-cyan,
   'midnight-blue': $colour-midnight-blue,
-  'red': $colour-red
+  'red': $colour-red,
+
+  // 2019 colors
+  'button-text': rgb(65, 64, 66),               // pallete - 7
+  'button-blue-regular': rgb(106, 198, 183),       // pallete - 3
+  'button-blue-hover': rgb(125, 231, 213),         // pallete - 9
+  'button-red-regular': rgb(196, 42, 72),         // pallete - 1
+  'button-red-hover': rgb(221, 49, 83),           // pallete - 8
+  'menu-active': rgb(202, 229, 225),            // pallete - 2
+
+  'color-a': rgb(79, 174, 180),                 // pallete - 4
+  'links': rgb(18, 132, 163),                   // pallete - 5
+  'color-b': rgb(19, 47, 83),                   // pallete - 6
 );
 
 
@@ -42,4 +54,3 @@ $schedule-time-height: 48px;
 $schedule-location-position: $navbar-height + $schedule-time-height;
 $schedule-location-height: 48px;
 $schedule-talk-position: $schedule-location-position + $schedule-location-height;
-

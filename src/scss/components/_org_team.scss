@@ -6,6 +6,8 @@ Customizing bootstrap cards for org-team layout
 
 .card-columns-org {
 
+    @extend .card-columns;
+
     @include media-breakpoint-up(xs) {
         column-count: 1;
     }

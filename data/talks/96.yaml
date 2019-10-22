@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Tyler Savery"
+
+talk_title: "Building a CMS in Python with Django+Wagtail"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Web & Databases"
+
+
+
+talk_abstract: "In this talk, I will give an overview and real-time coding demos of the power of Django+Wagtail for building intuitive content management systems. Wagtail is a framework built on top of Django that adds a whole new level of power to the Python platform. Whether you are familiar with Django or not, this talk is aimed at anyone looking to try out something other than the industry go-to of Wordpress while exploring the workflow. The talk includes an overview of features, common custom CMS issues that Wagtail handles gracefully, and code examples of creating page models and customizing the admin. I'll be showcasing a real world example of a solution we provided a client that had many complex requests. Through this exercise, I hope to illustrate the power through simplicity Wagtail provides."
+
+about_author: "As Co-Founder and Chief Technology Officer of The Young Astronauts, a creative collective dedicated to the exploration and innovation of the multimedia universe, Tyler Savery oversees all company and technical operations— from internal communications strategies to future development opportunities and new business endeavours. In 2007, while attending Ryerson University, Tyler started his first business with Nev Todorovic. Originally setting out to create a video production company, they quickly realized the benefits of offering other digital media solutions such as web applications and interactive campaigns. They found success working with artists and record labels, creating campaigns that bridged early social media, web, and multimedia. Although Tyler focusses more on new business development, he keeps up to date with new technologies, frameworks, and development methodologies. He still considers himself a full stack developer, competent in Python, Javascript, C#, PHP, Swift, and HTML/CSS. He has a great understanding of big data systems and development operations which gives the projects he’s involved in a leading edge on scalability. A proud alumnus of Ryerson of Ryerson University in Toronto, Savery studied radio and television arts. As an undergraduate, Savery founded RUtv, which later became Ryerson University’s official television network. Growing up, Savery was deeply influenced by his interest in creative, video production, theatre, and computer programming, which he began honing his skills in early on. When he’s not working, Savery can be found making music, writing and exploring the great outdoors. Originally from Whitby, Canada, Savery currently resides in Toronto, Canada and travels frequently to New York, NY and Los Angeles, CA."
+
+talk_metadata:
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Sky Room"
+
+    - "**Begin time:** 13:30"
+
+    - "**Duration:** 30 minutes"
