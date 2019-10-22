@@ -2,9 +2,9 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "??"
+speaker_name: "TBD"
 
-talk_title: "TBD"
+talk_title: "Untitled Tutorial"
 
 # At least 1 tag is necessary!!
 talk_tags:
