@@ -36,6 +36,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "179"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "122"
                 }
             ]
         },
@@ -55,6 +59,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "201"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "122"
                 }
             ]
         },
@@ -99,6 +107,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "154"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-601"
                 }
             ]
         },
@@ -118,6 +130,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "146"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-601"
                 }
             ]
         },
@@ -162,6 +178,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "215"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "148"
                 }
             ]
         },
@@ -181,6 +201,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "15"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "148"
                 }
             ]
         },
@@ -200,6 +224,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "221"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "148"
                 }
             ]
         },

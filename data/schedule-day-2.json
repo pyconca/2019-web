@@ -41,6 +41,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "169"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-603"
                 }
             ]
         },
@@ -60,6 +64,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "23"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-603"
                 }
             ]
         },
@@ -79,6 +87,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "82"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-603"
                 }
             ]
         },
@@ -100,8 +112,8 @@
             ]
         },
         {
-            "time_start": "15:00",
-            "time_stop": "15:25",
+            "time_start": "14:45",
+            "time_stop": "15:10",
             "type": "talk",
             "rooms": [
                 {
@@ -115,12 +127,16 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "11"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "114"
                 }
             ]
         },
         {
-            "time_start": "15:40",
-            "time_stop": "16:05",
+            "time_start": "15:25",
+            "time_stop": "15:50",
             "type": "talk",
             "rooms": [
                 {
@@ -134,12 +150,16 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "147"
+                },
+                {
+                    "location": "Tutorial Room",
+                    "ref": "114"
                 }
             ]
         },
         {
-            "time_start": "16:20",
-            "time_stop": "16:45",
+            "time_start": "16:05",
+            "time_stop": "16:30",
             "type": "talk",
             "rooms": [
                 {
@@ -157,13 +177,13 @@
             ]
         },
         {
-            "time_start": "16:55",
-            "time_stop": "17:10",
+            "time_start": "16:30",
+            "time_stop": "16:45",
             "type": "break",
             "title": "Closing remarks"
         },
         {
-            "time_start": "17:10",
+            "time_start": "16:45",
             "time_stop": "18:00",
             "type": "break",
             "title": "mingle time"
