@@ -28,7 +28,8 @@ const AUTOPREFIXER_OPTIONS = {
 const STATIC_FILES = [
     'src/static/*.html',
     'src/static/*.pdf',
-    'src/static/*.css'
+    'src/static/*.css',
+    'src/static/*.csv',
 ];
 const FILES_TO_WATCH = [
     '**/*.rst',
