@@ -2,17 +2,17 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Susan Li"
+speaker_name: ""
 
-talk_title: "Do-it-yourself natural language processing for Makers"
+talk_title: "Open Space"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "NLP"
+- "open space"
 
 
 
-talk_abstract: "..."
+talk_abstract: "This is an open space time, avaible for group meetings. Please sign up using the <a href="https://github.com/pyconca/2019-wiki/wiki/" target="_blank">2019 wiki</a>"
 
 about_author: ""
 
