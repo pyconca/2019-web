@@ -2,7 +2,7 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: ""
+speaker_name: " "
 
 talk_title: "Open Space"
 
@@ -12,7 +12,9 @@ talk_tags:
 
 
 
-talk_abstract: "This is an open space time, avaible for group meetings. Please sign up using the <a href="https://github.com/pyconca/2019-wiki/wiki/" target="_blank">2019 wiki</a>"
+talk_abstract: "
+This is an open space time and available for group meetings. 
+Please sign up using the <a href='https://github.com/pyconca/2019-wiki/wiki/' target='_blank'>2019 wiki</a>"
 
 about_author: ""
 
