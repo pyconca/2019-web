@@ -13,7 +13,7 @@
             "type": "keynote",
             "rooms": [
                 {
-                    "location": "Main hall",
+                    "location": "Concert Hall",
                     "talk_title": "Opening Remarks and Morning Keynote",
                     "speaker_name": "Ideshini Naidoo"
                 }
@@ -25,12 +25,12 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "155"
 
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "44"
                 },
                 {
@@ -49,11 +49,11 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "195"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "144"
                 },
                 {
@@ -72,17 +72,21 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "209"
 
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "160"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "203"
+                },
+                     {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-600"
                 }
             ]
         },
@@ -97,11 +101,11 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "143"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "96"
                 },
                 {
@@ -120,11 +124,11 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "109"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "199"
                 },
                 {
@@ -143,16 +147,20 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "89"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "129"
                 },
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "157"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-600"
                 }
             ]
         },
@@ -168,11 +176,11 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "99"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "119"
                 },
                 {
@@ -191,11 +199,11 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "223"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "95"
                 },
                 {
@@ -214,11 +222,11 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Talk room #1 (Concert Hall)",
                     "ref": "113"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Talk room #2 (Sky Room)",
                     "ref": "172"
                 },
                 {
@@ -237,7 +245,7 @@
             "type": "keynote",
             "rooms": [
                 {
-                    "location": "Main hall",
+                    "location": "Concert Hall",
                     "talk_title": "Evening Keynote",
                     "speaker_name": "Huda Idrees"
                 }
