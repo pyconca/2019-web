@@ -173,6 +173,10 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "ref": "33"
+                },
+                {
+                    "location": "Tutorial (Clipper Room)",
+                    "ref": "T-600"
                 }
             ]
         },
