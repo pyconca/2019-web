@@ -8,12 +8,12 @@
 
 .. raw:: html
 
-    <br />
     <div class="text-center">
         <a class="blue-button" href="/static/pyconca2019_schedule.csv">
             <span>Download schedule as CSV!</span>
         </a>
     <div>
+    <br />
 
 
 
