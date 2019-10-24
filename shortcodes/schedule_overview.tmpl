@@ -128,7 +128,7 @@
                                         <div class="schedule-talk-abstract">
                                             {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
                                               <p>
-                                                  {{  global_data['talks/' + room['ref']]['talk_abstract']  }}
+                                                  {{  global_data['talks/' + room['ref']]['talk_abstract'] | markdown }}
                                               </p>
                                             {% endif %}
                                         </div>
