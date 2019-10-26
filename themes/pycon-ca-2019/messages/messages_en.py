@@ -40,7 +40,7 @@ MESSAGES = {
                         'Python a productive and fun language for everyone!',
     # Navgation banner buttons
     'SCHEDULE': 'SCHEDULE',
-    'REGISTER': 'REGISTER',
+    'BUY-TICKET': 'BUY TICKET',
 
     # Front banner text
     'CONFERENCE': 'CONFERENCE',
