@@ -162,7 +162,6 @@ NAVIGATION_LINKS = {
         # ('Speakers', '/under-construction/'),
         ('Event',  (
             # ('About',  '/about/'),
-            ('Organizers',  '/organizers/'),
             ('Schedule Day-1',  '/schedule-day-1/'),
             ('Schedule Day-2',  '/schedule-day-2/'),
         )),
@@ -174,6 +173,7 @@ NAVIGATION_LINKS = {
             ('Volunteer',  '/volunteer/'),
         )),
         ('Information',  (
+            ('Organizers',  '/organizers/'),
             ('Code of Conduct',  '/code-of-conduct/'),
             ('Email us',  'mailto:organizers@pycon.ca'),
         )),
