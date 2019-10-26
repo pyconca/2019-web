@@ -45,5 +45,5 @@ MESSAGES = {
     # Front banner text
     'CONFERENCE': 'CONFERENCE',
     'SPRINTS': 'SPRINTS',
-    'VENUE': 'VENUE',
+    'VENUE': 'LOCATION',
 }
