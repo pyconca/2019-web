@@ -29,9 +29,9 @@
 
 {{% general_paragraph
     paragraph='
-    You can submit a talk at <a href="https://cfp.pycon.ca/">Call For Papers</a><br />
-    You can submit a grant application at <a href="https://forms.gle/QMuhZHT3zCwgqKbD8">this form</a> <br />
-    Download our <a href="/static/pyconca-sponsorship-prospectus.pdf">sponsorship prospectus</a> <br/>
+    You can submit a talk at <a href="https://cfp.pycon.ca/" target="_blank">Call For Papers</a><br />
+    You can submit a grant application at <a href="https://forms.gle/QMuhZHT3zCwgqKbD8" target="_blank">this form</a> <br />
+    Download our <a href="/static/pyconca-sponsorship-prospectus.pdf" target="_blank">sponsorship prospectus</a> <br/>
     <br />
     '
 %}}

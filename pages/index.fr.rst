@@ -34,14 +34,14 @@
 {{% front_twitter_section
     heading1='Join the conversation'
     message1='
-    Be sure to use <a href="https://twitter.com/hashtag/PyConCA2019">#PyConCA2019</a>
+    Be sure to use <a href="https://twitter.com/hashtag/PyConCA2019" target="_blank">#PyConCA2019</a>
     We love hearing from our community members!
     '
     heading2='Key Contacts'
     message2='
     The organizing committee can be contacted at <a href="mailto:organizers@pycon.ca">organizers@pycon.ca</a><br />
     The board can be contacted privately at <a href="mailto:board@pycon.ca">board@pycon.ca</a> <br />
-    You can also find us on: <a href="https://github.com/pyconca/">https://github.com/pyconca/</a> <br/>
+    You can also find us on: <a href="https://github.com/pyconca/" target="_blank">https://github.com/pyconca/</a> <br/>
     '
 %}}
 
