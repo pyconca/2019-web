@@ -16,18 +16,15 @@
 
 {{% section_with_logo_right_side
     logo_path='/images/pycon_circle.png'
-    section_title='What is Pycon Canada?'
+    section_title='Join us for PyCon Canada 2019!'
     section_message='
-    Our main goal is to strengthen the Canadian Python community by providing more opportunities 
-    for us to share knowledge and ideas, encourage support and education for speaking at 
-    conferences, and increase the visibility of developers, organizations, and companies 
-    within the community.
-    <br /><br />
-    PyCon Canada is entirely run by volunteers who are passionate about these goals. We hope to 
-    see you at the 2019 conference! We\'re also proud to host development sprints which provide 
-    a gateway for new contributors and a way for you to give back to the open-source community.
-    On November 18-19, please join us at The Carlu, Toronto’s premier event conference center 
-    in downtown Toronto. 
+    <p>
+    We welcome you to come join us for the 7th annual PyCon Canada, held in downtown Toronto on the weekend of November 16-17, 2019. Immerse yourself in two days of fantastic talks, special keynote speakers, incredible sponsors and other like minded Pythonistas. <a href="https://shop.pycon.ca" target="_blank">Buy your ticket today!</a>
+    </p>
+
+    <p>
+    Want to go deeper? Join us Monday and Tuesday (November 18-19)  for development sprints, where you and your fellow Python enthusiasts can work on open source and personal projects in a fun group atmosphere.
+    </p>
     '
 %}}
 
