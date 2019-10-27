@@ -4,18 +4,21 @@
         {
             "time_start": "8:30",
             "time_stop": "9:00",
+            "duration": "30 mins",
             "type": "break",
             "title": "Breakfast & Registration"
         },
         {
             "time_start": "9:00",
             "time_stop": "10:00",
+            "duration": "1 hour",
             "type": "break",
             "title": "Lightning Talks"
         },
         {
             "time_start": "10:00",
             "time_stop": "11:00",
+            "duration": "1 hour",
             "type": "keynote",
             "rooms": [
                 {
@@ -28,6 +31,7 @@
         {
             "time_start": "11:00",
             "time_stop": "11:25",
+            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
@@ -51,6 +55,7 @@
         {
             "time_start": "11:40",
             "time_stop": "12:05",
+            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
@@ -74,6 +79,7 @@
         {
             "time_start": "12:20",
             "time_stop": "12:45",
+            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
@@ -97,11 +103,13 @@
         {
             "time_start": "12:45",
             "time_stop": "13:45",
+            "duration": "1 hour",
             "type": "lunch_break"
         },
         {
             "time_start": "13:45",
             "time_stop": "14:45",
+            "duration": "1 hour",
             "type": "keynote",
             "rooms": [
                 {
@@ -114,6 +122,7 @@
         {
             "time_start": "14:45",
             "time_stop": "15:10",
+            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
@@ -137,6 +146,7 @@
         {
             "time_start": "15:25",
             "time_stop": "15:50",
+            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
@@ -160,6 +170,7 @@
         {
             "time_start": "16:05",
             "time_stop": "16:30",
+            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
@@ -183,12 +194,14 @@
         {
             "time_start": "16:30",
             "time_stop": "16:45",
+            "duration": "15 mins",
             "type": "break",
             "title": "Closing remarks"
         },
         {
             "time_start": "16:45",
             "time_stop": "18:00",
+            "duration": "50 mins",
             "type": "break",
             "title": "mingle time"
         }
