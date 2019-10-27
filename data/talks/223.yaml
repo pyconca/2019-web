@@ -14,7 +14,7 @@ talk_tags:
 
 talk_abstract: "When most of us think of agriculture, we don't think of it as a cutting-edge playground for AI, robotics, and data science development in Python. Over the years with the development of Data Science and AI methodologies, people have potentially been interested in applying these tools to different fields(finance, journalism, agriculture) to gain meaningful insights. I came across a method called Hydroponics which allows growing plants with water in the absence of soil. I was deeply interested and started to question the idea of attaching a few sensors to plants.  Given the data, I began to explore the automation of the plant growth process. This talk focuses on performing exploratory data analysis and using neural networks with Python for implementing a smart and intelligent hydroponics system."
 
-about_author: ""
+about_author: "Originally from India, Manav moved to Canada last year to pursue a Master’s degree in Computer Science from the University of Waterloo. Apart from being a techie, he has a keen interest in entrepreneurship and tries hard to understand the business side of anything he works on. Elon Musk being his role model, he is passionate about robotics and dreams to build a humanoid assistant for himself someday. He loves traveling and exploring new places, exchanging ideas with people and understanding different cultures. He is currently working as a Computer Vision intern at the IBM Toronto Office. Talk to him about his recent product pitch to the CEO of IBM!"
 
 talk_metadata:
 
