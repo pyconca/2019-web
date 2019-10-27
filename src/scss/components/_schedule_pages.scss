@@ -4,6 +4,14 @@ Styles for the schedule table
 
 .schedule-table {
     background-color: $gray-100;
+
+    .schedule-table--col-description {
+        padding: 3rem;
+    }
+}
+
+.schedule-table td {
+    border: 1px solid #aeaeae;
 }
 
 .schedule-date-sticky {

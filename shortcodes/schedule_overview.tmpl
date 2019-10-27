@@ -1,209 +1,68 @@
-<br />
-<br />
-<div class="container schedule-table">
-    {% for event in global_data[details]['events'] %}
-        <div class="row">
-            <!-- Date+Time -->
-            <!-- <div class="col schedule-date-sticky">
-                <div class="row"> -->
-                    <div class="col-5 schedule-date schedule-date-sticky">
-                        <p>
-                            <i class="fa fa-calendar" aria-hidden="true"></i>
-                            {{ global_data[details]['date'] }}
-                        </p>
-                    </div>
-                    <div class="col-7 schedule-time schedule-date-sticky">
-                        <!-- Time block -->
-                        <div class="row schedule-timedata schedule-date-sticky">
-                            <div class="col-1 time-icon">
-                                <i class="fa fa-clock-o fa-2x" aria-hidden="true"></i>
-                            </div>
-                            <div class="col-11 time-text">
-                                <div class="row">
-                                    <div class="col-8 time-description">
-                                        <p><span>{{ messages("time-start") }} :</span></p>
-                                    </div>
-                                    <div class="col-4 time-time">
-                                        <p><span>{{ event['time_start'] }}</span></p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-8 time-description">
-                                        <p><span>{{ messages("time-stop") }} :</span></p>
-                                    </div>
-                                    <div class="col-4 time-time">
-                                        <p><span>{{ event['time_stop'] }}</span></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                <!-- </div>
-            </div> -->
+<br/>
+<br/>
+<div class="container">
+    <table class="schedule-table">
+        <tbody>
+            {% for event in global_data[details]['events'] %}
+                {% if event['type'] == 'keynote' %}
+                    {% for room in event["rooms"] %}
+                        <tr>
+                            {% if loop.first %}
+                                <td rowspan="{{ event["rooms"] | length }}">
+                                    {{ event["time_start"] }}
+                                </td>
+                            {% endif %}
+                            <td class="schedule-table--col-description">
+                                {{ room["talk_title"] }}
+                                <br/>
+                                {{  room["speaker_name"]  }}
+                            </td>
+                            <td>{{ event["duration"] }}</td>
+                        </tr>
+                    {% endfor %}
+                {% elif event['type'] == 'talk' %}
+                    {% for room in event["rooms"] %}
+                        <tr>
+                            {% if loop.first %}
+                                <td rowspan="{{ event["rooms"] | length }}">
+                                    {{ event["time_start"] }}
+                                </td>
+                            {% endif %}
+                            <td class="schedule-table--col-description">
 
-            <!-- What kind of event? -->
-            {% if event['type'] == 'keynote' %}
-                <!-- Need outer column to connect location and talk-info -->
-                <div class="col-12">
-                    <!-- location and talk details are nested inside a row -->
-                    <div class="row">
-                        {% for room in event['rooms'] %}
-                            <!-- location column -->
-                            <div class="col-12 schedule-locationdata-sticky" id="talk-{{ room['ref'] }}">
-                                <div class="row schedule-locationdata schedule-locationdata-sticky">
-                                    <div class="col-3 location-icon">
-                                        <!-- icon is different between keynotes and talks -->
-                                        <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                        <p>{{ messages("location") }}</p>
-                                    </div>
-                                    <div class="col-9 location-text">
-                                        <p>
-                                            {{ room['location'] }}
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- talk column -->
-                            <div class="col-12">
-                                    <div class="schedule-talkdata schedule-talkdata-sticky">
-                                        <a href="#" class="btn">
-                                            <p class="talk-title">
-                                                <i class="fa fa-bullhorn" aria-hidden="true"></i>
-                                                {{ room['talk_title'] }}
-                                            </p>
-                                            {% if room['speaker_name'] %}
-                                              <p class="talk-speaker">
-                                                  {{  room['speaker_name']  }}
-                                              </p>
-                                            {% endif %}
-                                        </a>
-                                    </div>
-                                </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            {% elif event['type'] == 'talk' %}
-                <!-- Need outer column to connect location and talk-info -->
-                <div class="col-12">
-                    <!-- location and talk details are nested inside a row -->
-                    <div class="row">
-                        {% for room in event['rooms'] %}
-                            <div class="col-lg schedule-talk-column">
-                                <div class="row-lg">
-                                    <!-- location column -->
-                                    <div class="col-12 schedule-locationdata-sticky" id="talk-{{ room['ref'] }}">
-                                        <div class="row schedule-locationdata schedule-locationdata-talks schedule-locationdata-sticky">
-                                            <div class="col-3 location-icon">
-                                                <!-- icon is different between keynotes and talks -->
-                                                <i class="fa fa-location-arrow" aria-hidden="true"></i>
-                                                <p>{{ messages("location") }}</p>
-                                            </div>
-                                            <div class="col-9 location-text">
-                                                <p>
-                                                    {{ room['location'] }}
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- talk column -->
-                                    <div class="col-12">
-                                        <div class="schedule-talkdata schedule-talkdata-sticky">
-                                            <a href="#talk-{{ room['ref'] }}" class="btn disabled">
-                                                <p class="talk-title">
-                                                    <i class="fa fa-comment" aria-hidden="true"></i>
-                                                    {{  global_data['talks/' + room['ref']]['talk_title']  }}
-                                                </p>
-                                                <p class="talk-speaker">
-                                                    {{  global_data['talks/' + room['ref']]['speaker_name']  }}
-                                                </p>
-                                            </a>
-                                        </div>
-                                        <div class="schedule-talk-tags">
-                                            <p>
-                                                {% for tag in global_data['talks/' + room['ref']]['talk_tags'] %}
-                                                    <span>{{ tag }}</span>
-                                                {% endfor %}
-                                            </p>
-                                        </div>
-                                        <div class="schedule-talk-abstract">
-                                            {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
-                                              <p>
-                                                  {{  global_data['talks/' + room['ref']]['talk_abstract'] | markdown }}
-                                              </p>
-                                            {% endif %}
-                                        </div>
-                                        {% if global_data['talks/' + room['ref']]['talk_abstract'] %}
-                                            <div class="schedule-talk-more">
-                                                <a class="btn btn-block" href="/talks/talk-{{ room['ref'] }}/" role="button">{{ messages("More Details") }}</a>
-                                            </div>
-                                        {% endif %}
-                                    </div>
-                                </div>
-                            </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            {% elif event['type'] == 'lunch_break' %}
-                <!-- Nest outer column with inner row -->
-                <div class="col-12">
-                    <div class="row">
-                        <!-- location column -->
-                        <div class="col-12 schedule-locationdata-sticky">
-                            <div class="row schedule-locationdata schedule-locationdata-talks schedule-locationdata-sticky">
-                                <div class="col-3 location-icon">
-                                    <!-- icon is different between keynotes and talks -->
-                                    <i class="fa fa-location-arrow" aria-hidden="true"></i>
-                                    <p>{{ messages("location") }}</p>
-                                </div>
-                                <div class="col-9 location-text">
-                                    <p>
-                                        &nbsp;&nbsp;&nbsp;
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- talk column -->
-                        <div class="col-12">
-                            <div class="schedule-break">
-                                <p class="break-title">
-                                    <i class="fa fa-cutlery" aria-hidden="true"></i>
-                                    {{ messages("Lunch") }}
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            {% elif event['type'] == 'break' %}
-                <!-- Nest outer column with inner row -->
-                <div class="col-12">
-                    <div class="row">
-                        <!-- location column -->
-                        <div class="col-12 schedule-locationdata-sticky">
-                            <div class="row schedule-locationdata schedule-locationdata-talks schedule-locationdata-sticky">
-                                <div class="col-3 location-icon">
-                                    <!-- icon is different between keynotes and talks -->
-                                    <i class="fa fa-location-arrow" aria-hidden="true"></i>
-                                    <p>{{ messages("location") }}</p>
-                                </div>
-                                <div class="col-9 location-text">
-                                    <p>
-                                        &nbsp;&nbsp;&nbsp;
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- talk column -->
-                        <div class="col-12">
-                            <div class="schedule-break">
-                                <p class="break-title">
-                                    <i class="fa fa-coffee" aria-hidden="true"></i>
-                                    {{ event['title'] }}
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            {% endif %}
-        </div>
-    {% endfor %}
+                                <a href="/talks/talk-{{ room['ref'] }}/" >
+                                    {{ global_data['talks/' + room['ref']]["talk_title"] }}
+                                </a>
+                                <br/>
+                                {{ room["location"] }}
+                                <br/>
+                                {{  global_data['talks/' + room['ref']]['speaker_name']  }}
+                            </td>
+                            <td>{{ event["duration"] }}</td>
+                        </tr>
+                    {% endfor %}
+                {% elif event['type'] == 'lunch_break' %}
+                    <tr>
+                        <td>
+                            {{ event["time_start"] }}
+                        </td>
+                        <td class="schedule-table--col-description">
+                            {{ messages("Lunch") }}
+                        </td>
+                        <td>{{ event["duration"] }}</td>
+                    </tr>
+                {% elif event['type'] == 'break' %}
+                    <tr>
+                        <td>
+                            {{ event["time_start"] }}
+                        </td>
+                        <td class="schedule-table--col-description">
+                            {{ event["title"] }}
+                        </td>
+                        <td>{{ event["duration"] }}</td>
+                    </tr>
+                {% endif %}
+            {% endfor %}
+        </tbody>
+    </table>
 </div>
