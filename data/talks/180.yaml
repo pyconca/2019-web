@@ -13,9 +13,9 @@ talk_tags:
 
 
 
-talk_abstract: "This talk will go through surprising features, as well as some code golf to explore surprising applications of unsurprising features. Disclaimer: This probably won't help you do your job."
+talk_abstract: "This talk will go through a couple of the many puzzling features of Python and analyze why they're there, and how they work. The talk will feature a lot of great trivia questions! Prepare for surprises. Disclaimer: This probably won't help you do your job."
 
-about_author: "Carol Chen is a self-taught programmer who currently works as a developer at Shopify (Rails). Before that she worked for almost a year at Hatch Canada where she worked with Django and developed a Python based computer science curriculum. She has also contributed to Sugar (mostly in Python). Lover of conferences, she has been to the Wolfram Tech Conference (where she also spoke), I/O '18, and F8 '19. She's currently 17 and resides in Toronto."
+about_author: "Carol Chen is a self-taught programmer who currently works at Shopify (Rails). Before that she worked at Hatch Canada (Django, React) at contributed to Sugar Labs (Javascript, Python, GTK). She likes learning about programming language design! You can contact her with questions and whatnot at hello@carolchen.me"
 
 talk_metadata:
 
