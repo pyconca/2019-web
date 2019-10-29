@@ -2,19 +2,31 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "TBD"
+speaker_name: "Aaron Wislang"
 
-talk_title: "TBD"
+talk_title: "Container Workflows for Python Developers"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- ".."
+- "container"
+- "workflow"
+- "machine learning"
 
 
 
-talk_abstract: "..."
 
-about_author: ""
+talk_abstract: "In this workshop we will go hands on with container workflows for Python developers. Expect something for everyone -- whether you are looking to containerize your first Python application, already run your own Kubernetes cluster, need to wrangle mountains of ML, or prefer "CI/CD to do it for me". Let's explore how containers and the cloud can make hard things easy and developers more productive with real-world scenarios and techniques that you will start using today.
 
-talk_metadata: ""
+"
 
+about_author: "Aaron is a Senior Cloud Advocate at Microsoft with over a decade of software development, systems architecture & security experience across the major clouds, industries, and developer communities. His current areas of focus on the Cloud Advocacy Open Source Engineering team include Open Source, Go, Python, Containers and Kubernetes. Aaron and his wife currently live in Toronto, Canada with their two boys and a fish."
+
+talk_metadata: 
+
+    - "**Date:** Saturday Nov. 16"
+
+    - "**Location:** Clipper Room"
+
+    - "**Begin time:** 13:30"
+
+    - "**Duration:** 55 minutes"
