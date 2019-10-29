@@ -24,24 +24,27 @@
         {
             "time_start": "10:30",
             "time_stop": "10:55",
-            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1 (Concert Hall)",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "155"
 
                 },
                 {
-                    "location": "Talk room #2 (Sky Room)",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "44"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "179"
                 },
                 {
                     "location": "Tutorial (Clipper Room)",
+                    "duration": "55 mins",
                     "ref": "122"
                 }
             ]
