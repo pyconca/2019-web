@@ -2,21 +2,22 @@
 # YAML was selected because we can use multi-line strings and add
 # comments in the file.
 
-speaker_name: "Rachel Wang and Jordan Pedersen"
+speaker_name: "Jordan Pedersen and Rachel Wang"
 
 talk_title: "Data insights from linked data"
 
 # At least 1 tag is necessary!!
 talk_tags:
-- "Machine Learning & Data Science"
+- "Data Science"
 
 
 
-talk_abstract: "Our entire world wide web already is composed of linked data. It is not surprising that cultural instutions which provide and curate open data, such as our libraries, archives and museums have begun to transform their metadata into linked data.  In this talk we will explain why linked data is powerful and demonstrate the process of how to extract data insights from it using the python modules RDFlib and plotly. RDFlib is a powerful library used for working with triple data and representing information. As we will learn in this talk, linked data is queried with a query language called SPARQL which is supported by the RDFlib library. We’ll move from parsing data and then bring out your inner artist with plotly to create visualizations. The plot will thicken when we briefly touch upon how machine learning can be applied to linked data and the ways in which working with linked metadata is different and has unique promises not present in other forms of linked data. By the end of this talk you will be able to see for yourself how to draw relationships out of open linked data and the vale of communicating the relationships visible in linked data."
+talk_abstract: "Our entire world wide web already is composed of linked data. In this talk we will demonstrate how python module RDFlib is able to traverse and parse linked data. As we will learn in this talk, linked data is queried with a query language called SPARQL which is supported by the RDFlib library. We will also show you how to level up your data insights by introducing graph databases. By the end of this talk you will be able to see for yourself draw relationships out of open linked data, as well as the unique value of communicating the relationships from linked data."
+about_author: 
+"Jordan Pedersen is the Metadata Librarian at the University of Toronto Libraries, and an enthusiastic newbie to python. She is passionate about teaching technical skills and breaking down the barriers to learning new skills. As a Certified Library Carpentry Instructor she has taught a variety of workshops, such as SQL, regex, OpenRefine, and FAIR data practices, for a wide range of audiences. She likes to balance her work life with lots of doodling. For more information about Jordan’s current projects feel free to contact her at jordan.pedersen@utoronto.ca
 
-about_author: "Rachel Wang is a Software Developer and Pythonista at the University of Toronto Libraries. She regularly uses Python to support ETL and data heavy tasks at the library. When away from the keyboard she enjoys helping others learn technical skills as an instructor with the Software Carpentry community. Rachel is also a co-organizer for a meetup called Code4Lib Toronto which brings together communities from libraries, museums, archives and technology all in one room. When she isn’t using Python, Golang and Vue.js are always on her mind. You can find her @rwangca.
+Rachel Wang is a Software Developer and Pythonista at the University of Toronto Libraries. She uses Python to support ETL and data heavy tasks at the library. When away from the keyboard she enjoys helping others learn technical skills as a Certified Software Carpentry Instructor. Rachel is also a co-organizer for a meetup called Code4Lib Toronto and when she isn’t using Python, Golang and Vue.js are always on her mind. You can find her @rwangca."
 
-Jordan Pedersen, metadata librarian at the University of Toronto libraries, and enthusiastic newbie to python. I am a certified carpentries instructor, regular participant at Code4Lib Toronto, and huge proponent of the connection between tech and creativity. I also love to balance my technically-focused work life with non-technical things, like hiking, doodling, and hanging out with animals (specifically cows, chickens and llamas)."
 
 talk_metadata:
 
