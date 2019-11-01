@@ -30,8 +30,8 @@
         },
         {
             "time_start": "11:00",
-            "time_stop": "11:25",
-            "duration": "25 mins",
+            "time_stop": "12:30",
+            "duration": "90 mins",
             "type": "talk",
             "rooms": [
                 {
