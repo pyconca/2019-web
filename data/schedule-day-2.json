@@ -31,6 +31,7 @@
         {
             "time_start": "11:00",
             "time_stop": "11:25",
+            "time_stop": "12:30",
             "type": "talk",
             "rooms": [
                 {
@@ -50,7 +51,7 @@
                 },
                 {
                     "location": "Tutorial (Clipper Room)",
-                    "duration": "1 hour and 30 minutes",
+                    "duration": "1 hour 30 minutes",
                     "ref": "T-603"
                 }
             ]
