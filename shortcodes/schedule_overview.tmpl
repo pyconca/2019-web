@@ -8,23 +8,23 @@
                     {% for room in event["rooms"] %}
                         <tr>
                             {% if loop.first %}
-                                <td rowspan="{{ event["rooms"] | length }}">
+                                <td class="time" rowspan="{{ event["rooms"] | length }}">
                                     {{ event["time_start"] }}
                                 </td>
                             {% endif %}
-                            <td class="schedule-table--col-description">
+                            <td class="schedule-table--col-description-keynote">
                                 {{ room["talk_title"] }}
                                 <br/>
                                 {{  room["speaker_name"]  }}
                             </td>
-                            <td>{{ event["duration"] }}</td>
+                            <td class="duration">{{ event["duration"] }}</td>
                         </tr>
                     {% endfor %}
                 {% elif event['type'] == 'talk' %}
                     {% for room in event["rooms"] %}
                         <tr>
                             {% if loop.first %}
-                                <td rowspan="{{ event["rooms"] | length }}">
+                                <td class="time" rowspan="{{ event["rooms"] | length }}">
                                     {{ event["time_start"] }}
                                 </td>
                             {% endif %}
@@ -34,32 +34,32 @@
                                     {{ global_data['talks/' + room['ref']]["talk_title"] }}
                                 </a>
                                 <br/>
-                                {{ room["location"] }}
+                                <b>{{ room["location"] }}</b>
                                 <br/>
                                 {{  global_data['talks/' + room['ref']]['speaker_name']  }}
                             </td>
-                            <td>{{ event["duration"] }}</td>
+                            <td class="duration">{{ room["duration"] }}</td>
                         </tr>
                     {% endfor %}
                 {% elif event['type'] == 'lunch_break' %}
                     <tr>
-                        <td>
+                        <td class="time">
                             {{ event["time_start"] }}
                         </td>
-                        <td class="schedule-table--col-description">
+                        <td class="schedule-table--col-description-keynote">
                             {{ messages("Lunch") }}
                         </td>
-                        <td>{{ event["duration"] }}</td>
+                        <td class="duration">{{ event["duration"] }}</td>
                     </tr>
                 {% elif event['type'] == 'break' %}
                     <tr>
-                        <td>
+                        <td class="time">
                             {{ event["time_start"] }}
                         </td>
-                        <td class="schedule-table--col-description">
+                        <td class="schedule-table--col-description-keynote">
                             {{ event["title"] }}
                         </td>
-                        <td>{{ event["duration"] }}</td>
+                        <td class="duration">{{ event["duration"] }}</td>
                     </tr>
                 {% endif %}
             {% endfor %}

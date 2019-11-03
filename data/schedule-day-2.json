@@ -30,24 +30,28 @@
         },
         {
             "time_start": "11:00",
+            "time_stop": "11:25",
             "time_stop": "12:30",
-            "duration": "90 mins",
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "378"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "87"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "169"
                 },
                 {
                     "location": "Tutorial (Clipper Room)",
+                    "duration": "1 hour 30 minutes",
                     "ref": "T-603"
                 }
             ]
@@ -55,24 +59,22 @@
         {
             "time_start": "11:40",
             "time_stop": "12:05",
-            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "211"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "25"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "23"
-                },
-                {
-                    "location": "Tutorial (Clipper Room)",
-                    "ref": "T-603"
                 }
             ]
         },
@@ -83,20 +85,19 @@
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "225"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "88"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "82"
-                },
-                {
-                    "location": "Tutorial (Clipper Room)",
-                    "ref": "T-603"
                 }
             ]
         },
@@ -122,23 +123,26 @@
         {
             "time_start": "14:45",
             "time_stop": "15:10",
-            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "180"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "112"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "11"
                 },
                 {
                     "location": "Tutorial Room",
+                    "duration": "55 mins",
                     "ref": "114"
                 }
             ]
@@ -146,47 +150,48 @@
         {
             "time_start": "15:25",
             "time_stop": "15:50",
-            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "86"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "153"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "147"
-                },
-                {
-                    "location": "Tutorial Room",
-                    "ref": "114"
                 }
             ]
         },
         {
             "time_start": "16:05",
             "time_stop": "16:30",
-            "duration": "25 mins",
             "type": "talk",
             "rooms": [
                 {
-                    "location": "Talk room #1",
+                    "location": "Concert Hall",
+                    "duration": "25 mins",
                     "ref": "100"
                 },
                 {
-                    "location": "Talk room #2",
+                    "location": "Sky Room",
+                    "duration": "25 mins",
                     "ref": "97"
                 },
                 {
                     "location": "PyData Track (Round Room)",
+                    "duration": "25 mins",
                     "ref": "33"
                 },
                 {
                     "location": "Tutorial (Clipper Room)",
+                    "duration": "25 mins",
                     "ref": "T-600"
                 }
             ]

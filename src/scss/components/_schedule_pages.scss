@@ -7,13 +7,32 @@ Styles for the schedule table
 
     .schedule-table--col-description {
         padding: 3rem;
+        font-size: 1rem;
     }
+}
+
+
+.schedule-table--col-description-keynote {
+    padding: 3rem;
+    color: #6AC6B7;
+    font-size: 1.5rem;
+
 }
 
 .schedule-table td {
     border: 1px solid #aeaeae;
 }
 
+.time {
+  font-size: 1.5rem;
+  width: 20%;
+  color: #C42A48;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  text-align: center;
+
+
+}
 .schedule-date-sticky {
     position: sticky;
     top: $navbar-height;
@@ -167,7 +186,7 @@ Styles for the schedule table
         background-color: black;
         text-transform: lowercase;
         border: 2px solid black;
-        border-radius: 15px; 
+        border-radius: 15px;
         color: white;
         margin: 5px auto;
         font-size: 0.8rem;
