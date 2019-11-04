@@ -14,7 +14,7 @@ talk_tags:
 
 talk_abstract: "The game engine, Ren'Py, is an open source engine used to make countless interactive fiction games, also known as visual novels. I learned to program in Python using this engine and have released a commercial game with it. The talk will dig into the source code of the engine, and explore topics such as classes for user-defined animations, live demo of customizing the game engine, plus more cool stuff."
 
-about_author: "Susan Chang is a data scientist at Bell Canada by day and game developer by night. Python for both!"
+about_author: "Susan Chang is a game developer by night, having shipped a game on Steam recently, and a data scientist in the telecommunications space by day. Python for both!"
 
 talk_metadata:
 
