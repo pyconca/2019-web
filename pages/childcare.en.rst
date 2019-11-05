@@ -5,7 +5,7 @@
 
 
 
-We are hoping to provide childcare at Pycon Canada 2019. If you are interested in taking part in the service, please fill out this form so we can get a headcount by Oct. 21.
+Thank you for your interest in PyCon Canada childcare. Unfortunately, we are unable to accomdate any more children! 
 
 .. raw:: html
 
