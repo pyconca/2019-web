@@ -5,7 +5,7 @@
 
 
 
-Thank you for your interest in PyCon Canada childcare. Unfortunately, we are unable to accomdate any more children! 
+Thank you for your interest in PyCon Canada childcare. Unfortunately, we are unable to accommodate any more children. 
 
 .. raw:: html
 
