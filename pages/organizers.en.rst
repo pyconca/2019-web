@@ -115,3 +115,14 @@
    linkedin_url='https://www.linkedin.com/in/abrahamvarricatt/'
    description='Helped to build the website you see. Is a software designer at heart. Loves programming and fun challenges. Enjoys teaching others how to use computers and code. A family man blessed with a loving wife.'
 %}}
+
+{{% organizer_details
+   name='Ashia Zawaduk'
+   pycon_title='Organizer'
+   photo='/images/organizers/ashia.jpg'
+   twitter_url='https://twitter.com/ashiazed'
+   github_url='https://github.com/ashiazed'
+   personal_url='https://ashia.ca/'
+   linkedin_url='https://www.linkedin.com/in/ashia-zawaduk-4817004b/'
+   description='She works as a Senior Software Engineer, organizes EdmontonPy and is part of the DevEdmonton community project'
+%}}
