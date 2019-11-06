@@ -12,7 +12,7 @@ talk_tags:
 
 
 
-talk_abstract: "How many times has a library just handed you a big-ol' messy bag of data? You know, when a function hands you an imprecise dict, or an overlong tuple? What are you supposed to do with that? 
+talk_abstract: "How many times has a library just handed you a big-ol' messy bag of data? You know, when a function hands you an imprecise dict, or an overlong tuple? What are you supposed to do with that?
 
 Python has great default data structures, but until recently it hasn't come with a lot of great support for *structuring data*; that is, the available options rarely encourage the right thing, which is often a custom made data structure, or *record* type. But there are libraries and modern features to help with this problem and allow you to export neatly organized types quickly and easily. These tools make it easier to box up your data and give it to consumers in a neat, friendly, and controlled way."
 
@@ -24,6 +24,6 @@ talk_metadata:
 
     - "**Location:** Sky Room"
 
-    - "**Begin time:** 15:25"
+    - "**Begin time:** 12:20"
 
-    - "**Duration:** 30 minutes"
+    - "**Duration:** 25 minutes"
