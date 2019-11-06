@@ -85,7 +85,7 @@
                 {
                     "location": "Sky Room",
                     "duration": "25 mins",
-                    "ref": "160"
+                    "ref": "123"
                 },
                 {
                     "location": "PyData Track (Round Room)",
@@ -173,7 +173,7 @@
                 {
                     "location": "PyData Track (Round Room)",
                     "duration": "25 mins",
-                    "ref": "157"
+                    "ref": "160"
                 },
                 {
                     "location": "Tutorial (Clipper Room)",
