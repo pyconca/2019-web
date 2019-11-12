@@ -197,18 +197,18 @@
             ]
         },
         {
-            "time_start": "16:30",
-            "time_stop": "16:45",
+            "time_start": "16:45",
+            "time_stop": "17:00",
             "duration": "15 mins",
             "type": "break",
             "title": "Closing remarks"
         },
         {
-            "time_start": "16:45",
+            "time_start": "17:00",
             "time_stop": "18:00",
             "duration": "50 mins",
             "type": "break",
-            "title": "mingle time"
+            "title": "Mingle time"
         }
     ]
 }
