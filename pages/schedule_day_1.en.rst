@@ -7,13 +7,26 @@
 
 .. raw:: html
 
-    <div class="text-center">
-        <a class="blue-button" href="/static/pyconca2019_schedule.csv" target="_blank">
-            <span>Download schedule as CSV!</span>
-        </a>
-    <div>
-    <br />
+  <div class="row">
+          <div class="col text-center">
 
+              <span class="mx-2">
+                  <a class="blue-button" href="/static/pyconca2019_schedule.csv">
+                  <span>Download schedule as CSV!</span>
+                  </a>
+              </span>
+
+
+              <span class="mx-2">
+                  <a class="red-button" href="https://github.com/pyconca/2019-wiki/wiki/tutorials" target="_blank">
+                  <span>Sign up for tutorials</span>
+                  </a>
+              </span>
+
+          </div>
+      </div>
+      <br/>
+      
 {{% schedule_banner_day_1
     text_1='2019/November/16'
     link_1='/schedule-day-1'
