@@ -4,7 +4,7 @@
 
 speaker_name: "Jonathan Rioux"
 
-talk_title: "PySpark: avoiding common pitfalls and keeping your sanity"
+talk_title: "Avoiding common pitfalls and working effectively with PySpark"
 
 # At least 1 tag is necessary!!
 talk_tags:
