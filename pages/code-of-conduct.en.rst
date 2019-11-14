@@ -91,8 +91,8 @@ individuals:
                 <td>+1 (416) 834-5960</td>
             </tr>
             <tr>
-                <td>Francis Deslauriers</td>
-                <td>+1 (514) 974-0018</td>
+                <td>Chris Fournier</td>
+                <td>+1 (613) 581-9435</td>
             </tr>
             <tr>
                 <td>Elaine Wong</td>
