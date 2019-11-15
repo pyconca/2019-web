@@ -1,0 +1,27 @@
+# Talk details are specified in YAML files
+# YAML was selected because we can use multi-line strings and add
+# comments in the file.
+
+speaker_name: "Lucas Durand"
+
+talk_title: "Building a Python community from the bottom up"
+
+# At least 1 tag is necessary!!
+talk_tags:
+- "Machine Learning & Data Science"
+
+
+
+talk_abstract: "Highlights include: a beautiful burgeoning python community, integrating with logging/monitoring stacks, police bots, collaboration tools, so many visualizations, and a real pipeline to get from ideation to realization. Providing an end-user computing environment for on-demand Data Science capabilities in a heavily regulated industry comes with inherent challenges. Not only are we trying to appeal to industry professionals from different backgrounds, from software developers to machine learning and analytics experts, we also want to appeal to first-time users that might not have the permissions or know-how to set up a local python installation. All of them are important members of the growing python community with different goals and needs. We think the answer to this is to give everyone python, no questions asked. Regulatory concerns are handled with a custom implementation of JupyterHub, which we also extend to form the backbone of a complete solution delivery pipeline."
+
+about_author: "I owe everything to python -- from exploring particle astrophysics simulations of dark matter, automating my tinder swiping, and more recently to propping up an enterprise data science and analytics platform -- python makes it happen."
+
+talk_metadata:
+
+    - "**Date:** Sunday Nov. 17"
+
+    - "**Location:** Round Room"
+
+    - "**Begin time:** 16:05"
+
+    - "**Duration:** 25 minutes"
