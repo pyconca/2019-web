@@ -12,9 +12,9 @@ talk_tags:
 
 
 
-talk_abstract: "Calculate mel spectrograms from human voices using python and train an algorithm to compare human voices"
+talk_abstract: "Start your audio analysis journey using Python and Keras. We will convert voice samples into vectors that capture the similarity between voices using MFCC and Convolutional Neural Networks. No audio or deep learning experience required."
 
-about_author: "Data Scientist - Machine Learning engineer using Python for the last 5 years in fraud detection and pattern recognition."
+about_author: "Data Scientist - Machine Learning engineer in fraud detection and pattern recognition"
 
 talk_metadata:
 
