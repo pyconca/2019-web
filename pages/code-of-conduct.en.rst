@@ -96,7 +96,7 @@ individuals:
             </tr>
             <tr>
                 <td>Elaine Wong</td>
-                <td>+1 (647) 639-7740</td>
+                <td>+1 (647) 560-2925</td>
             </tr>
         </tbody>
     </table>
