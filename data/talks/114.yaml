@@ -4,7 +4,7 @@
 
 speaker_name: "Kyle Kotowick, Ph.D."
 
-talk_title: "A need for speed: accelerating your math with vectorization and Numpy"
+talk_title: "A Need for Speed: Accelerating your math with vectorization and NumPy"
 
 # At least 1 tag is necessary!!
 talk_tags:
@@ -28,6 +28,6 @@ talk_metadata:
     
     - "**Tutorial Code:** <a href='https://github.com/kkotowick/need-for-speed' target='_blank'>https://github.com/kkotowick/need-for-speed</a>"
     
-    - "**Contact the Speaker:** <a href='mailto:kotowick@imperative.systems' target='_blank'>kotowick@imperative.systems</a>"
+    - "**Contact the Speaker:** <a href='mailto:kotowick@imperative.systems' target='_blank'>kotowick@imperative.systems</a>, <a href='https://www.linkedin.com/in/kyle-kotowick/' target='_blank'>LinkedIn</a>"
     
     - "**Sign-up:** Please sign up for this tutorial on the <a href='https://github.com/pyconca/2019-wiki/wiki/tutorials' target='_blank'>wiki here.</a>"
