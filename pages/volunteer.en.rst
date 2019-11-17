@@ -1,12 +1,12 @@
-.. title: Volunteering at PyCon Canada 2019
+.. title: Volunteering at PyCon Canada 2020
 .. slug: volunteer
 .. date: 2019-09-24 20:27:22 UTC+04:00
 .. type: text
 
-We're all looking forward to the great conference in November. The organizing team is working hard to make this happen, but we can't do it alone.
+Would you like to help organize PyconCA in 2020? It isn't easy to prepare for such a big conference and we're always looking for volunteers to help out!
 
-Volunteers must be registered to volunteer, but we welcome all attendees to lend a hand. We appreciate any assistance you can give us.
+You can sign up using the following form,
 
 .. raw:: html
 
-    <a class="btn btn-lg btn-primary" href="https://forms.gle/YNhkhbVjtEDCX9hP6" target="_blank">Volunteer for PyCon Canada</a>
+    <a class="btn btn-lg btn-primary text-center" href="https://forms.gle/YNhkhbVjtEDCX9hP6" target="_blank">Volunteer for PyCon Canada</a>
