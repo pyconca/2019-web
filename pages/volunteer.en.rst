@@ -9,4 +9,4 @@ You can sign up using the following form,
 
 .. raw:: html
 
-    <a class="btn btn-lg btn-primary" href="https://forms.gle/YNhkhbVjtEDCX9hP6" target="_blank">Volunteer for PyCon Canada</a>
+    <a class="btn btn-lg btn-primary" href="https://forms.gle/gBtwuqqZsajrt6L6A" target="_blank">Volunteer for PyCon Canada 2020</a>
