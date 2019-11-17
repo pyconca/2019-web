@@ -1,4 +1,4 @@
-.. title: Volunteering at PyCon Canada 2020
+.. title: Volunteering for next year's PyconCA!
 .. slug: volunteer
 .. date: 2019-09-24 20:27:22 UTC+04:00
 .. type: text
@@ -9,4 +9,4 @@ You can sign up using the following form,
 
 .. raw:: html
 
-    <a class="btn btn-lg btn-primary text-center" href="https://forms.gle/YNhkhbVjtEDCX9hP6" target="_blank">Volunteer for PyCon Canada</a>
+    <a class="btn btn-lg btn-primary" href="https://forms.gle/YNhkhbVjtEDCX9hP6" target="_blank">Volunteer for PyCon Canada</a>
