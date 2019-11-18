@@ -25,6 +25,27 @@
     <p>
     Want to go deeper? Join us Monday and Tuesday (November 18-19)  for development sprints, where you and your fellow Python enthusiasts can work on open source and personal projects in a fun group atmosphere.
     </p>
+    
+    <p>
+        <div id="CommunityInviter"></div>
+        <script>
+          window.CommunityInviterAsyncInit = function () {
+            CommunityInviter.init({
+                app_url:'join',
+                team_id:'pycon-sprints'
+            })
+          };
+
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "https://communityinviter.com/js/communityinviter.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'Community_Inviter'));
+</script>
+
+    </p>
     '
 %}}
 
